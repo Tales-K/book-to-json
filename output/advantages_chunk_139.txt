@@ -1,0 +1,100 @@
+-
+ticos, como Detectar. A ampliação cus-
+ta  +150%,  mais  +50%  adicionais  para  
+cada sentido afetado depois do primei
+-
+ro; ex.: Base Visual mais Base Auditiva 
+tem um valor de +200%.
+O  ataque  só  afeta  indivíduos  que  
+usam  o  sentido  visado.  Por  exemplo,  
+um  ataque  com  Base  Visual  não  afeta  
+uma  pessoa  cega  ou  com  os  olhos  fe
+-
+chados  ou  cobertos  e  um  ataque  com  
+Base Olfativa não funciona sob a água 
+ou  em  um  alvo  com  uma  máscara  de  
+oxigênio.   Vantagens   (como   Sentido   
+Protegido, pág. 88) e equipamentos que 
+protegem o sentido em questão anulam 
+o ataque completamente ou, no caso de 
+ataques que permitem um teste para re
+-
+sistir (como Atribulações, Imprecações 
+e  ataques  Resistíveis),  concedem  um  
+bônus no teste de resistência.
+O  ataque  com  Base  Sensorial  mais  
+comum é uma Atribulação que arruína 
+o  sentido  no  qual  se  baseia;  por  exem
+-
+plo,  uma  Atribulação  (Cegueira;  Base  
+Visual)  causada  por  um  raio  cegan
+-
+te  de  luz.  No  entanto,  os  ataques  com  
+Base  Sensorial  também  podem  ser  le
+-
+tais, como o grito de uma banshee ou o 
+olhar de um basilisco.
+Base Sensorial é um “modificador de 
+penetração”:  não  é  permitido  combiná
+-
+-lo com outros modificadores do mesmo 
+tipo, como Acompanhamento (pág. 102).
+Exceção:  É  possível  combinar  Base  
+Sensorial  com  Imprecação  (pág.  106).  
+Nesse caso — ou quando o ataque é adi
+-
+cionado a uma habilidade que já ignora 
+a RD (ex.: Controle da Mente ou Leitura 
+da Mente) — a Base Sensorial se torna 
+uma limitação.  Ela  vale  -20%  se  fun
+-
+cionar  contra  um  único  sentido,  -15%  
+contra dois sentidos e -10% contra três 
+sentidos.  Se  funcionar  contra  mais  de  
+três sentidos, não se trata de uma limi
+-
+tação significativa.
+Baseado em (Atributo 
+Diferente) 6
++20%
+Esta  ampliação  só  está  disponível  
+para  habilidades  que  permitem  um  tes
+-
+te de resistência contra ST, DX, IQ, HT, 
+Percepção  ou  Vontade.  Ela  retira  esse  
+teste  do  atributo  ou  característica  nor
+-
+mal e o aplica a outro, especificados no 
+momento  em  que  a  ampliação  é  esco
+-
+lhida.  Isso  é  considerado  uma  amplia-
+ção  porque  permite  que  o  personagem  
+aprimore a habilidade a fim de torná-la 
+mais  eficaz  contra  alvos  com  fraquezas  
+conhecidas.
+Ao  usar  uma  característica  ampliada,  é  
+necessário usar todas as suas ampliações, a 
+menos que uma em particular — ou a própria 
+característica — permita explicitamente que 
+uma ampliação seja “desativada”
+
+vantagens
+104
+Cíclico 6
+Variável
+Esta  ampliação  só  está  disponível  
+para  Ataques  Inatos  que  causam  dano  
+por  queimadura,  corrosão,  fadiga  ou  
+toxina.  Ela  representa  um  ataque  que  
+se  mantém  na  vítima:  ácido,  doença,  
+fogo líquido, veneno, etc. (para ataques 
+que  se  mantêm  no  ambiente,  consulte  
+Persistente, pág. 108).
+Um  ataque  Cíclico  causa  o  dano  
+normal,  mas,  uma  vez  que  o  alvo  foi  
+exposto, o dano se repete depois de um 
+intervalo de tempo! Todos os modifica
+-
+dores  de  penetração  (ex.:  Contato  ou  
+Acompanhamento)  ainda  se  aplicam;  
+exemplo, um ataque Cíclico com Acom

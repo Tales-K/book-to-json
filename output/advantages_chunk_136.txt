@@ -1,0 +1,100 @@
+Atribulação e Retenção e a vantagens modificadas com a ampliação Longa 
+Distância (pág. 107). Elas são chamadas de modificadores de “ataque”. Al
+-
+gumas delas apresentam restrições adicionais; ex.: Divisor de Armadura se 
+aplica apenas a Ataque Inato e Atribulação. As ampliações e limitações de 
+ataque são indicadas com o símbolo 6.
+Ativando e Desativando Ampliações
+Ao  usar  uma  característica  ampliada,  é  necessário  usar  todas  as  suas  
+ampliações, a menos que uma em particular — ou a própria característica 
+—  permita  explicitamente  que  uma  ampliação  seja  “desativada”  (as  ha
+-
+bilidades adicionais concedidas por muitas ampliações podem não surtir 
+efeito em determinadas situações, mas ainda assim estão sempre ativadas). 
+Para conseguir escolher quais ampliações estão “ativadas” num dado mo
+-
+mento, adquira Seletividade (pág. 109).
+ampliações
+É possível aplicar ampliações a van-
+tagens  e,  mais  raramente,  a  atributos  
+básicos  e  características  secundárias.  
+O Mestre pode até permitir ampliações 
+específicas em certas perícias, mas isso é 
+difícil de justificar, a menos que a perícia 
+funcione como uma vantagem (o que às 
+vezes acontece no caso dos não-humanos 
+que possuem perícias raciais inatas).
+Acompanhamento 6
+Variável
+Os efeitos do ataque do personagem 
+são  transportados  por  um  “portador”.  
+Utilize  isso  para  representar  o  veneno  
+em um dardo, um explosivo num projétil 
+perfurante de armadura, etc. Escolha um 
+ataque diferente como portador que pode 
+ser tanto um armamento corporal (ex.: 
+Garras  ou  Dentes)  quanto  um  Ataque  
+Inato (geralmente que causa dano por 
+corte, perfuração ou perfurante).
+O  ataque  de  Acompanhamento  só  
+determina  a  quantidade  e  o  tipo  de  
+dano. Todos os outros detalhes depen
+-
+dem  do  ataque  portador.  O  ataque  de  
+Acompanhamento  só  afeta  o  alvo  se  o  
+ataque  portador  também  atingi-lo.  Se  
+o  ataque  portador  atravessar  a  RD  do  
+alvo, então a RD não surte mais efeito 
+sobre  o  dano  causado  pelo  ataque  de  
+Acompanhamento nem sobre eventuais 
+testes de HT.
+Se o ataque portador for feito com uma 
+arma natural, como Garras ou Dentes, o 
+Acompanhamento será uma ampliação 
+com valor de +0% (exceção: durante um 
+ataque passivo realizado pelo portador, 
+como Espinhos, o Acompanhamento é 
+uma limitação de -50%).
+Se o ataque portador for um Ataque 
+Inato,  o  custo  do  Acompanhamento  
+depende dos modificadores do primeiro 
+ataque. Esse custo é igual à soma dos cus-
+tos de quaisquer modificadores a seguir 
+que se apliquem ao ataque portador: 
+Alcance Ampliado, Alcance Reduzido, 
+Apenas  em  Emergências,  Apenas  
+Inconsciente, Ataque Corpo a Corpo, 
+Aura, Cone, Emanação, Flutuação, Fogo 
+Contínuo, Gasto Adicional de Tempo, 
+Guiado,  Imprecação,  Inconstante,  
+Incontrolável, Jato, Recuo Adicional, 
+Requer Preparo, Requer Recarga, Sempre 
+Ativa, Teleguiado e Uso Limitado. Se 
+nenhum desses modificadores for aplicado 
+ao ataque portador, o Acompanhamento 
+custa  +0%.  Observe  que  o  ataque  de  
+Acompanhamento em si não pode receber 
+nenhum desses modificadores. Isso ocorre 
+apenas com o ataque portador.
+O Acompanhamento é um “modifica-
+dor de penetração”: não é possível combi-
+ná-lo com outros modificadores do mesmo 
+tipo (embora o ataque portador possa).
+Acurado 6
++5%/nível
+O ataque do personagem é excep-
+cionalmente  preciso.  Cada  bônus  de  
++1  em  Precisão  constitui  em  uma  
+ampliação de +5%.
+Afeta a Matéria
++40%
+A  habilidade  do  personagem  afeta  
+alvos  substanciais,  até  mesmo  quando  
+ele  é  insubstancial.  Ela  também  afeta  
+criaturas  insubstanciais  normalmente  
+(não  acrescente  essa  ampliação  a  má
+-
+gicas  ou  habilidades  psíquicas;  elas  já  
+afetam o mundo material com uma pe
+-
+nalidade de -3).

@@ -1,0 +1,100 @@
+apenas uma noção vaga do tamanho do 
+lugar, mas seria capaz de sentir uma bar
+-
+reira antes de tocar nela e de encontrar 
+fendas ao sentir o fluxo da água e do ar.
+Para usar esta vantagem, o personagem 
+deve fazer um teste de Sentidos. Consulte 
+a Tabela  de  Tamanho  e  Velocidade/Distân
+-
+cia  (pág.  550)  e  aplique  bônus  separados 
+para  o  tamanho  e  a  velocidade  do  alvo  e  
+uma  penalidade  para  a  distância  até  ele.  
+O vento (no ar) ou correntes (na água) ge
+-
+ram “ruídos” que interferem no sentido do 
+personagem. Encontre a velocidade desses 
+elementos na tabela e determine a penali
+-
+dade relevante de velocidade.
+Um sucesso no teste revela de maneira 
+aproximada  o  tamanho,  a  localização,  a  
+velocidade e a direção do movimento do 
+alvo.  Ele  não  fornece  qualquer  informa
+-
+ção  sobre  o  formato,  cor,  etc.  do  objeto.  
+Depois  de  ter  detectado  algo,  o  persona
+-
+gem pode visá-lo com um ataque. Os mo-
+dificadores  que  foram  aplicados  ao  teste  
+de Sentidos também são usados na joga
+-
+da de ataque — exceto que nunca devem 
+resultar em um bônus para atingir o alvo.
+Observe  que  se  o  personagem  não  
+estiver  em  contato  com  o  elemento  
+(água  ou  ar)  que  ativa  sua  habilidade,  
+ou  se  estiver  usando  um  traje  lacrado,  
+essa habilidade não funciona!
+Ampliações Especiais
+Universal: O Sentido de Vibração do 
+personagem  funciona  tanto  na  água  
+quanto no ar. +50%.
+Sentido Protegido 3 1
+5 pontos/sentido
+Um  dos  sentidos  de  longa  distân-
+cia  do  personagem  tem  uma  proteção  
+contra sobrecargas. Ele se adapta rapi
+-
+damente  aos  estímulos  mais  intensos,  
+permitindo  que  o  personagem  aja  nor
+-
+malmente  depois  de  no  máximo  dois  
+segundos  de  debilitação.  Esse  sentido  
+nunca sofre dano permanente como re
+-
+sultado de uma carga sensorial excessi-
+va e o personagem recebe um bônus de 
++5 nos testes para resistir a danos tem
+-
+porários  e  ataques  com  base  sensorial  
+que tenham aquele sentido como alvo.
+Esta  vantagem  custa  5  pontos  por  
+sentido.  Visão  Protegida  resiste  à  luz  
+forte e ofuscante, a dano nos olhos cau
+-
+sados  por  lasers  e  permite  que  Visão  
+no  Escuro,  Infravisão  e  Visão  Noturna  
+se  ajustem  instantaneamente  à  escu
+-
+ridão.  Audição  Protegida  abafa  ruídos  
+intensos. Paladar/Olfato Protegido filtra 
+odores e sabores intensos (mas não to
+-
+xinas).  O  Mestre  pode  permitir  outros  
+Sentidos  Protegidos  (Detectar,  Sentido  
+de Monitoramento, etc.) desde que exis
+-
+ta uma justificativa apropriada.
+Sentidos Aguçados 3
+2 pontos/nível
+O personagem tem sentidos superio-
+res.  Cada  Sentido  Aguçado  representa  
+uma  vantagem  independente  que  con
+-
+cede  um  bônus  de  +1  por  nível  em  to-
+dos os testes de Sentidos (pág. 358) que 
+ele fizer — ou que o Mestre fizer por ele 
+— utilizando esse sentido.
+Audição Aguçada: Dá ao personagem 
+um  bônus  para  ouvir  alguma  coisa  ou  
+perceber  um  ruído  (alguém  tirando  a  
+trava de segurança de uma arma no es
+-
+curo, por exemplo). 2 pontos/nível.
+Paladar/Olfato  Apurado:  Dá  ao  per
+-
+sonagem  um  bônus  para  notar  um  sa-
+bor  ou  cheiro  (veneno  em  sua  bebida,  
+por exemplo). 2 pontos/nível.
+Tato Apurado: O personagem recebe 

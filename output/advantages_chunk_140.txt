@@ -1,0 +1,100 @@
+-
+panhamento continua ignorando a RD. 
+Ainda pior: a vítima não consegue recu
+-
+perar o PV ou PF perdido devido a um 
+ataque  Cíclico  enquanto  o  mesmo  não  
+parar de causar dano!
+O  jogador  precisa  especificar  um  
+conjunto   de   circunstâncias   razoavel
+-
+mente  comuns  que  interrompe  qual-
+quer  dano  adicional  causado  pelo  ata-
+que. Exemplo: para interromper o dano 
+cíclico  causado  por  corrosão  ou  quei
+-
+madura,  a  vítima  precisa  se  lavar  para  
+tirar  o  ácido  da  pele  ou  rolar  no  chão  
+para extinguir as chamas, o que demo
+-
+ra um segundo ou mais e exige um teste 
+de DX ou IQ. O dano por fadiga ou toxi
+-
+na pode exigir a aplicação de remédios 
+ou  cuidados  médicos  (utilize  a  perícia  
+Medicina). Os detalhes ficam a cargo do 
+Mestre.
+O  valor  básico  desta  ampliação  de
+-
+pende do intervalo do dano.
+IntervaloModificador
+1 segundo+100%
+10 segundos+50%
+1 minuto+40%
+1 hora+20%
+1 dia+10%
+Os  ataques  que  provocam  queima-
+dura  ou  corrosão  não  devem  ter  inter-
+valos superiores a 10 segundos. A crité-
+rio do Mestre, um indivíduo que sofrer 
+dano  em  intervalos  de  um  segundo  
+pode  ser  forçado  a  fazer  uma  Verifica
+-
+ção de Pânico!
+Multiplique  o  custo  acima  pelo  nú
+-
+mero de ciclos após o primeiro. O Mes-
+tre  deve  considerar  a  possibilidade  de  
+restringir  muitos  ciclos  para  ataques  
+que  causam  menos  que  1d  ponto  de  
+dano.
+Os  ataques  Cíclicos  geralmente  são  
+Resistíveis (pág. 116); nesse caso, é per
+-
+mitido um teste de resistência adicional 
+para cada ciclo, sendo que um sucesso 
+evita  qualquer  dano  subsequente.  Se  o  
+ataque for Resistível, reduza o custo de 
+Cíclico pela metade.
+Alguns   ataques   Cíclicos   são   con
+-
+tagiosos.   Depois   de   contaminada,   a   
+vítima  pode,  inadvertidamente,  infec
+-
+tar  outras  pessoas  como  descrito  em  
+Enfermidades  (pág.  442).  Isso  aumenta  
+o custo final da ampliação após a apli
+-
+cação de todos os outros fatores: +20% 
+no caso de um ataque “levemente con
+-
+tagioso”  ou  +50%  para  um  “altamente  
+contagioso”.
+Esses   fatores   são   cumulativos.   
+Por  exemplo,  uma  doença  resistível  
+com  31  ciclos  diários  custaria  +10%  
+×  30  ×  1/2  =  +150%.  Se  também  for  
+altamente   contagiosa,   ela   custaria   
++200%.
+Cone 6
+Variável
+O ataque do personagem se espalha 
+de  modo  a  afetar  todos  que  se  encon
+-
+tram  em  uma  área  em  forma  de  cone.  
+Os  cones  usam  regras  especiais; con
+-
+sulte Ataques  de  Área  e  de  Propagação 
+(pág.  413).  Decida  a  largura  máxima  
+do  cone,  em  metros,  quando  estabele
+-
+cer a distância máxima do ataque. Esta 
+ampliação custa +50%, mais +10% para 
+cada metro da largura máxima.
+Não  é  possível  combinar  Cone  com  
+Acurado, Ataque Corpo a Corpo, Aura, 
+Efeito de Área, Emanação, Fogo Contí
+-
+nuo, Impreciso ou Jato.
+
+vantagens

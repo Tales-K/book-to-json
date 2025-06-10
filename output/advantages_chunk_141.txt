@@ -1,0 +1,100 @@
+105
+2
+Cósmica
+Variável
+A habilidade do personagem funcio-
+na num “nível superior” ao comum do 
+cenário.  Isso  permite  que  ela  funcione  
+em quaisquer circunstâncias e possivel
+-
+mente ignore até mesmo os poderes ini-
+migos!  O  valor  da  ampliação  depende  
+da característica subjacente:
+Ataque  com  efeito  especial  prolon-
+gado.  O  ataque  do  personagem  tem  
+um  efeito  duradouro  que  só  pode  
+ser  contra-atacado  por  outro  Poder  
+Cósmico;  ex.:  um  Ataque  Inato  fla
+-
+mejante que causa incêndios que não 
+podem ser extintos com água ou um 
+Ataque  Inato  tóxico  que  causa  um  
+dano  Cíclico  (mais  adiante)  que  não  
+pode  ser  curado  pela  tecnologia  mé
+-
+dica.  Isso  não  anula  a  proteção  do  
+alvo!  A  RD  continua  afetando  o  Ata
+-
+que Inato, ainda é permitido um teste 
+de HT no caso de um ataque Resistí
+-
+vel (pág. 116), etc. +100%.
+Ataque  irresistível.  O  ataque  do  per-
+sonagem anula a proteção do alvo; ex.: 
+um  Ataque  Inato  que  ignora  a  RD  ou  
+um Controle da Mente que ignora o Es
+-
+cudo Mental. O alvo ainda pode tentar 
+usar uma defesa ativa contra o ataque, 
+se  isso  for  apropriado.  Não  é  possível  
+combinar  esta  ampliação  com  outros  
+“modificadores  de  penetração”,  como  
+Acompanhamento (pág. 102). +300%.
+Defesa  ou  contramedida.  A  caracte
+-
+rística  defensiva  em  questão  concede  
+normalmente   seus   benefícios   contra   
+habilidades ofensivas modificadas com 
+a ampliação Cósmica. +50%.
+Uma habilidade que não seja um ata
+-
+que ou defesa. A habilidade do persona-
+gem não sofre as restrições de sempre. 
+Exemplo:  uma  vantagem  Cura  capaz  
+de  eliminar  doenças  “incuráveis”,  uma  
+Insubstancialidade  que  permite  que  o  
+personagem   atravesse   barreiras   que   
+normalmente bloqueariam outros seres 
+insubstanciais   ou   uma   Metamorfose   
+imune às anulações causadas por influ
+-
+ências externas. +50%.
+Custo em Pontos de 
+Fadiga Reduzido
++20%/nível
+Esta  ampliação  só  pode  ser  apli-
+cada   a   habilidades   que   custam   PF   
+(nunca  junto  com  o  modificador  es
+-
+pecial  “Normalmente  Ativa”).  É  pos-
+sível  comprá-la  quantas  vezes  quiser.  
+Cada  nível  reduz  em  1  PF  o  custo  da  
+habilidade em questão. Se for possível 
+“manter”  a  habilidade  gastando  pon
+-
+tos  de  fadiga  regularmente,  o  custo  
+dessa manutenção também é reduzido 
+da mesma forma.
+De Cima 6
++30%
+O   ataque   altera   seu   ângulo   para   
+atingir  um  lado  diferente  do  alvo  —  
+geralmente  a  parte  superior.  Ele  evita  
+qualquer  esconderijo  que  não  tenha  
+proteção  por  cima  e  anula  as  penali
+-
+dades de ataque para atingir alvos que 
+se   encontrem   ajoelhados,   deitados,   
+agachados ou sentados. (Se o persona
+-
+gem  já  se  encontrar  acima  ou  abaixo  
+do alvo, ajuste a ampliação de acordo.) 
+Use  esta  ampliação  para  representar  
+uma chuva de fogo, um míssil que sobe 
+e depois desce no último instante, uma 
+granada que explode no ar, etc.
+Divisor de Armadura 6
+Variável
+O ataque do personagem é capaz de 
+perfurar  blindagens  com  mais  eficiên
+-

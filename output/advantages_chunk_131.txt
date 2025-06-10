@@ -1,0 +1,100 @@
+Para  usar  este  talento,  o  persona
+-
+gem  precisa  se  concentrar  durante  
+um minuto. O jogador deve então des
+-
+crever  a  cena  visualizada  (que  pode  
+incluir sentidos diferentes da visão) e 
+os resultados esperados. Em seguida, 
+ele faz um teste de IQ.
+O  personagem  recebe  um  bônus  
+de  +1  na  ação  visualizada  para  cada  
+ponto na margem de sucesso do tes
+-
+te  se  as  circunstâncias  forem  qua-
+se  idênticas  às  visualizadas.  Se  elas  
+não  forem  exatamente  as  mesmas,  o  
+que  normalmente  acontece,  o  bônus  
+é  reduzido  pela  metade  (no  mínimo  
++1).  Por  outro  lado,  se  alguma  coisa  
+for  gritantemente  diferente,  divida  o  
+bônus por 3 (sem um valor mínimo). 
+O  Mestre  pode  atribuir  um  bônus  
+adicional  de  no  máximo  +2  ou  uma  
+penalidade  de  qualquer  valor  para  
+uma descrição boa ou ruim!
+Voo 3 1
+40 pontos
+O  personagem  é  capaz  de  voar.  Por  
+definição  o  voo  é  autoimpulsionado  e  
+não  implica  em  asas  ou  superfícies  de  
+planagem.  A  vantagem  funciona  em  
+qualquer  altitude  onde  exista  alguma  
+atmosfera,  mas  o  personagem  ainda  
+precisa sobreviver de alguma forma ao 
+frio e ar rarefeito das atmosferas supe
+-
+riores  (ex.,  Não  Respira  e  Tolerância  à  
+Temperatura).  O  personagem  não  con
+-
+segue  voar  em  atmosferas  sem  ar  nem  
+no vácuo.
+O Deslocamento do personagem em 
+voo  é  igual  à  sua  Velocidade  Básica  ×  
+2; descarte todas as frações). Conforme 
+
+vantagens
+99
+2
+explicado  no  parágrafo  Deslocamento 
+em  Outros  Ambientes  (pág.  18),  é  pos
+-
+sível  ajustar  esse  valor  em  ±2  pontos  
+para  cada  ±1  metro/segundo.  Para  ve
+-
+locidades muito elevadas, adquira Des-
+locamento Ampliado (Ar). Se não tiver 
+nenhuma das limitações a seguir: Asas 
+Pequenas,  Mais  Leve  que  o  Ar,  Planar,  
+Planar  Controlado,  Somente  Voo  Es
+-
+pacial ou Voo com Asas, o personagem 
+também será capaz de “voar” com me
+-
+tade da velocidade sob a água. Voo tam-
+bém  inclui  a  habilidade  de  pairar  com  
+Deslocamento 0.
+Esta  vantagem  não  concede  a  habi
+-
+lidade de fazer acrobacias complexas e 
+giros  em  locais  apertados;  para  isso,  é  
+preciso  adquirir  Acrobacia  (pág.  174).  
+A  perícia  Voo  (pág.  227)  melhora  a  re
+-
+sistência do personagem durante o voo.
+É possível alterar a maior parte das 
+suposições acima por meio dos modifi
+-
+cadores abaixo.
+Ampliações Especiais
+Voo  Espacial:  O  personagem  é  ca-
+paz de voar tanto no espaço quanto no 
+vácuo  (como  na  lua,  por  exemplo).  O  
+Deslocamento dele no espaço é igual à 
+sua Velocidade Básica × 2. Se o jogador 
+quiser  que  o  personagem  seja  capaz  
+de  acelerar  constantemente  até  atingir  
+uma  velocidade  máxima  mais  elevada,  
+como  um  foguete,  terá  que  comprar  
+Deslocamento Ampliado (Espaço) (pág. 
+52).  Isso  fornece  a  ele  uma  aceleração  
+ou desaceleração por turno igual ao seu 
+Deslocamento  no  espaço,  até  atingir  a  
+sua velocidade máxima ampliada. Para 
+adquirir   um   deslocamento   “realista”   
+que permita que o personagem acelere 
+indefinidamente  no  vácuo  (até  atingir  
+a  velocidade  da  luz),  o  jogador  precisa  
+comprar  Deslocamento  Ampliado  (Es
+-
+paço) nos níveis 25–27. Essa ampliação 

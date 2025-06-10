@@ -1,0 +1,100 @@
+Possessão  pode  represen
+-
+tar   diversas   habilidades   
+encontradas  na  ficção  es
+-
+peculativa.  Observe  que  as  
+limitações  Digital,  Mágica,  
+Parasita,   Espiritual   e   Te
+-
+lepático  são  mutuamente  
+excludentes.
+Ampliações Especiais
+Assimilação: Quando entra em 
+um  novo  corpo,  o  persona
+-
+gem pode escolher “esquecer” 
+quaisquer perícias atuais e usar os pon
+-
+tos que isso libera — além de quaisquer 
+pontos  não  gastos  —  para  aprender  as  
+perícias  baseadas  em  ST,  DX  e  HT  co
+-
+nhecidas  pelo  hospedeiro  em  um  nível  
+de  habilidade  máximo  igual  ao  NH  do  
+hospedeiro-1.  Exemplo:  se  o  persona
+-
+gem  não  tiver  Acrobacia,  mas  o  hos-
+pedeiro  tiver  essa  habilidade  com  NH  
+igual a DX+3, é possível adquiri-la como 
+DX+2...  se  ele  tiver  pontos  suficientes.  
+As  perícias  que  foram  esquecidas  para  
+dar lugar às novas, desaparecem. As que 
+foram obtidas a partir do hospedeiro se
+-
+rão transportadas junto com o persona-
+gem de um corpo para outro. +10%.
+Crônico:    Quando    o    personagem    
+abandona  um  hospedeiro,  pode  deixar  
+um  “portal”  que  lhe  permite  possuí-lo  
+novamente sem  uma  Disputa  Rápida.  
+Isso  torna  possível  a  compra  do  anti
+-
+go  hospedeiro  do  personagem  como  
+um  Títere.  Esta  ampliação  só  pode  ser  
+usada se o personagem tiver uma quan
+-
+tidade  de  pontos  não  gastos  suficiente  
+para  adquirir  um  Títere  no  momento  
+em que abandonar o hospedeiro. +20%.
+Telecontrole: O personagem controla 
+remotamente  o  novo  hospedeiro  como  
+se  ele  fosse  uma  marionete,  enquanto  
+seu corpo original fica em transe. O per
+-
+sonagem pode decidir voltar ao próprio 
+corpo a qualquer momento e na verda
+-
+de é obrigado a fazê-lo se o hospedeiro 
+perder  a  consciência  ou  morrer  (mas  
+não  se  ele  dormir).  Com  esta  amplia
+-
+ção,  o  personagem  não  morre  se  seu  
+hospedeiro morrer. +50%.
+Troca Mental: A mente do hospedei
+-
+ro  se  desloca  para  o  corpo  possuído  
+anteriormente   pelo   personagem,   em   
+vez  de  ser  suprimida.  Na  verdade,  eles  
+“trocam de lugar”. +10%.
+Limitações Especiais
+Digital:  Esta  limitação  só  está  dis-
+ponível  para  Mentes  Digitais  (pág.  69).  
+O  personagem  assume  o  controle  de  
+computadores  e  não  de  seres  vivos.  O  
+sistema alvo tem que estar conectado ao 
+computador hospedeiro do personagem 
+por  meio  de  uma  rede  e  o  personagem  
+precisa  ter  acesso  total  a  ele  de  forma  
+voluntária ou não (v. Hacking de Compu
+-
+tador, pág. 202). O hardware do compu-
+tador  alvo  tem  que  ser  suficientemente  
+complexo  para  executar  o  programa  do  
+personagem;  em  geral,  a  Complexidade  
+dele  tem  que  ser  pelo  menos  a  metade  
+da IQ do personagem (arredondada para 
+cima).  O  personagem  também  pode  as
+-
+sumir o controle de um computador uti-
+lizando uma cópia sua e deixando o ori-
+ginal  intacto!  No  entanto,  a  menos  que  
+ele tenha a versão Digital de Duplicação 
+(pág.  55),  qualquer  sistema  controlado  
+dessa forma se torna um PdM indepen
+-
+dente  que  pensa  que  é  o  personagem. 
+Isso pode ser bom ou ruim — a duplica
+-
+ta pode se tornar qualquer tipo de PdM 
+Associado (v. pág. 31). -40%.

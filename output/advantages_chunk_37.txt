@@ -1,0 +1,100 @@
+“Deslocamento   Básico   4   (Velocidade   
+no  Solo  128)”.  O  jogador  sempre  pode  
+optar  por  uma  velocidade  máxima  um  
+pouco  inferior  se  quiser  que  ela  cor
+-
+responda à velocidade de uma criatura 
+ficcional  ou  do  mundo  real  ou  de  um  
+veículo  com  uma  velocidade  máxima  
+conhecida.  Essa  redução  não  devolve  
+pontos ao personagem.
+O Deslocamento Ampliado não afeta 
+a  Velocidade  Básica,  o  Deslocamento  
+Básico, nem a Esquiva. Seus benefícios 
+só  se  aplicam  quando  o  personagem  
+está se deslocando em um trajeto rela
+-
+tivamente reto e plano (v. Disparar, pág. 
+353). No entanto, ela apresenta sim um 
+valor  defensivo;  aqueles  que  atacarem  
+o personagem com ataques à distância 
+devem  levar  o  deslocamento  do  perso
+-
+nagem  em  consideração  quando  esti-
+verem  calculando  os  modificadores  de  
+velocidade/distância (pág. 550).
+A  maioria  das  formas  de  Desloca-
+mento   Ampliado   tem   pré-requisitos.   
+Deslocamento   Ampliado   (Água)   exi
+-
+ge  Anfíbio  (pág.  38)  ou  Aquático  (pág.  
+156).  O  Deslocamento  Ampliado  (Ar)  
+exige  Voo  (pág.  98).  O  Deslocamento  
+Ampliado (Espaço) exige Voo com a am
+-
+pliação  Voo  Espacial  ou  Voo  Espacial  
+Newtoniano  e  afeta  o  deslocamento  no  
+espaço, não a velocidade aérea. Para se 
+deslocar mais rápido no ar e no espaço, 
+compre  Deslocamento  Ampliado  (Ar)  e  
+Deslocamento Ampliado (Espaço).
+Ampliações Especiais
+Bônus de Manuseio: A DX e as perí-
+cias de operação de veículos (por exem-
+plo,  Condução)  do  personagem  rece-
+bem um bônus quando estiverem sendo 
+usadas com o único propósito de man
+-
+ter o controle em velocidades superiores 
+ao seu Deslocamento Básico. +5% para 
+cada bônus de +1, até o máximo de +5.
+Limitações Especiais
+Limitado  a  Estradas:  Esta  é  uma  
+limitação  para  Deslocamento  Amplia
+-
+do  (Solo).  O  Deslocamento  Ampliado  
+só  funciona  em  uma  superfície  plana,  
+como  a  de  uma  estrada  ou  do  piso  de  
+um  edifício.  Esta  limitação  muitas  ve
+-
+zes é adquirida em conjunto com a des-
+vantagem Com Rodas (pág. 146). -50%.
+Newtoniana:  Esta  é  uma  limitação  
+para Deslocamento Ampliado (Espaço). 
+A “velocidade máxima” espacial do per
+-
+sonagem é, na verdade, seu “delta-v”: a 
+variação na velocidade total que ele é ca
+-
+paz de realizar antes de ficar sem massa 
+de reação. Depois de realizar mudanças 
+de  velocidade  igual  à  sua  velocidade  
+máxima,  o  personagem  deve  reabaste
+-
+cer para poder voltar a alterar sua velo-
+cidade. -50%.
+Redutor de Manuseio: A DX e as pe-
+rícias de operação de veículos do perso-
+nagem sofrem uma penalidade quando 
+usadas  em  altas  velocidades.  -5%  para  
+cada redutor de -1, até o máximo de -5.
+Destemor 2
+2 pontos/nível
+Não  é  fácil  assustar  nem  intimidar  o  
+personagem!  Adicione  o  nível  de  Deste
+-
+mor do personagem ao atributo Vontade 
+toda vez que ele for fazer uma Verificação 
+de  Pânico  ou  precisar  resistir  à  perícia  
+Intimidação (pág. 204) ou a um poder so
+-
+brenatural que induza o medo. O nível de 
+Destemor também deve ser subtraído dos 
+testes de Intimidação feitos contra ele.
+Destino 2 5
+Variável
+O  destino  do  personagem  está  pre-
+destinado. Isto é considerado uma van-
+tagem, se o personagem estiver destina-
+do  a  realizar  grandes  feitos  —  embora  
+esse  destino  possa  não  estar  claro  e  

@@ -1,0 +1,100 @@
+-
+mentos, ele permanece nesse estado até 
+que a substância seja removida. O valor 
+da limitação depende da frequência da 
+substância: -5% para “Raro”, -15% para 
+“Ocasional” ou -25% para “Comum”.
+Reencarnação: Esta limitação só está 
+disponível  para  Impossível  de  Matar  2  
+ou 3. Quando o número de PV do perso
+-
+nagem for reduzido a -10×PVInicial, ele 
+se recupera na velocidade normal, mas 
+acorda em um corpo completamente di
+-
+ferente e com novas habilidades. O Mes-
+tre deve criar essa nova forma (ou pode 
+permitir que o próprio jogador o faça), 
+mas  o  personagem  sempre  mantém  a  
+vantagem Impossível de Matar. -20%.
+Imunidade Legal 4
+5 a 20 pontos
+O  personagem  é  isento  de  algumas  
+ou de todas as leis da sociedade. Se vio
+-
+lá-las, um agente da lei comum não terá 
+poder suficiente para prendê-lo. Apenas 
+uma determinada autoridade — a igre
+-
+ja ou classe social do personagem, uma 
+corte especial ou talvez seu governante 
+— pode julgá-lo ou puni-lo.
+O custo em pontos depende da ampli-
+tude da imunidade (a critério do Mestre):
+•    O personagem não está sujeito às 
+leis  comuns,  mas  as  regras  que  deter
+-
+minam  seu  comportamento  são  igual-
+mente rígidas. Exemplos: um abade da 
+Idade  Média  ou  observador  da  ONU  
+nos dias de hoje. 5 pontos.
+•    Exatamente igual ao caso anterior, 
+mas as leis que se aplicam ao persona
+-
+gem  são  menos  rígidas  do  que  aque-
+las  que  se  aplicam  às  outras  pessoas.  
+Exemplo: um bardo da Idade Média (v. 
+a seguir). 10 pontos.
+
+vantagens
+65
+2
+•    O  personagem  pode  fazer  qua-
+se  tudo  que  quiser,  contanto  que  não  
+prejudique  a  nação,  a  igreja  ou  a  ins
+-
+tituição que lhe concedeu a Imunidade 
+Legal. Exemplos:  um  duque  da  Idade  
+Média  ou  um  diplomata  internacional  
+(v. a seguir). 15 pontos.
+Por  5  pontos  adicionais,  é  possível  
+adicionar  o  privilégio  da  “mala  diplo
+-
+mática:” o personagem pode mandar e 
+receber  objetos  e  correspondência  que  
+as  autoridades  comuns  não  têm  poder  
+legal para deter ou examinar.
+Duas  classes  de  Imunidade  Legal  
+são  especialmente  interessantes  para  
+aventureiros:
+Imunidade   Bárdica:   O   personagem   
+tem o direito de cantar o que quiser sem 
+temer  consequências  graves.  Ele  pode  
+até  mesmo  entoar  uma  canção  extrema
+-
+mente  desrespeitosa  para  o  rei  —  claro  
+que  ele  poderá  ser  punido  por  isso,  mas  
+não   açoitado,   aprisionado   ou   morto.   
+Qualquer pessoa que violar a imunidade 
+do  personagem  corre  o  risco  de  sujar  o  
+próprio nome e reputação. Outros bardos 
+vão compor e distribuir sátiras cruéis so
+-
+bre essa pessoa, deixando-a com uma má 
+Reputação. Eles podem até mesmo reve
+-
+lar um Segredo, se ela tiver um! Essa van-
+tagem  só  se  aplica  ao  conteúdo  das  per-
+formances  do  personagem,  nada  mais,  e  
+está disponível somente para bardos ver
+-
+dadeiros em cenários de fantasia ou me-
+dievais. Para se qualificar para essa van-
+tagem, o personagem precisa gastar pelo 
+menos 1 ponto em cada uma das perícias: 
+Atuação, Canto e Poesia. 10 pontos.
+Imunidade  Diplomática:  O  persona-
+gem  é  um  diplomata  internacional  e  
+pode  ignorar  as  leis  de  todos  os  países,  
+exceto o seu. Quando está no exterior, ele 
+não pode ser levado a julgamento por ne

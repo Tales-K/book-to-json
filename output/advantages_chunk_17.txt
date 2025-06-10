@@ -1,0 +1,100 @@
+111),  Cíclico  (pág.  104)  e  Resistível  
+(pág. 116) são comuns, mas não obriga
+-
+tórios. 4 pontos/nível.
+Dados Parciais
+O jogador não precisa comprar dados 
+de dano inteiros. Cada ±1 ponto de dano 
+conta como ±0,3 de um dado. Arredonde 
+o custo final para cima. Exemplo: um 
+Ataque Inato que causa 1d+2 ponto de 
+dano conta como 1,6 dados. Se o ataque 
+causa dano por contusão (5 pontos/dado), 
+esse ataque custaria 1,6 × 5 = 8 pontos.
+Alguns ataques causam apenas 1 ponto de 
+dano. Isso conta como 0,25 dados. Sempre 
+arredonde o custo para cima. Esses ataques 
+podem ser letais principalmente se envolve
+-
+rem as ampliações Acompanhamento (pág. 
+102) ou Cíclico (pág. 104)!
+Modificadores Especiais
+Vários modificadores de Ataque Inato 
+estão  descritos  na  seção  Ampliações  e  
+Limitações de Ataque (pág. 102). É pos
+-
+sível usá-los em praticamente qualquer 
+ataque — armas embutidas, lasers, jatos 
+de fogo líquido, ventanias, etc. — para 
+duplicar as capacidades das armas apre-
+sentadas nos livros de GURPS.
+Ataques que causam dano por toxina 
+ou fadiga que tem como objetivo simular 
+doenças ou envenenamentos exigem modi-
+ficadores. Os agentes nocivos em Dentes 
+(pág. 52), dardos, Garras (pág. 61), etc., 
+usam Acompanhamento (pág. 102). Gases 
+e sprays usam Agente Respiratório (pág. 
+102) ou Agente de Contato (pág. 102) 
+muitas vezes em conjunto com Efeito de 
+Área (pág. 105), Cone (pág. 104) ou jato 
+(pág. 107). Os ataques que dependem do 
+toque ou de contato com a pele utilizam 
+Agente Sanguíneo (pág. 102) ou Agente 
+de Contato, além de Aura (pág. 103) ou 
+Ataque Corpo a Corpo (pág. 111).
+Independente de outros modificadores, 
+os Ataques Inatos são considerados ata-
+ques à distância, a menos que tenham a 
+limitação Ataque Corpo a Corpo — nesse 
+caso eles são considerados armas de com-
+bate corpo a corpo.
+Descrição
+Depois de aplicar todos os modifica-
+dores relevantes, dê um nome e descreva 
+o ataque. O nome pode ser tão genérico 
+quanto “fogo de dragão” ou tão específico 
+quanto “implante cibernético de pistola 9 
+mm no braço direito”. A critério do Mestre, 
+essa descrição pode implicar em habilida-
+des adicionais que não influenciam no 
+combate; ex., um jato d’água de alta pres-
+são poderia apagar incêndios. O Mestre 
+também decide se a descrição está de 
+acordo com o cenário da campanha e pode 
+modificar o ataque, se achar necessário.
+Atirador 2
+25 pontos
+O personagem é capaz de dar tiros 
+extraordinariamente precisos sem mirar. 
+Quando estiver usando qualquer arma 
+que utilize as perícias Armas de Feixe, 
+Armas de Fogo, Canhoneiro ou Projetor 
+de Líquidos, o personagem se beneficiará 
+dos seguintes benefícios:
+• Quando estiver disparando um tiro por 
+vez (CdT 1–3) usando armas de uma mão, o 
+personagem recebe o bônus de Precisão da 
+arma que estiver usando mesmo sem usar a 
+manobra Apontar. Quando estiver utilizan-
+do armas de duas mãos ou automáticas, o 
+personagem recebe metade do bônus de Pre-
+cisão (arredondado para cima) sem necessi-
+dade de Apontar. Se Apontar, o personagem 
+recebe o bônus total de Prec, apoio e mira 
+— e os segundos adicionais de Apontar tam-
+bém concedem os benefícios tradicionais.
+• Ignorar a penalidade básica ao Avançar 
+e Atacar (-2 ou Magnitude) e quaisquer pena-
+lidades adicionais que o Mestre possa aplicar 
+para saltos, acrobacias e façanhas semelhan-
+tes a pé — saltar entre telhados, mergulhar 
+através de janelas, etc. Ainda permite ignorar 
+as penalidades de Avançar e Atacar quando 
+estiver dirigindo e atirando (pág. 470). Tudo 
+isso é em vez de receber o bônus da Prec.
+• Ignorar a penalidade de -2 por ata-
+ques súbitos (pág. 390).
+• 
+Ignorar a Magnitude em combate 
+corporal (pág. 391) — novamente, em vez 

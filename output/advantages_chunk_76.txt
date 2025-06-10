@@ -1,0 +1,100 @@
+tos: humanoide, animal, robô, etc. Baseie 
+a criação da forma alternativa em um mo
+-
+delo racial (pág. 260); no entanto, é possí-
+vel “ativá-la” e “desativá-la”. Esse modelo 
+não  precisa  ficar  de  “reserva”.  Exemplo:  
+se desejar que o personagem mantenha a 
+inteligência  humana  na  forma  animal,  o  
+personagem pode se transformar em um 
+modelo  que  não  tenha  a  IQ  inferior  de  
+um animal (embora isso aumente o custo 
+do modelo e, em consequência, da Forma 
+Alternativa). O Mestre tem a palavra final 
+sobre  quais  modelos  podem  ser  usados  
+como Forma Alternativa.
+Enquanto estiver ativado, esse modelo 
+racial substitui  o  original.  Aplique  as  ca
+-
+racterísticas raciais típicas da nova forma 
+— modificadores de atributos, vantagens e 
+desvantagens raciais, etc. — em vez das ca
+-
+racterísticas  da  raça  original.  As  caracte-
+rísticas pessoais (inclusive todos os níveis 
+de atributo, vantagens, desvantagens e pe
+-
+rícias adquiridas e que estão além das nor-
+mas raciais) permanecem intactas, embo-
+ra seus níveis de habilidade também sejam 
+afetados  pelas  alterações  nos  valores  dos  
+atributos que controlam essas perícias.
+As  características  do  modelo  racial  al-
+ternativo prevalecem se tiverem caracterís-
+ticas  que  conflitam  com  as  características  
+originais  do  personagem.  Exemplo:  se  o  
+personagem  se  transformar  num  golfinho  
+Sem  Manuseadores,  ele  perderá  tempora
+-
+riamente as vantagens pessoais que afetam 
+as  mãos,  como  Destreza  Manual  Elevada,  
+enquanto  estiver  na  forma  animal.  Além  
+disso,  algumas  perícias  (como  Arromba
+-
+mento) serão relativamente inúteis, embo-
+ra o personagem ainda se lembre delas.
+Se o personagem possuir apenas uma 
+Forma  Alternativa,  ela  custa  15  pontos  
+para  um  modelo  racial  construído  com  
+um  número  de  pontos  de  personagem  
+menor  ou  igual  ao  da  forma  original.  
+Uma forma mais poderosa custa 15 pon
+-
+tos mais 90% da diferença de custo entre 
+o modelo original e a Forma Alternativa.
+Se  o  personagem  tiver  várias  formas,  
+pague  o  custo  total  da  mais  cara.  As  For
+-
+mas Alternativas menos poderosas custam 
+15  pontos  cada.  O  custo  mínimo  por  for
+-
+ma continua sendo 15 pontos.
+Exemplo: Considere quatro modelos ra-
+ciais:  um  “bichinho  fofinho”  de  -100  pon-
+tos,  um  humano  com  zero  pontos,  uma  
+“besta voraz” de 80 pontos e um troll de 100 
+pontos. O custo para criar um ser humano 
+capaz de se transformar num bichinho fofi
+-
+nho é 15 pontos, uma vez que o modelo do 
+animal vale menos que o original. O custo 
+para criar um bichinho fofinho capaz de se 
+transformar num ser humano é 15 + (90% × 
+100) = 105 pontos, pois o modelo racial do 
+ser humano custa 100 pontos a mais que 
+o original. O custo para criar um hu
+-
+mano capaz de se transformar em 
+um troll também é de 15 + (90% × 
+100)  =  105  pontos.  O  custo  para  
+criar um humano capaz de assu
+-
+mir qualquer um desses modelos 
+é  igual  ao  custo  total  da  forma  
+mais  cara,  o  troll:  105  pontos;  
+mais  um  custo  adicional  de  15  
+pontos para a besta voraz e para 
+o  bichinho  fofinho,  totalizando  
+um custo de 135 pontos.
+Licantropos:  Para  criar  um  
+“licantropo”   clássico,   comece   
+comprando   as   características   
+que  se  aplicam  às  duas  formas  
+—   Ataque   Infeccioso,   Vulne
+-
+rabilidade  (Prata),  etc.  como  
+características   pessoais.   Em   
+seguida,   adquira   um   mode
+-
+lo  animal  como  uma  Forma  
+Alternativa.  Como  a  maioria  

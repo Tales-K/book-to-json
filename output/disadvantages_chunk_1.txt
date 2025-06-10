@@ -1,0 +1,100 @@
+(pág.  103),  ela  também  pode  represen
+-
+tar  um  ataque  realizado  por  meio  de  
+um contato físico íntimo.
+Exceção:  Se  o  ataque  também  tiver  
+Cone (pág. 104) ou Efeito de Área (pág. 
+105),   o   Agente   Sanguíneo   funciona   
+como descrito anteriormente e também 
+quando inalado (como Agente Respira
+-
+tório, pág. 102); e também ignora toda 
+a  RD.  Nesse  caso,  somente  alvos  com  
+a vantagem Lacrado (pág. 68) — ou al
+-
+vos com uma dentre Não Respira (pág. 
+73)  ou  Pulmões  com  Filtro  (pág.  81)  e  
+Membrana  Nictitante  (pág.  69)  ou  Vi
+-
+são  Protegida  (pág.  88)  —  estão  imu-
+nes. Essa habilidade poderosa converte 
+o  Agente  Sanguíneo  em  uma  amplia
+-
+ção de +100% quando combinada com 
+Cone ou Efeito de Área!
+Agente  Sanguíneo  é  um  “modifica
+-
+dor  de  penetração”:  ele  não  pode  ser  
+combinado  com  outros  modificadores  
+do mesmo tipo, como Acompanhamen
+-
+to (pág. 102).
+Alcance Reduzido
+-10%/nível
+Esta  limitação  pode  ser  acrescenta-
+da a qualquer vantagem que tenha um 
+parâmetro  distância;  ex.:  Ataque  Ina
+-
+to  ou  Sentido  de  Monitoramento.  Ela  
+pode  ser  comprada  em  três  níveis,  de
+-
+pendendo do divisor da distância:
+Divisor da DistânciaModificador
+2-10%
+5-20%
+10-30%
+Se  aplicado  a  um  ataque  à  distân-
+cia  com  a  característica  1/2D,  cada  
+nível  reduz  tanto  1/2D  quanto  Max.  
+Também  é  possível  reduzir  apenas  o  
+1/2D (isto é, “1/2D Reduzido”, que vale 
+-5%/nível).  Não  é  possível  diminuir  
+Max separadamente.
+Apenas em Emergências
+-30%
+A  habilidade  é  desencadeada  pelo  
+medo ou pela agitação; o personagem 
+não  consegue  utilizá-la  em  condições  
+“rotineiras”.  O  Mestre  sempre  tem  a  
+palavra  final  sobre  essa  decisão.  Ele  
+pode  decidir  que  fracassos  sucessivos  
+com  o  poder  deixam  o  personagem  
+irritado  o  bastante  para  que  ele  final
+-
+mente funcione, mas cabe inteiramen-
+te ao Mestre.
+Potência  Total  Apenas  em  Emergên-
+cias:  Se  a  habilidade  do  personagem  
+funciona  pela  metade  em  condições  
+normais, mas com poder total sob pres
+-
+são,  essa  limitação  não  terá  um  valor  
+muito elevado. Para características que 
+podem  ser  comprados  em  níveis,  “me
+-
+tade do poder” significa metade do nú-
+mero  normal  de  níveis.  O  Mestre  deve  
+definir o significado de metade para ou
+-
+tras características (metade do alcance, 
+da duração, dos bônus, etc.). -20%.
+Apenas Inconsciente
+-20%
+Esta  limitação  só  pode  ser  adotada  
+em  conjunto  com  Incontrolável  (pág.  
+113).  O  personagem  nunca  é  capaz  de  
+ativá-la  conscientemente;  ela  só  pode  
+ser  incluída  no  jogo  sob  o  controle  do  
+Mestre,  como  resultado  de  uma  situa
+-
+ção  estressante.  Assim  como  acontece  
+com  Incontrolável,  é  possível  recom
+-
+prar  esta  limitação  mais  tarde,  à  me-
+dida que o personagem vai adquirindo 
+controle sobra sua habilidade.
+
+vantagens
+111
+2
+Regra Opcional: Ampliações Limitadas

@@ -1,0 +1,100 @@
+for apropriada. Use esta ampliação para 
+gases  venenosos,  bolas  de  fogo,  minas  
+flutuantes e assim por diante.
+Fogo Contínuo 6
+Variável
+A  Cadência  de  Tiro  (CdT)  básica  de  
+um Ataque Inato é de 1. Consulte a ta
+-
+bela a seguir para encontrar o custo de 
+uma CdT superior:
+CdTCusto
+2+40%
+3+50%
+4–7+70%
+8–15+100%
+16–30+150%
+31–70+200%
+71–150+250%
+151–300+300%
+
+vantagens
+106
+Duas  opções  especiais  estão  dis-
+poníveis  para  os  ataques  com  esta  
+ampliação:
+Fogo  Seletivo:  O  personagem  pode  
+designar  um  ataque  de  CdT  5+  como  
+um  ataque  com  Fogo  Seletivo,  per
+-
+mitindo  um  ataque  de  CdT  1–3.  Isso  
+custa +10%.
+Projétil  Múltiplo:  Depois  do  ataque,  
+cada tiro se divide em vários projéteis, 
+como o disparo de uma espingarda ou 
+um   relâmpago   bifurcado.   Expresse   
+essa  característica  como  um  modifi
+-
+cador  na  CdT;  por  exemplo,  CdT  3×4  
+significa  que  em  um  ataque  até  três  
+tiros disparados se dividem em quatro 
+projéteis individuais. O custo do modi
+-
+ficador se baseia na CdT vezes o multi-
+plicador;  ex.:  CdT  3×4  custa  o  mesmo  
+que CdT 12.
+Guiado ou 
+Teleguiado 6
+Variável
+O  personagem  pode  guiar  seus  ata-
+ques  —  ou  eles  podem  se  “guiar”  sozi-
+nhos! Utilize esta ampliação para criar 
+mísseis teleguiados e efeitos sobrenatu
+-
+rais,  como  azagaias  mágicas  que  bus-
+cam o alvo.
+Guiado:  O  personagem  direciona  o  
+ataque  utilizando  sua  própria  habili
+-
+dade.  Isso  permite  a  ele  ignorar  todas  
+as  penalidades  de  distância!  Se  o  alvo  
+se encontra tão longe que é necessário 
+utilizar vários turnos para alcançá-lo (v. 
+a  seguir),  o  personagem  precisa  fazer  
+uma manobra Concentrar a cada turno. 
+Se ele perder o alvo de vista enquanto o 
+ataque estiver a caminho, o ataque fra
+-
+cassa automaticamente. +50%.
+Teleguiado: O ataque se direciona so
+-
+zinho. Decida sobre a maneira como ele 
+busca o alvo: por meio de visão comum 
+ou  vantagem  sensorial,  como  Detectar  
+(pág.  53),  Infravisão  (pág.  65),  Sentido  
+de  Monitoramento  (pág.  87),  Sentido  
+de  Vibração  (pág.  88)  ou  Visão  No
+-
+turna  (pág.  97).  O  ataque  utiliza  esses  
+sentidos se houverem modificadores de 
+combate;  ex.:  um  radar  ignora  a  escu
+-
+ridão,  mas  pode  ser  danificado.  Para  
+“travar  a  mira”  no  alvo,  o  personagem  
+precisa  Apontar  para  ele  e  fazer  um  
+teste de habilidade sem modificadores. 
+O  personagem  não  deve  usar  seu  pró
+-
+prio NH para atingir o alvo, mas sim o 
+NH do ataque que é igual a 10 — mais 
+Precisão,  se  ele  obteve  sucesso  em  seu  
+próprio teste de habilidade — e ignore 
+todas  as  penalidades  de  distância.  O  
+custo  básico  da  ampliação  Teleguiado  
+é  de  +50%,  mais  1%  para  cada  ponto  
+que o dispositivo orientado custaria se 
+fosse  comprado  como  uma  vantagem  
+(sem  quaisquer  modificadores);  ex.:  a  
+Infravisão  custa  10  pontos,  portanto,  
+Teleguiado   (Infravisão)   custa   +60%.   
+Um dispositivo que usa a visão comum 

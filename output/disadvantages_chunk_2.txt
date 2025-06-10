@@ -1,0 +1,100 @@
+Com  a  permissão  do  Mestre,  é  possível  acrescentar  uma  limitação  a  
+uma ampliação. Isso restringe a ampliação, reduzindo seu valor sem afetar 
+de forma direta a habilidade subjacente.
+Aplique a limitação ao valor percentual da ampliação exatamente como 
+se fosse um valor em pontos. Isso não poderá reduzir o valor da ampliação 
+a  menos  de  1/5  do  valor  normal.  Em  seguida,  aplique  a  ampliação  mais  
+barata ao custo da habilidade.
+Exemplo: A ampliação Área Seletiva (+20%) pode apresentar a limi-
+tação Base Visual (-20%). Isso não significa que o personagem precisa 
+de contato visual com os indivíduos dentro da área de efeito para atin
+-
+gi-los, mas sim que precisa de contato visual para isolá-los do efeito. 
+Uma limitação de -20% em uma ampliação de +20% reduz a ampliação 
+para +16%.
+Algumas  limitações  exigem  uma  ampliação  específica.  Por  exemplo,  
+Emanação (pág. 112) sempre acompanha Efeito de Área (pág. 105). Essas 
+limitações afetam a habilidade subjacente. Não é possível usar essa regra 
+para aplicá-las apenas à ampliação.
+O Mestre pode preferir não usar essa opção, pois ela requer um cuidado 
+adicional.
+Ataque Corpo a Corpo 6
+Variável
+O  ataque  funciona  como  uma  arma  
+de  combate  corpo  a  corpo.  Ele  não  tem  
+Distância  de  alcance,  mas  pode  ser  usa
+-
+do  para  aparar,  durante  um  Ataque  To-
+tal, Finta, etc. Ele não tem os parâmetros 
+Mau  Funcionamento,  1/2D,  Max,  Prec,  
+CdT, Tiros e Recuo e não pode abranger 
+nenhuma  ampliação  ou  limitação  que  
+modifique essas estatísticas. Em vez dis
+-
+so, ele apresenta o parâmetro Alcance.
+AlcanceModificador
+C-30%
+1 ou 2-25%
+C, 1 ou 1, 2 ou 2, 3-20%
+1–4 (como um chicote)-15%
+Se  o  ataque  não  puder  ser  usado  
+para  aparar,  considere  -5%  adicionais 
+ao custo da limitação.
+Atraso 6
+Variável
+Esta limitação tem que ser “Associa-
+da” a uma das características a seguir: 
+Acompanhamento,  Agente  de  Contato  
+Agente Respiratório, Agente Sanguíneo 
+ou  Imprecação.  Ela  atrasa  o  dano  ou  
+atribulação causada pelo ataque até al
+-
+guns momentos depois da exposição. O 
+atraso determina seu custo.
+AtrasoModificador
+1 minuto-10%
+1 hora-20%
+1 dia-30%
+1 semana (ou mais)-40%
+Para atrasos que se encontram entre 
+dois  dos  valores  acima,  use  o  menor;  
+ex.,  30  minutos  vale  -10%,  enquanto  4  
+dias, -30%. Se o personagem for capaz 
+de controlar o tempo de atraso, adquira 
+Retardo (pág. 109), em vez de Atraso.
+Tempo de Exposição: Esta é uma va-
+riante de Atraso que só está disponível 
+para ataques com Aura ou Persistente. 
+Utilize-a   para   representar   radioati
+-
+vidade,  gases  levemente  tóxicos,  etc.  
+Funciona  exatamente  como  Atraso,  
+exceto  que  a  vítima  tem  que  ficar  ex
+-
+posta  pelo  período  acima  inteiro  para  
+sofrer o efeito (ou repeti-lo se a expo
+-
+sição continuar). Esse efeito vale -20% 
+adicionais; ex.: 1 minuto vale -30%.
+Base Sensorial 6
+Variável
+Durante  um  ataque  com  Impre-
+cação  ou  com  uma  habilidade  que  
+normalmente  ignora  a  RD  (ex.:  Con
+-
+trole  da  Mente),  a  Base  Sensorial  se  
+torna  uma  limitação.  Para  maiores  
+detalhes,  consulte  a  ampliação  Base 
+Sensorial (pág. 103).
+Bombardeio 6
+Variável
+Esta  limitação  só  pode  ser  adotada  
+em  conjunto  com  Cone  (pág.  104)  ou  
+Efeito de Área (pág. 105). O ataque não 
+atinge  automaticamente  todas  as  pes
+-
+soas  que  se  encontram  no  local.  Em  
+vez  disso,  cada  alvo  em  potencial  pre
+-
+sente na área sofre um ataque com um 
+NH  específico,  que  determina  o  valor  

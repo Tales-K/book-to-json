@@ -1,0 +1,100 @@
+dor  só  pode  comprar  essa  limitação  se  
+o personagem tiver Mente Digital (pág. 
+69) e Possessão (Digital) (pág. 78). -60%.
+Recursos  Compartilhados:  As  Dupli-
+catas  do  personagem  não  têm  um  nú-
+mero  de  PF  e  PV  igual  ao  do  persona-
+gem;  em  vez  disso,  o  personagem  tem  
+de  distribuir  esses  pontos  entre  elas.  
+Exemplo: se tiver 15 PV e uma Duplica
+-
+ta, o personagem poderia dividir os PV 
+em 7 e 8, 2 e 13 ou qualquer outra com
+-
+binação  cujo  total  seja  15.  Não  é  obri-
+gatório distribuir os PF e os PV propor-
+cionalmente;  um  personagem  com  15  
+PV e 15 PF pode dar 3 PF e 9 PV a uma 
+cópia  e  12  PF  e  6  PV  a  outra.  Quando  
+seus corpos se recombinarem, some os 
+valores em vez de usar a média. -40%.
+Durabilidade 
+Sobrenatural 3 5
+150 pontos
+Da  mesma  forma  que  um  vampiro  
+ou  um  assassino  psicótico  de  um  fil
+-
+me  de  terror,  o  personagem  é  capaz  de  
+“ignorar”  a  maioria  dos  ferimentos.  As  
+lesões consomem PV, como sempre, e o 
+personagem pode ser projetado, mas ele 
+é completamente imune a choques, ator
+-
+doamento físico e nocautes. Ele não pre-
+cisa  de  Hipoalgia  (Alto  Limiar  de  Dor),  
+pois  ela  está  incluída  nesta  vantagem,  
+que também é muito mais potente!
+Enquanto o personagem tiver 0 PV ou 
+mais, ele também estará imune a lesões 
+incapacitantes e seu Deslocamento conti-
+nua com o valor total. Abaixo de 0 PV, o 
+personagem tem metade do Deslocamento 
+e Esquiva, e pode ficar incapacitado, mas 
+não morre, a menos que seja ferido por 
+um ataque ao qual ele é especificamente 
+vulnerável (v. a seguir). A única exceção 
+nesse caso é um único ataque que causa 
+uma lesão de 10×PVInicial ou mais. Essa 
+quantidade de dano causada de uma só 
+vez destruirá totalmente o personagem e 
+o matará.
+Para matar o personagem de uma vez 
+por todas, primeiro é preciso reduzi-lo a 
+-1×PVInicial. Daí então é possível matá-lo 
+com um item específico. O jogador pre-
+cisa especificar o objeto quando comprar 
+Durabilidade Sobrenatural. As categorias 
+válidas estão relacionadas no quadro 
+Defesas Limitadas (pág. 84); o item que 
+pode matar o personagem tem de ter fre-
+quência “Ocasional” ou superior. Se um 
+ferimento causado por esse objeto reduzir 
+o personagem a um número de PV nega-
+tivos que forçaria um humano normal 
+a fazer um teste de HT para sobreviver, 
+então ele deve fazer o mesmo teste para 
+não morrer. Se o item ferir o personagem 
+e reduzi-lo a -5×PVInicial, o personagem 
+morre automaticamente. Se o personagem 
+já estiver com -5×PVInicial por causa de 
+outros ferimentos, qualquer lesão causada 
+pelo objeto escolhido matará o persona-
+gem. Objetos ao qual o personagem tem 
+Vulnerabilidade (pág. 161) também o 
+matam da mesma maneira.
+Duro de Matar 3
+2 pontos/nível
+É incrivelmente difícil matar o perso-
+nagem. Cada nível nesta vantagem con-
+cede um bônus de +1 nos testes de HT 
+feitos para ver se o personagem consegue 
+sobreviver quando seu número de Pontos 
+de Vida é menor que -1×PVInicial e em 
+qualquer teste de HT onde um fracasso 
+resulta na morte instantânea do perso
+-
+nagem (por parada cardíaca, envenena-
+mento, etc.). Se o bônus desta vantagem 
+fizer a diferença entre a vida e a morte, 
+o  personagem  entra  em  colapso  e  fica  
+aparentemente morto (ou inválido), mas 
+volta  ao  normal  depois  do  período  de  
+tempo normal — consulte Retomando a 
+Consciência (pág. 423). Um sucesso em 
+um teste de Diagnose (ou de Mecânica, 
+no caso de máquinas) revela a verdade.
+Exemplo: Bruno tem HT 12, 15 PV e 
+Duro de Matar 4. Ele sofre 45 pontos de 
+dano, o que reduz seus PV a -30. Ele precisa 
+obter sucesso em dois testes de HT para 
+sobreviver: um a -15 PV e outro a -30 PV. 

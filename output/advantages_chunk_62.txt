@@ -1,0 +1,100 @@
+Impossível de Matar 2: Igual Impos
+-
+sível  de  Matar  1,  mas  o  personagem  
+não morre com -10×PVInicial. Quando 
+alcançar esse valor, ele é reduzido a um 
+esqueleto indestrutível e fica automati
+-
+camente  inconsciente.  O  personagem  
+não  sofre  mais  nenhum  dano  causado  
+por  qualquer  ataque.  Quando  os  ata
+-
+ques pararem, ele começa a se recupe-
+rar normalmente, mesmo que esteja em 
+pedaços,  e  os  membros  decepados  se  
+regenerarão. O personagem recupera a 
+consciência quando seu PV ficar positi
+-
+vo.  Observe  que  os  inimigos  do  perso-
+nagem podem aprisionar os restos dele 
+enquanto  ele  se  encontra  inconsciente  
+ou até mesmo expô-los a uma fonte de 
+dano  contínuo  (em  geral,  o  fogo)  para  
+evitar que ele se recupere. 100 pontos.
+Impossível de Matar 3: Igual Impos
+-
+sível  de  Matar  2,  porém,  a  -10×PVIni-
+cial, o personagem se torna um fantas-
+ma,  uma  fonte  de  energia  ou  alguma  
+outra  forma  incorpórea  que  não  pode  
+ser   imobilizada   nem   danificada   por   
+métodos  normais.  Nesse  estado,  o  per
+-
+sonagem perde a consciência e se cura 
+normalmente.   Assim   que   recuperar   
+o total  de  PV,  o  corpo  completamente  
+intacto do personagem irá se aglutinar 
+em um local escolhido pelo Mestre. 150 
+pontos.
+Com a permissão do Mestre, se o per-
+sonagem tiver Impossível de Matar 2 ou 
+3 e atingir -10×PVInicial, ele pode trocar 
+essa vantagem por um modelo racial de 
+espírito  ou  morto-vivo  (se  essas  criatu
+-
+ras  existirem  na  campanha),  tornando-
+-se  um  fantasma,  aparição,  etc.,  depois  
+de recuperar todos os seus PV.
+Por  definição,  o  personagem  enve-
+lhece  normalmente  e  acaba  morrendo  
+em  consequência  de  uma  idade  avan
+-
+çada. Para ser realmente imortal, com-
+bine  Impossível  de  Matar  com  Idade  
+Imutável e possivelmente uma ou mais 
+vantagens dentre Não Respira (pág. 73), 
+Regeneração (pág. 82), Resistente (pág. 
+84) e Tolerância a Ferimentos (pág. 94).
+Limitações Especiais
+Calcanhar de Aquiles: O dano causa-
+do  por  uma  fonte  específica  (possivel-
+mente  uma  a  qual  o  personagem  tem  
+Vulnerabilidade,  pág.  161)  pode  matá
+-
+-lo  normalmente.  O  personagem  tem  
+que fazer normalmente os testes de HT 
+para sobreviver quando seus PV forem 
+reduzidos a -1×PVInicial pela fonte de
+-
+terminada  e  morre  imediatamente  se  
+esse dano o levar a -5×PVInicial. O va
+-
+lor da limitação depende da frequência 
+do  ataque,  como  descrito  em  Defesas 
+Limitadas (pág. 84): -10% para “Raro”, 
+-30%  para  “Ocasional”  ou  -50%  para  
+“Comum” ou “Muito Comum”.
+Gatilho: Esta limitação está disponí
+-
+vel  apenas  para  Impossível  de  Matar  2  
+ou  3.  Depois  que  o  número  de  PV  do  
+personagem  for  reduzido  a  -10×PVI
+-
+nicial,  ele  precisa  de  uma  substância  
+(como  sangue  humano)  ou  condição  
+(como  um  ritual)  para  poder  iniciar  o  
+processo  de  cura.  Antes  disso,  ele  per
+-
+manece  num  estado  de  dormência.  O  
+valor da limitação depende da raridade 
+do gatilho: -25% para “Raro”, -15% para 
+“Ocasional”  ou  -5%  para  “Comum”  ou  
+“Muito Comum”.
+Impedimento: Uma substância espe
+-
+cífica (ex.: prata ou madeira) impede a 
+cura tanto por métodos naturais quan
+-
+to  por  Regeneração  enquanto  perma-
+necer no corpo do personagem. Depois 
+de ficar inconsciente por causa dos feri

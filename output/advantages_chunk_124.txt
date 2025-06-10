@@ -1,0 +1,100 @@
+nagem  —  se  ele  tiver  algum  —  está  
+distribuído  por  todo  o  seu  corpo  ou  
+não   abriga   sua   consciência.   Opo
+-
+nentes  não  podem  usá-lo  como  alvo  
+para causar dano adicional. Talvez o 
+personagem  tenha  uma  cabeça,  mas  
+mesmo assim, um golpe no crânio ou 
+no olho é considerado como um gol
+-
+pe normal no rosto (com a diferença 
+que um ferimento no olho pode muti
+-
+lar esse órgão). 5 pontos.
+Sem  Cabeça:  O  personagem  não  
+tem  cabeça.  Isso  inclui  os  benefícios  
+de Sem Cérebro. O personagem tam
+-
+bém  não  tem  os  pontos  de  impacto  
+“crânio” e “rosto” e não tem necessi
+-
+dade  de  um  elmo.  Ele  ainda  é  capaz  
+de  ver,  falar,  ouvir,  cheirar,  degustar,  
+etc., a não ser que adquira as desvan
+-
+tagens  apropriadas.  O  jogador  deve  
+especificar  como  o  personagem  rea
+-
+liza  essas  ações  (de  maneira  sobre-
+natural  ou  tecnológica,  por  meio  de  
+órgãos em seu tronco, etc.). É comum 
+— mas não obrigatório — que perso
+-
+nagens  Sem  Cabeça  também  sejam  
+Sem Pescoço, Sem Olhos ou as duas 
+coisas. 7 pontos.
+Sem   Olhos:   O   personagem   não   
+tem olhos nem outros órgãos ópticos 
+vulneráveis, mas, de alguma forma, é 
+capaz de enxergar (a menos, é claro, 
+que  ele  sofra  de  Cegueira,  pág.  125).  
+Como  o  personagem  não  tem  olhos,  
+eles  não  podem  ser  atacados.  Ele  
+também  é  imune  a  ataques  que  pro
+-
+duzem cegueira. 5 pontos.
+Sem  Órgãos  Vitais:  O  personagem  
+não  tem  órgãos  vitais  (como,  por  
+exemplo,  um  coração  ou  um  motor)  
+que   seus   oponentes   possam   usar   
+como  alvo  para  causar  dano  adicio
+-
+nal.  Considere  todos  os  golpes  em  
+“órgãos  vitais”  ou  na  “virilha”  como  
+golpes no tronco. 5 pontos.
+
+vantagens
+95
+2
+Sem  Pescoço:  O  personagem  não  tem  pescoço.  Por  
+esse  motivo,  ele  não  tem  o  ponto  de  impacto  “pescoço”  
+e  não  pode  ser  decapitado,  asfixiado  nem  estrangulado.  
+5 pontos.
+Sem Sangue: O personagem não depende de fluidos cor
+-
+porais vitais (como o sangue) para sobreviver. Ele não san-
+gra (v. Sangramento, pág. 420), não é afetado por toxinas 
+de origem sanguínea e é imune a ataques que interrom
+-
+pem  a  circulação  de  uma  parte  do  sangue  do  corpo.  5 
+pontos.
+Tolerância à  
+Radiação 3 1
+Variável
+As células ou circuitos do personagem são resistentes à ra-
+diação. O custo desta vantagem depende do divisor da dose 
+efetiva de radiação que o personagem recebe — após dividi-la 
+pelo Fator de Proteção (FP) de quaisquer proteções artificiais, 
+como uma armadura.
+DivisorCusto
+25 pontos
+510 pontos
+1015 pontos
+2020 pontos
+5025 pontos
+10030 pontos
+20035 pontos
+50040 pontos
+1.00045 pontos
+Tolerância à  
+Temperatura 3
+1 ponto/nível
+Todo  personagem  tem  uma  “zona  de  conforto”  térmico  e,  dentro  dela,  
+não sofre os efeitos de doenças (como perda de PF ou PV) causadas pelo calor 
+ou pelo frio. Para os humanos normais, essa zona é de 30 °C, variando entre 2 
+°C e 32 °C. Para os não-humanos, essa zona pode estar em qualquer intervalo, 
+mas será sempre uma característica de 0 ponto enquanto for igual ou menor a 
+30 °C. Uma amplitude maior que essa é considerada uma vantagem. Cada nível 
+de Tolerância à Temperatura acrescenta um número de graus igual à HT/2 
+do  personagem  à  sua  zona  de  conforto,  distribuídos  da  maneira  que  o  

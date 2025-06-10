@@ -1,0 +1,100 @@
+pois  de  ser  realizado  não  é  um  grande  
+Destino!
+Destreza Manual 
+Elevada 3
+5 pontos/nível
+O personagem possui uma habilida-
+de  motora  notável.  Cada  nível  (até  no  
+máximo 4) concede um bônus de +1 na 
+DX  para  tarefas  que  exigem  um  toque  
+delicado.  Isso  inclui  todos  os  testes  de  
+DX das perícias Arrombamento, Artista, 
+Cirurgia, Costura, Habilidade com Nós, 
+Joalheiro, Prestidigitação, Punga e Tra
+-
+balhos  em  Couro,  assim  como  aqueles  
+necessários  para  se  fazer  um  trabalho  
+preciso  como  Maquinista  ou  Mecânica  
+(numa  relojoaria,  por  exemplo).  Esse  
+bônus não  se  aplica  a  tarefas  baseadas  
+em IQ, tarefas em grande-escala basea
+-
+das em DX ou jogadas de dado relacio-
+nadas a combates de qualquer tipo.
+Detectar 2/3 1
+Variável
+O  personagem  é  capaz  de  detectar  
+uma  substância  ou  condição  específi
+-
+ca, mesmo quando ela estiver protegida 
+dos  cinco  sentidos  humanos.  Isso  exige  
+um segundo de concentração, depois do 
+qual  o  Mestre  deve  fazer,  em  segredo,  
+um  teste  de  Sentidos  (v.  Teste  de  Senti
+-
+dos, pág. 358). Os modificadores de dis-
+tância  presentes  na  Tabela  de  Tamanho  
+e  Velocidade/Distância  (pág.  550)  devem  
+ser  aplicados.  O  jogador  pode  comprar  
+uma versão especial de Sentidos Aguça
+-
+dos  (pág.  88)  para  melhorar  seu  teste,  
+aumentando assim sua distância efetiva.
+No  caso  de  um  sucesso,  o  Mestre  
+dirá  ao  personagem  a  direção  na  qual  
+ele  poderá  encontrar  a  fonte  mais  sig
+-
+nificativa  da  substância  em  questão  e  
+dará  uma  pista  da  quantidade  existen
+-
+te. No caso de um fracasso, o persona-
+gem não sentirá nada.
+Detectar também inclui a habilidade 
+de analisar a substância detectada. Isso 
+exige um teste de IQ; quanto melhor o 
+resultado do teste, mais precisos serão 
+os  detalhes.  Exemplo:  um  personagem  
+com  Detectar  (Metal),  poderia  distin
+-
+guir  o  ouro  do  ferro  com  um  sucesso  
+num teste de IQ, mas num sucesso de
+-
+cisivo, descobriria se o ouro está na for-
+ma de pepitas ou de barras, além de sua 
+verdadeira pureza.
+A  base  de  custo  de  Detectar  é  o  
+seguinte:
+Raro   (feiticeiros,   magia   de   fogo,   
+zumbis, ouro, radar, rádio): 5 pontos.
+Ocasional (magos, magia, mortos-vi
+-
+vos,  metal  precioso,  campos  elétricos,  
+campos  magnéticos,  radar  e  rádio):  10 
+pontos.
+Comum (seres humanos, fenômenos 
+sobrenaturais,  criaturas  sobrenaturais,  
+metal, campos elétricos e magnéticos): 
+20 pontos.
+Muito  Comum  (qualquer  forma  de  
+vida, fenômenos e criaturas sobrenatu
+-
+rais, qualquer mineral, qualquer tipo de 
+energia): 30 pontos.
+Perceba que a habilidade de detectar 
+fenômenos pode justificar outras vanta
+-
+gens.  Por  exemplo,  Detectar  (Campos  
+Magnéticos)  poderia  explicar  Senso  de  
+Direção.
+Ampliações Especiais
+Detecção de Sinais: O personagem é 
+capaz  de  detectar  algum  tipo  de  trans
+-
+missão ativa como rádio, radar ou laser; 
+v.   Sentido de Monitoramento (pág. 87) e 
+Telecomunicação (pág. 93). Ele não so
+-
+fre penalidades devido à distância, mas 
+tem que estar a até duas vezes o alcance 
+do sinal e, se ele for direcional, dentro 
+de sua trajetória. +0%.

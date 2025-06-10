@@ -1,0 +1,100 @@
+Corte (corte)
+O ataque provoca lacerações, como 
+as causadas por um machado ou vidro 
+quebrado. Multiplique por 1,5 o dano que 
+penetrou a RD (pág. 378). Os ataques com 
+armas de corte podem causar trauma por 
+impacto e projeção. 7 pontos/nível.
+Fadiga (fad)
+O  ataque  não  é  letal.  Talvez  ele  en-
+volva um choque elétrico de baixa am-
+peragem, uma “explosão mental” ou até 
+mesmo  um  efeito  de  enfraquecimento,  
+como  hipotermia  ou  inanição.  Ele  re
+-
+duz  o  número  de  PF,  não  de  PV,  e  não  
+afeta máquinas. 10 pontos/nível.
+Perfuração (perf)
+O ataque causa ferimentos como os 
+provocados  por  uma  lança  ou  flecha.  
+Multiplique por dois o dano penetrante 
+(pág.  378)!  Os  ataques  por  perfuração  
+podem atingir os olhos ou os órgãos vi
+-
+tais, podem causar trauma por impacto 
+e atravessar armaduras flexíveis de alta 
+tecnologia. 8 pontos/nível.
+Perfurante
+O ataque envolve um projétil veloz e 
+sem  ponta,  como  uma  bala,  ou  afiado,  
+mas  pequeno  demais  para  ser  qualifi
+-
+cado  como  uma  perfuração,  como  um  
+dardo ou um ferrão. Ele pode atingir os 
+olhos ou os órgãos vitais, ou até causar 
+trauma  por  impacto.  Existem  quatro  
+subclasses de ataques perfurantes:
+Pouco  Perfurante  (pa-):  Utilize  essa  
+subclasse  para  projéteis  de  baixa  ener
+-
+gia (ex., dardos de zarabatana) ou para 
+ataques que tendem a atravessar o alvo 
+e  deixar  um  pequeno  furo  (ex.,  balas  
+perfurantes de armadura). Reduza pela 
+metade o dano penetrante (pág. 378). 3 
+pontos/nível.
+Perfurante (pa): Utilize essa subclas
+-
+se  para  a  maioria  das  balas  de  rifle  e  
+pistolas. 5 pontos/nível.
+Muito  Perfurante  (pa+):  Utilize  essa  
+subclasse  para  ataques  similares  a  ba
+-
+las sólidas de alto calibre ou para projé-
+teis menores que abrem feridas grandes 
+(ex.,  munição  de  ponta  oca).  Multipli
+-
+que  por  1,5  o  dano  penetrante.  6  pon-
+tos/nível.
+Extremamente    Perfurante    (pa++): 
+Utilize essa subclasse para ataques que 
+provocam ferimentos ainda maiores do 
+que  os  ataques  muito  perfurantes.  Do
+-
+bre  o  valor  do  dano  penetrante.  8  pon-
+tos/nível.
+
+vantagens
+43
+2
+Ataques Alternativos
+Se o personagem tiver diversos Ataques Inatos, o jogador pode defini-los 
+como sendo o mesmo ataque básico, mas com condições ou tipos de munição 
+diferentes, etc. Determine o custo desses “ataques alternativos” da maneira nor-
+mal, mas pague apenas o valor total do mais caro — os demais ataques custam 
+1/5 do custo (arredondado para cima).
+Essa estratégia pode economizar muitos pontos, mas existem alguns empe
+-
+cilhos. Primeiro, como os ataques representam uma única habilidade, o perso-
+nagem não pode utilizá-los ao mesmo tempo, mesmo que seja capaz de realizar 
+ataques múltiplos. Isso também impede que o personagem os combine com a 
+ampliação Interligação (pág. 107). Além disso, qualquer falha crítica ou mau 
+funcionamento que desabilite um dos ataques fará o mesmo com todos os 
+outros. Por último, se o ataque mais caro do personagem for de alguma maneira 
+drenado ou neutralizado, nenhum dos ataques mais baratos funcionará.
+Esta regra também pode ser aplicada a múltiplas Atribulações (pág. 43) ou 
+Retenções (pág. 85) ou a qualquer combinação delas com Ataques Inatos que 
+não podem ser utilizados ao mesmo tempo. Com a permissão do Mestre, é pos-
+sível também aplicar esta regra a Golpeadores (pág. 62) com múltiplos alvos.
+Queimadura (qmd)
+O  ataque  causa  dano  por  meio  de  
+chamas, um feixe de energia ou de quei
+-
+maduras  elétricas  localizadas.  É  possí-
+vel começar incêndios! 5 pontos/nível.
+Por Toxina (tox)
+O   ataque   causa   dano   celular   na   
+forma  de  doenças,  envenenamento  ou  
+radiação.  Normalmente  não  afeta  má
+-
+quinas.  Os  modificadores  Atraso  (pág.  

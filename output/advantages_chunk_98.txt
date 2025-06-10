@@ -1,0 +1,100 @@
+-
+terminando o tempo que o personagem 
+fica  inconsciente  por  qualquer  motivo,  
+divida  sempre  o  valor  por  60:  horas  se  
+tornam  minutos,  minutos  se  tornam  
+segundos  —  até  mesmo  um  estado  de  
+coma que duraria um mês se torna uma 
+mera soneca de 12 horas.
+Recuperação Muito 
+Acelerada
+V.   Recuperação Acelerada, pág. 82
+Redespertar 2 5
+10 pontos
+O  personagem  é  capaz  de  “relem-
+brar”  perícias  (mágicas,  técnicas  etc.)  
+aprendidas  em  vidas  passadas.  O  joga
+-
+dor  precisa  comprar  essas  habilidades  
+normalmente; Redespertar é apenas um 
+Antecedente Incomum (pág. 39) especial 
+que  explica  como  o  personagem  apren
+-
+deu aquelas habilidades sem um profes-
+sor.  Essa  característica  só  está  disponí-
+vel  se  a  reencarnação  for  uma  verdade  
+na campanha (a critério do Mestre).
+Reflexos em Combate 2
+15 pontos
+O personagem tem reações fantásti-
+cas e raramente fica surpreso por mais 
+do que alguns segundos. Ele recebe um 
+bônus  de  +1  em  todas  as  jogadas  de  
+defesa  ativa  (v.  Defendendo,  pág.  374)  
+e  nos  testes  de  Sacar  Rápido  e  +2  nas  
+Verificações de Pânico (v. Verificação de 
+Pânico,  pág.  360).  O  personagem  nun
+-
+ca  fica  “paralisado”  em  uma  situação  
+de  surpresa  e  recebe  um  bônus  de  +6  
+em  todos  os  testes  de  IQ  para  voltar  a  
+si  ou  se  recuperar  de  uma  situação  de  
+surpresa ou “atordoamento” mental. O 
+grupo  do  jogador  recebe  um  bônus  de  
++1  nos  testes  de  iniciativa  para  evitar  
+ataques  surpresa  —  +2  se  o  persona
+-
+gem for o líder. Para maiores detalhes, 
+consulte Ataques  Surpresa  e  Iniciativa 
+(pág. 393).
+Reflexos  em  Combate  está  incluída  
+na vantagem Noção do Tempo Amplia
+-
+da (pág. 73) — se tiver essa vantagem, o 
+personagem não poderá adquirir Refle
+-
+xos em Combate.
+Regeneração 3 1
+Variável
+As  feridas  do  personagem  se  fecham  
+em  algumas  horas,  minutos  ou  segun
+-
+dos! Para regenerar membros decepados, 
+o  personagem  também  precisa  de  Res
+-
+taurar  Membros  (pág.  85),  mas  Regene-
+ração acelera muito essa habilidade. Re-
+generação inclui Recuperação Acelerada 
+(pág. 82) sem nenhum custo adicional.
+O  personagem  não  pode  ter  esta  
+vantagem  se  tiver  Recuperação  Lenta  
+(pág.  153)  ou  Sem  Recuperação  (pág.  
+156).  Regeneração  é  compatível  com  
+Drenagem (pág. 136), mas não restaura 
+os PV perdidos todos os dias por causa 
+dessa desvantagem.
+O custo dessa característica depende 
+da velocidade da regeneração:
+Regeneração  (Lenta):  O  personagem  
+recupera 1 PV a cada 12 horas, além da 
+capacidade normal de cura. 10 pontos.
+Regeneração  (Regular):  O  persona
+-
+gem recupera 1 PV por hora. 25 pontos.
+Regeneração (Rápida): O personagem 
+recupera 1 PV por minuto. 50 pontos.
+Regeneração  (Muito  Rápida):  O  per-
+sonagem  recupera  1  PV  por  segundo.  
+100 pontos.
+Regeneração  (Extrema):  O  persona
+-
+gem  recupera  10  PV  por  segundo.  150 
+pontos.
+Ampliações Especiais
+Cura  Radiação:  O  personagem  eli-
+mina  radiação  acumulada  numa  velo-
+cidade 10 vezes maior que o ritmo com 
+que  recupera  PV  perdidos.  Exemplo:  
+Regeneração (Regular) elimina 10 rads 
+por hora. Esse efeito efetivamente cura 
+danos “permanentes” causados pela ra

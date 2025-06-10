@@ -1,0 +1,100 @@
+perícias  necessárias.  O  Mestre  deve  fa
+-
+zer  em  segredo  um  teste  contra  a  perí-
+cia  relevante  do  personagem  com  uma  
+penalidade  de  -2  ou  mais.  No  caso  de  
+um  fracasso,  o  dispositivo  não  funcio
+-
+na  (mesmo  assim  o  Apetrecho  se  “des-
+gasta”). No caso de uma falha crítica, o 
+equipamento falha de maneira absurda!
+O  personagem  pode  sacar  uma  pequena  
+peça de equipamento que, por alguma razão, 
+estaria carregando consigo. Esse “Apetrecho” 
+permanece  indefinido,  até  ser  revelado.  Ele  
+não  pode  ser  danificado,  perdido,  roubado  
+ou encontrado durante uma revista.
+
+vantagens
+40
+Aptidão Mágica 2 5
+5 pontos por Aptidão Mágica 0,  
++10 pontos/nível
+O personagem é um adepto da 
+magia.  Esta  vantagem  está  divi
+-
+dida em níveis. É possível adquirir 
+Aptidão Mágica 0 antes de comprar os 
+níveis mais altos.
+Aptidão Mágica 0: Representa uma 
+“consciência mágica” básica, um 
+pré-requisito para se aprender magia 
+na maior parte dos mundos. O Mestre 
+faz um teste de Sentidos (pág. 358) 
+quando o personagem vê um objeto 
+encantado pela primeira vez e outro 
+quando ele o toca. No caso de um 
+sucesso, o personagem sabe intuitiva-
+mente que o objeto é encantado. Um 
+resultado de 3 ou 4 também diz se a 
+magia é benéfica ou perigosa, assim 
+como sua força. Personagens sem 
+Aptidão Mágica não têm direito a este 
+teste! 5 pontos.
+Aptidão Mágica 1+: Níveis mais 
+altos de Aptidão Mágica tornam muito 
+mais fácil o aprendizado e utilização 
+da magia. Adicione o nível desta van
+-
+tagem à IQ do personagem quando ele 
+estiver aprendendo mágicas. Exemplo: 
+um personagem com IQ 14 e Aptidão 
+Mágica 3 aprenderá todas as mágicas 
+como se sua IQ fosse 17. Adicione 
+também o nível de Aptidão Mágica 
+à Percepção quando o personagem 
+estiver fazendo um teste para sentir a 
+presença de objetos encantados e à IQ 
+quando estiver aprendendo a perícia 
+Taumatologia (pág. 225).
+Esta  vantagem  reduz  o  tempo  
+necessário para se aprender novas 
+mágicas durante o jogo (mas não  o  
+custo em pontos) em 10% por nível de 
+Aptidão, até o tempo mínimo de 60% 
+do tempo usual, no caso de persona
+-
+gens com Aptidão Mágica 4. Exemplo: 
+um  personagem  com  Aptidão  
+Mágica 3 aprende mágicas em 70% 
+do tempo usual.
+Mágicas poderosas têm um nível 
+mínimo de Aptidão Mágica como 
+pré-requisito, por isso, tenha o cui
+-
+dado de verificar esses pré-requisitos 
+na Lista de Mágicas (págs. 242–253) 
+quando estiver decidindo o nível 
+de Aptidão Mágica do personagem. 
+Lembre-se que níveis elevados de 
+Aptidão Mágica permitem que o per
+-
+sonagem consiga resultados podero-
+sos, até mesmo com as mágicas mais 
+básicas; v. Aptidão Mágica e Efeitos 
+(pág. 237). O Mestre estabelece o nível 
+máximo de Aptidão Mágica permi-
+tido para os PdJs. O nível 3 é apro-
+priado para “fantasia clássica”. 10 
+pontos/nível (além dos 5 pontos para 
+Aptidão Mágica 0).
+Magos em Cenários Sem Magia
+O  uso  da  Aptidão  Mágica  fica  mais  
+complicado em um cenário sem magia. O 
+personagem  continua  tendo  a  capacida
+-
+de  de  detectar  a  magia,  mas,  até  ele  ga-
+nhar experiência, o Mestre não deve dizer 
+“Aquele  ídolo  é  mágico”,  e  sim  “Aquele  
+ídolo tem uma aparência muito estranha 
+para você, muito sinistra. Você sente que 

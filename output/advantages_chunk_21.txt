@@ -1,0 +1,100 @@
+-
+zes  de  respirar,  comer  e  falar.  Boca  Adi-
+cional permite que o personagem morda 
+mais de uma vez se ele tiver Ataques Adi
+-
+cionais (pág. 42). Se tiver Mente Segmen-
+tada (pág. 70), o personagem é capaz de 
+manter  várias  conversas  ao  mesmo  tem
+-
+po ou fazer duas mágicas que exigem que 
+ele recite palavras. Outros benefícios adi
+-
+cionais incluem dificuldade para silenciar 
+ou sufocar o personagem e a capacidade 
+de cantar em harmonia consigo mesmo!
+Bom Senso 2
+10 pontos
+Sempre que o personagem começar 
+a fazer alguma coisa que o Mestre con
+-
+sidera ESTÚPIDA,  ele  deve  fazer  um  
+teste  contra  a  IQ  do  personagem.  No  
+caso  de  um  sucesso,  ele  deve  avisar  o  
+jogador “Você não acha que seria bom 
+pensar melhor no assunto?” Essa vanta
+-
+gem permite que um jogador impulsivo 
+interprete um personagem ponderado.
+Braços Adicionais 3 1
+Variável
+Em GURPS, qualquer membro com 
+o qual o personagem é capaz de mani
+-
+pular  objetos  é  classificado  como  um  
+braço, independente de sua localização 
+ou aparência. Um braço normal conse
+-
+gue dar um golpe que causa dano igual 
+à GdP-1 por contusão com base em ST. 
+O  padrão  humano  é  dois  braços  que  
+custam 0 ponto. Braços adicionais têm 
+um custo base de 10 pontos cada.
+Coordenação
+O personagem é capaz de utilizar seus 
+braços  adicionais  livremente  em  múlti
+-
+plas tarefas (exceto em combate). Exem-
+plo: com três braços, seria possível reali-
+zar uma tarefa de uma mão (como usar 
+o mouse do computador) e uma tarefa de 
+duas mãos (digitar, por exemplo) simul
+-
+taneamente.  No  entanto,  o  personagem  
+precisa de Rastreamento Ampliado (pág. 
+81)  para  executar  tarefas  que  exigem  
+atenção  a  eventos  que  estão  ocorrendo  
+em mais de um lugar ao mesmo tempo.
+O  personagem  também  é  capaz  de  
+usar  todos  os  seus  braços  harmoniosa
+-
+mente para realizar uma única manobra 
+de  combate  na  qual  seus  braços  adicio
+-
+nais seriam úteis; ex., agarrar um inimi-
+go num combate corporal. Com pelo me-
+nos três braços, também é possível usar 
+um escudo e ainda empunhar uma arma 
+de duas mãos — da mesma maneira que 
+um  guerreiro  humano  é  capaz  de  usar  
+um escudo e uma arma de uma mão.
+Independentemente da quantidade de 
+braços, o personagem não terá direito a 
+ataques adicionais (ou outras manobras 
+adicionais) durante o combate, a menos 
+que compre Ataque Adicional (pág. 42).
+Combate Corporal  
+com Braços Adicionais
+Braços Adicionais são uma vantagem 
+enorme  durante  um  combate  corporal.  
+O personagem não pode socar o inimigo 
+com mais de um braço por vez, a menos 
+que  ele  tenha  Ataques  Adicionais,  mas  
+pode segurá-lo com todos os seus braços 
+de uma só vez. Cada braço adicional — 
+acima de dois — de comprimento maior 
+ou  igual  ao  normal  concede  um  bônus  
+de  +2  em  qualquer  tentativa  de  agarrar  
+ou  de  se  desvencilhar  dessa  manobra.  
+Possuir mais braços que o inimigo tam
+-
+bém concede um bônus de +3 em qual-
+quer tentativa de imobilizar ou resistir a 
+uma imobilização.
+Ampliações Especiais
+Comprido: O braço do personagem é 
+mais comprido em relação ao seu corpo 
+do que um braço humano em relação a 
+um corpo humano. Isso aumenta o MT 
+efetivo do personagem para o cálculo de 
+alcance daquele braço (v. Modificador de 

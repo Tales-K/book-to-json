@@ -1,0 +1,100 @@
+desvantagem de -25 pontos se transfor
+-
+maria  em  uma  característica  de  -22,5  
+pontos  —  que  deve  ser  arredondada  
+para   -22.   As   desvantagens   limitadas   
+valem  menos  pontos,  pois  afetam  o  
+personagem   em   circunstâncias   mais   
+restritas.
+Lembre-se  que,  independentemente  
+da  quantidade  de  limitações  adquiri
+-
+das, os modificadores nunca podem re-
+duzir o custo de uma característica em 
+mais  de  80%.  Sempre  que  isso  aconte
+-
+cer,  aplique  somente  um  modificador  
+de -80%.
+
+vantagens
+110
+Acesso
+Variável
+Acesso é uma limitação generalizada 
+que  faz  o  personagem  sofrer  qualquer  
+tipo  de  restrição  não  especificado  em  
+nenhum  outro  lugar.  Ela  está  dividida  
+em duas categorias amplas: uma limita 
+os  alvos  que  podem  ser  afetados  pela  
+habilidade,  enquanto  a  outra  limita  as  
+situações nas quais ela funciona.
+Se a habilidade só pode afetar alguns 
+alvos, a limitação depende da frequên
+-
+cia  do  grupo  alvo.  “Apenas  em  mulhe-
+res”, “Apenas em homens” ou qualquer 
+outra coisa que cubra cerca da metade 
+da  população  vale  -20%.  “Apenas  em  
+Eletricidade”  ou  “Apenas  em  Máqui
+-
+nas” vale -20% em um cenário tecnoló-
+gico.  “Apenas  em  criaturas  marinhas”  
+vale  -30%  a  não  ser  que  a  campanha  
+seja  ambientada  em  um  mundo  que  
+tem sua maior parte coberta pela água 
+— nesse caso, a limitação não vale mais 
+que -10%. “Apenas em Alienígenas” vale 
+-30% ou -40%, dependendo do mundo. 
+“Apenas em Psis” vale -50% na maioria 
+dos  cenários.  “Exceto  em  ruivos”  é  a  
+mesma  coisa  que  “Afeta  todo  mundo,  
+exceto ruivos” e vale -10%.
+O mesmo padrão se aplica às limita
+-
+ções  baseadas  em  uma  situação.  “Ape-
+nas  de  dia”  ou  “Apenas  de  noite”  vale  
+-20%.  “Apenas  sob  a  luz  direta  do  sol”  
+vale -30%. “Apenas na água” vale -30% 
+na  Terra,  mas  pode  valer  mais  em  um  
+planeta  deserto  e  menos  em  um  mun
+-
+do  oceânico.  “Apenas  na  lua  cheia”  ou  
+“Apenas durante a lua nova” vale -40%. 
+E “Inútil sob pressão” tem um valor co
+-
+lossal de -60%, pois torna a habilidade 
+completamente  inútil  na  maioria  das  
+aventuras.
+Também  é  possível  vincular  uma  
+situação  de  Acesso  às  ações  do  perso
+-
+nagem. Quanto mais incomum, difícil e 
+detestável for a ação exigida, maior será 
+o valor da limitação. Alguns exemplos:
+Apenas  em  uma  forma  corporal  al
+-
+terada   (Invisível,   Insubstancialidade,   
+etc.): -10%.
+Apenas   enquanto   toca   trombeta:   
+-20%.
+Apenas  enquanto  voa,  Apenas  en
+-
+quanto nada, Apenas em transe hipnó-
+tico: -30%.
+Apenas em uma de múltiplas perso
+-
+nalidades: -40%.
+Em todos esses casos, se a habilida
+-
+de for enfraquecida (metade do poder), 
+em vez de inutilizada, reduza o valor da 
+limitação pela metade.
+O  Mestre  não  deve  permitir  limita
+-
+ções de Acesso sem sentido. Por exem-
+plo, comprar uma habilidade útil junto 
+com  a  limitação  “Apenas  em  amigos”  
+não melhora o custo. No entanto, com
+-
+prá-la junto com “Apenas em inimigos” 
+seria interessante! Da mesma forma, o 

@@ -1,0 +1,100 @@
++10% ou +20%
+Um  ataque  normalmente  tem  uma  
+“assinatura”:  um  raio  de  luz,  um  som,  
+etc.  Se  essa  informação  não  for  espe
+-
+cificada,  assuma  que  essa  assinatura  é  
+semelhante  a  um  tiro  de  revólver  ou  a  
+um trovão — ou seja, um raio brilhante 
+e um estrondo. Esta ampliação torna o 
+ataque menos óbvio.
+Assinatura  Discreta:  O  ataque  é  tão  
+difícil  de  identificar  quanto  o  som  de  
+uma  rolha  saindo  de  uma  garrafa  de  
+champagne;  ex.:  o  tiro  de  uma  pistola  
+de ar comprimido. +10%.
+Assinatura  Inexistente:  O  ataque  é  
+quase  totalmente  imperceptível;  ex.:  o  
+dardo  de  uma  zarabatana.  Uma  alter
+-
+nativa é que ele é impossível se detectar 
+pelos  métodos  convencionais,  mas  dei-
+xa um rastro mágico ou psíquico. +20%.
+Aura 6
++80%
+O ataque do personagem assume a for-
+ma de uma aura maligna que afeta qual-
+quer indivíduo tocado por ela (alcance C) 
+ou  que  tocar  nela.  Se  uma  arma  atingir  
+o personagem, a aura irá afetá-la. O per
+-
+sonagem  pode  ativar  ou  desativar  essa  
+habilidade no início do seu turno (ou ad
+-
+quira Sempre Ativa, pág. 116). Aura deve 
+ser comprada junto com o Ataque Corpo 
+a  Corpo  (pág.  111)  no  nível  de  -30%  (al
+-
+cance  C)  e  não  pode  apresentar  os  -5%  
+adicionais de “incapaz de aparar” — uma 
+aura por si só já é incapaz de aparar.
+O  exemplo  clássico  de  uma  Aura  é  o  
+contorno  ígneo  que  cerca  um  elemental  
+do fogo. Consulte Corpo de Fogo (pág. 263) 
+para saber como isso deve ser anotado.
+Barreira 6
++30% ou +60%
+Esta ampliação só pode ser aplicada 
+a ataques que têm Efeito de Área (pág. 
+105) e Persistente (pág. 108).
+Por  +30%,  o  personagem  pode  usar  
+Efeito  de  Área  como  uma  barreira  for
+-
+mada  pela  substância  ou  efeito  de  sua  
+habilidade.  Isso  afeta  qualquer  indiví
+-
+duo ou objeto que vier a atravessá-la. A 
+barreira apresenta três metros de com
+-
+primento e um metro de espessura para 
+cada metro de raio de sua área de efeito.
+Por  +60%,  a  barreira  tem  as  mes-
+mas características, mas o personagem 
+pode moldá-la da maneira que quiser.
+É necessário definir a barreira como 
+permeável ou rígida:
+Permeável:  A  barreira  é  composta  
+de  líquido,  gás,  energia  ou  um  sólido  
+amorfo  (ex.:  plantas  espinhosas).  Ela  
+bloqueia a visão e causa dano em qual
+-
+quer  pessoa  que  tentar  ultrapassá-la,  
+mas  um  intruso  é  capaz  de  chegar  ao  
+outro  lado  se  não  ficar  atordoado  ou  
+não  for  nocauteado,  morto,  etc.,  pelos  
+efeitos da barreira. Qualquer elemento 
+capaz de combater a substância da mu
+-
+ralha  irá  dissipá-la;  ex.:  a  água  ou  um  
+extintor de incêndio poderiam eliminar 
+uma barreira de fogo.
+Rígida:  A  barreira  é  composta  de  
+um material rígido. Isso é possível ape
+-
+nas  para  Ataques  Inatos  que  causam  
+dano  por  contusão,  corte,  perfuração  
+ou  dano  perfurante.  Cada  metro  da  
+barreira  tem  RD  3  e  1/2  PV  por  dado  
+de dano (arredondado para cima); ex.: 
+um ataque de 6d produz uma barreira 
+com RD 18 e 3 PV. A barreira não causa 
+dano  a  si  mesma,  mas  o  tipo  de  dano  
+se aplica à lesão causada em qualquer 
+indivíduo que der um encontrão nela.
+Base Sensorial 6
+Variável
+O  ataque  é  canalizado  pelos  sen-
+tidos  da  vítima,  possibilitando  que  a  
+RD seja ignorada! É preciso especificar 
+o(s)   sentido(s)   afetado(s).   Exemplos:   
+visão,  audição,  olfato  ou  sentidos  exó

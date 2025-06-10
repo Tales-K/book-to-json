@@ -1,0 +1,22 @@
+[
+  {
+    "sectionTitle": "Efeito de Área",
+    "content": "O primeiro nível de Efeito de Área dá ao personagem um raio de 1 metro. Os níveis seguintes dobram esse raio.",
+    "pageReference": "pág. 105"
+  },
+  {
+    "sectionTitle": "Abascanto (Resistência à Magia)",
+    "content": "O personagem tem mais chance de não ser afetado pela magia. O nível de Resistência à Magia dele é subtraído do nível de habilidade de qualquer outro personagem que faça uma mágica nele. Por exemplo, se um personagem tem Resistência à Magia 3, qualquer mago sofre uma penalidade de -3 em suas mágicas contra ele, enquanto ele recebe um bônus de +3 para resisti-las. Além disso, o personagem pode fazer um teste de HT + Resistência à Magia para resistir aos efeitos de elixires mágicos. Não é possível 'desligar' esta vantagem para receber acesso a mágicas benéficas ou beber elixires! O Abascanto só interfere com mágicas lançadas diretamente sobre o personagem. Ela não o defende de mágicas de projéteis, de ataques com armas mágicas e de mágicas de adivinhação lançadas diretamente contra ele. Resistência à Magia também não tem nenhum efeito sobre poderes sobrenaturais que não são mágicos; ex., milagres divinos, poderes psíquicos ou os poderes inatos de espíritos. O Abascanto, assim como seu nível preciso, pode ser reconhecido por qualquer mago que olhe para a aura do personagem ou por qualquer pessoa que faça uma mágica sobre ele. Esta vantagem não pode ser combinada com Aptidão Mágica. Na verdade, um personagem com Resistência à Magia não é capaz de fazer nenhuma mágica (embora ainda seja capaz de usar armas mágicas).",
+    "pageReference": ""
+  },
+  {
+    "sectionTitle": "Ampliações Especiais",
+    "content": "Ampliada: Sua Resistência à Magia não interfere com a habilidade de operar mágicas do personagem. Isso permite que ele tenha tanto Aptidão Mágica quanto Resistência à Magia.",
+    "pageReference": ""
+  },
+  {
+    "sectionTitle": "Abençoado",
+    "content": "O personagem está sintonizado com um deus, senhor demoníaco, grande espírito, poder cósmico, etc. Essa benção pode assumir diversas formas, mas em todos os casos, o personagem perderá a vantagem se não conseguir agir de acordo com as regras e valores da entidade. Abençoado: De vez em quando, o personagem recebe sabedoria da entidade. Após comungar (por meio de meditação, oração, etc.) por pelo menos uma hora, o personagem recebe visões ou presságios sobre eventos futuros. Estabeleça os detalhes em conjunto com o Mestre; ex., o Deus do Fogo pode exigir que o personagem fique olhando fixamente para chamas durante uma hora, para depois enviar suas revelações. O Mestre faz secretamente um teste contra a IQ do personagem para ver se ele recebe alguma informação útil. Entretanto, o ritual é extenuante; no final dessa uma hora, o personagem perde 10 PF. Como um benefício secundário, os seguidores da entidade percebem o status especial do personagem, que recebe um bônus de reação de +1 na presença deles.",
+    "pageReference": ""
+  }
+]

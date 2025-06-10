@@ -1,0 +1,100 @@
+Observação  para  o  Mestre:  Esta  am-
+pliação  é  muito  poderosa.  Ela  permite  
+que personagens insubstanciais afetem o 
+mundo material sem medo de retaliação. 
+Sinta-se  livre  para  proibi-la,  restringi-la  
+a  PdMs  ou  garantir  que  vários  inimigos  
+tenham a ampliação Afeta Insubstancial!
+Afeta Insubstancial
++20%
+A  habilidade  do  personagem  afeta  
+alvos  insubstanciais,  além  das  coisas  
+normais e materiais.
+Agente de Contato 6
++150%
+Durante  um  ataque  com  Efeito  de  
+Área ou Cone, esta habilidade se torna 
+uma ampliação.   Para   maiores   infor
+-
+mações, consulte a limitação Agente de 
+Contato (pág. 110).
+Agente Respiratório 6
++50%
+O  ataque  precisa  ser  inalado  para  
+surtir qualquer efeito, mas ignora toda 
+RD. Somente Pulmões com Filtro e Não 
+Respira protegem o alvo totalmente — 
+embora um sucesso num teste de Sen
+-
+tidos  pode  alertar  uma  vítima  do  ata-
+que  a  tempo  dela  prender  o  fôlego  (v.  
+Prender o Fôlego, pág. 355). Para tornar 
+o ataque menos evidente, adquira Assi
+-
+natura Discreta (pág. 103).
+Esta ampliação só pode ser aplicada 
+à  Atribulações  ou  Ataques  Inatos  que  
+causam  dano  por  toxina  ou  fadiga  e  
+precisa ser combinada com Cone (pág. 
+104), Efeito de Área (pág. 105) ou Jato 
+(pág.  107).  Persistente  também  (pág.  
+108) é comum, mas não obrigatório.
+Agente  Respiratório  é  um  “modifi-
+cador de penetração”; ele não pode ser 
+combinado  com  outros  modificadores  
+do mesmo tipo, como Acompanhamen
+-
+to (pág. 102).
+Agente Sanguíneo 6
++100%
+Durante  um  ataque  com  Efeito  de  
+Área ou Cone, esta habilidade se torna 
+uma ampliação. Para maiores detalhes, 
+consulte  a  limitação  Agente  Sanguíneo 
+(pág. 110).
+Alcance Ampliado
++10%/nível
+O  personagem  pode  acrescentar  esta  
+ampliação a qualquer vantagem que tenha 
+um parâmetro distância; ex.: Ataque Inato 
+ou Sentido de Monitoramento. Cada nível 
+aumenta a distância da seguinte forma:
+Modificador  
+de Distância
+Modificador
+2×+10%
+5×+20%
+10×+30%
+20×+40%
+50×+50%
+100×+60%
+
+vantagens
+103
+2
+Os níveis posteriores seguem a mes-
+ma progressão de “2–5–10”.
+Se  for  aplicado  a  um  ataque  à  dis-
+tância,  cada  nível  aumenta  1/2D  e  Max.  
+Também  é  possível  aumentar  esses  va-
+lores  individualmente  pagando  metade  
+do custo (isto é, “1/2D Ampliado” e “Max 
+Ampliado” custam +5%/ nível). No entan
+-
+to, não é possível aumentar 1/2D de modo 
+que ele ultrapasse Max. No máximo, 1/2D 
+pode  ser  igual  a  Max  —  o  que  significa
+-
+ria que o ataque não tem distância 1/2D. 
+No caso de ataques que já se comportam 
+dessa forma, compre Max por +5%/nível.
+Área Seletiva 6
++20%
+Esta  ampliação  pode  ser  aplicada  a  
+qualquer ataque de Efeito de Área (pág. 
+105)  ou  Cone  (pág.  104).  Isso  permite  
+ao personagem escolher quais alvos se
+-
+rão realmente afetados dentro da área.
+Assinatura Discreta 
+ou Inexistente 6

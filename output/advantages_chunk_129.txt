@@ -1,0 +1,100 @@
+-
+croscópios óticos. O nível 5 (100.000×) 
+compara-se a um microscópio eletrôni
+-
+co, capaz de mostrar um vírus. O nível 
+6  (1.000.000×)  assemelha-se  a  um  mi
+-
+croscópio  de  tunelamento  ou  de  força  
+atômica e é capaz de revelar a estrutura 
+atômica de um objeto.
+Visão no Escuro 3 1
+25 pontos
+O  personagem  é  capaz  de  enxergar  
+na  escuridão  absoluta  utilizando  qual
+-
+quer  outro  meio  que  não  a  luz,  radar  
+ou  sonar.  Ele  não  sofre  nenhuma  pe
+-
+nalidade em suas perícias por causa da 
+escuridão, independente de sua origem. 
+No entanto, ele não consegue distinguir 
+cores no escuro.
+Ampliações Especiais
+Visão em Cores: O personagem é ca-
+paz  de  distinguir  as  cores  mesmo  no  
+escuro. +20%.
+Visão Noturna 3
+1 ponto/nível
+Os olhos do personagem se adaptam 
+rapidamente  à  escuridão.  Cada  nível  
+nesta habilidade (até no máximo nove) 
+permite  que  ele  ignore  uma  penalida
+-
+de  de  -1  provocada  pela  escuridão  em  
+testes que envolvam a visão ou no com
+-
+bate, contanto que haja pelo menos um 
+pouco de luz.
+Exemplo:  Uma  Visão  Noturna  de  4  
+eliminaria   completamente   as   penali
+-
+dades  de  uma  escuridão  de  até  -4  —  e  
+reduziria  uma  penalidade  de  -7  para  
+apenas -3.
+Independentemente  do  nível,  Visão  
+Noturna funciona apenas em situações 
+de escuridão parcial. Ela não surte ne
+-
+nhum  efeito  sobre  a  penalidade  de  -10  
+de uma escuridão total (para isso, é pre
+-
+ciso ter Visão no Escuro, pág. 97).
+Visão Penetrante 3 1
+10 pontos/nível
+A Visão Penetrante (às vezes cha-
+mada de “visão raio-x”) permite que 
+o  personagem  enxergue  através  de  
+objetos  sólidos.  Cada  nível  desta  
+vantagem  permite  que  o  persona-
+gem enxergue através de até 15 cm 
+de  matéria  comum.  O  personagem  
+consegue notar o contorno da subs-
+tância  que  está  sendo  atravessada  
+mas  não  o  suficiente  para  prejudi-
+car  a  visão.  Visão  Penetrante  age  
+automaticamente em conjunto com 
+todas  as  outras  vantagens  relacio-
+nadas  à  visão  (Infravisão,  Ultravi-
+são, etc.) do personagem.
+
+vantagens
+98
+Limitações Especiais
+Bloqueável:  Uma  determinada  subs-
+tância  bloqueia  completamente  a  vi-
+são   do   personagem.   Materiais   mais   
+comuns,  como  plástico,  pedra  ou  ma
+-
+deira,   valem   -30%;   materiais   menos   
+comuns,  como  tijolo  ou  asfalto,  valem  
+-20%;  um  material  específico,  como  o  
+chumbo, vale -10%.
+Específica: A habilidade do persona
+-
+gem  só  funciona  com  uma  substância  
+em particular. Materiais comuns, como 
+tijolo,  metal  ou  madeira,  valem  -40%;  
+materiais  incomuns,  como  gelo  ou  ar
+-
+gila,  valem  -60%;  materiais  absurdos,  
+como chocolate ou seda, valem -80%.
+Visão Periférica 3
+15 pontos
+O personagem tem um campo de vi-
+são  extraordinariamente  amplo.  Ele  é  
+capaz de enxergar num arco de 180° à 
+sua frente sem precisar virar a cabeça e 
+possui uma visão periférica de 30° para 
+cada lado. Isso concede um “ângulo de 
+visão”  efetivo  de  240°  para  observação  

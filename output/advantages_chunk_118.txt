@@ -1,0 +1,100 @@
+normalmente não têm um valor predefinido, 
+contanto  que  o  jogador  atenda  quaisquer  
+outras   exigências   de   vantagem.   Talento   
+Instintivo não surte efeito nas perícias que o 
+personagem já conhece.
+gências  de  vantagem.  Por  exemplo,  o  
+personagem  pode  fazer  mágicas  des
+-
+conhecidas se tiver Aptidão Mágica, ou 
+utilizar artes marciais cinematográficas 
+desconhecidas se tiver Treinado por um 
+Mestre.
+Esta  vantagem  não  surte  efeito  nas  
+perícias que o personagem já conhece.
+Ampliações Especiais
+Retenção:   O   personagem   é   capaz   
+de  aprender  as  perícias  que  usa!  Para  
+isso,  ele  precisa  ter  um  ponto  de  per
+-
+sonagem disponível quando faz o teste 
+de habilidade. No caso de um sucesso, 
+ele  pode  comprar  a  perícia  com  o  NH  
+apropriado a um ponto de personagem. 
+Ele não pode tentar melhorar uma pe
+-
+rícia  aprendida  dessa  maneira  por  um  
+mês  e,  durante  esse  tempo,  só  pode  
+usá-la  com  penalidades  de  no  máximo  
+-2.  No  caso  de  um  sucesso  decisivo,  o  
+PdJ pode tentar melhorar a perícia ime
+-
+diatamente  e  a  limitação  de  penalida-
+des não se aplica. Se fracassar, ele não 
+consegue aprender a perícia; no caso de 
+uma  falha  crítica,  além  de  não  apren
+-
+dê-la, ele perde o ponto de personagem 
+não gasto! Independente do sucesso, se 
+o personagem não tiver todos os pré-re
+-
+quisitos da perícia, o NH sofre uma pe-
+nalidade de -4 até que ele os tenha (não 
+é possível melhorá-la durante esse perí
+-
+odo).  Esta  ampliação  não  permite  que  
+o  personagem  aprenda  perícias  de  um  
+NT superior ao seu. +25%.
+Limitações Especiais
+Apenas  em  Emergências:  O  Talento  
+Instintivo  funciona  apenas  em  situa
+-
+ções de vida ou morte, como combates 
+letais.  Para  utilizá-lo,  o  PdJ  tem  que  
+tentar  um  resultado  em  particular  re
+-
+lacionado  ao  apuro  em  que  se  encon-
+tra.  Seu  pedido  tem  que  ser  específico  
+(ex.: “Tire-o de perto de mim”), mas ele 
+não  pode  especificar  uma  perícia  (ex.:  
+“Utilizar  Judô”  ou  “Usar  a  mágica  Co
+-
+mando”). Em seguida, o Mestre escolhe 
+uma perícia capaz de gerar o resultado 
+desejado.  Ele  não  está  limitado  a  pe
+-
+rícias  mundanas  e  pode  escolher  uma  
+mágica  se  o  personagem  tiver  Aptidão  
+Mágica,  artes  marciais  cinematográfi
+-
+cas  se  ele  for  Treinado  por  um  Mestre  
+e assim por diante. Depois de escolher 
+a  perícia,  o  próprio  Mestre  faz  o  teste  
+contra  o  atributo  principal,  como  de  
+costume. Se achar que o personagem já 
+tem a perícia condizente com a tarefa, 
+o  Mestre  pode  aconselhar  o  persona
+-
+gem sobre o que fazer. Isso ainda conta 
+como  uma  utilização  da  vantagem  Ta
+-
+lento Instintivo! -30%.
+Compenetrado:   O   personagem   só   
+pode usar (e, se tiver Retenção, só pode 
+aprender) uma classe específica de perí
+-
+cias. Algumas opções são, Mentais (pe-
+rícias  mundanas  baseadas  em  IQ,  Per-
+cepção  ou  Vontade),  Físicas  (perícias  
+mundanas baseadas em ST, DX ou HT), 
+Mágicas (mágicas) e Chi (artes marciais 
+cinematográficas). -20%.
+Telecinese 2/3 1
+5 pontos/nível
+O  personagem  é  capaz  de  mover  
+objetos  sem  tocá-los.  Na  verdade,  ele  
+manifesta  uma  força  invisível  que  age  
+de  acordo  com  suas  instruções  cons
+-
+cientes  a  um  ponto  distante.  Especifi-
+que como ele faz isso; entre as possibi-

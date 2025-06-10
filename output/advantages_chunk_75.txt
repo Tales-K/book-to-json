@@ -1,0 +1,100 @@
+em conjunto. Exemplos: Espadas de lâ
+-
+mina  larga  e  escudo,  rapieira  e  adaga  
+de esgrima. 25 pontos.
+Uma arma específica. 20 pontos.
+Em todos os casos, se uma arma puder 
+ser arremessada, os benefícios desta van
+-
+tagem também se aplicam ao arremesso.
+Quando  estiver  utilizando  uma  arma  
+adequada, o personagem recebe um bônus 
+de +1 por dado no dano básico por GdP ou 
+GeB se possuir a perícia com a arma em 
+questão com NH igual à sua DX+1. Ele re
+-
+cebe um bônus de +2 por dado se possuir 
+a mesma perícia com NH maior ou igual a 
+DX+2. O personagem sofre apenas metade 
+da penalidade habitual para executar um 
+Golpe Rápido (v. Opções de Ataques Corpo 
+a Corpo, pág. 369) ou para Aparar mais de 
+uma  vez  por  turno  (v.  Aparar,  pág.  376).  
+Nenhum  desses  benefícios  se  aplica  ao  
+uso de valores predefinidos.
+O  personagem  está  familiarizado  se  
+não for proficiente — com todas as armas 
+da  classe  escolhida.  Isso  concede  a  ele  
+um  melhor  valor  predefinido  com  essas  
+armas:  perícias  do  tipo  DX/Fácil  podem  
+ser usadas com DX-1; perícias DX/Média, 
+com DX-2; perícias DX/Difícil, com DX-3. 
+Observe  que  essas  perícias  não  são  mais  
+fáceis de aprender e não podem ser “com
+-
+pradas”  a  partir  dos  valores  predefinidos  
+melhorados para economizar pontos.
+Por  fim,  o  personagem  pode  apren-
+der  qualquer  perícia  cinematográfica  
+que  exija  esta  vantagem  como  pré-re
+-
+quisito  (consulte  o  Capítulo  4)  —  ex.:  
+Lutar às Cegas e Golpe Poderoso — des
+-
+de  que  exista  uma  razão  para  ele  usar  
+essas perícia com as armas de sua pre
+-
+ferência. O Mestre tem a palavra final.
+Esta  característica  combina  melhor  
+com aventuras “cinematográficas” e in
+-
+formais. Talvez o Mestre prefira proibi-
+-la em uma campanha realista.
+Metamorfose 3 1
+Variável
+O personagem é capaz de assumir uma 
+ou  mais  formas  físicas  diferentes  de  sua  
+original. Para isso, ele precisa se concentrar 
+por 10 segundos. Para acelerar o processo, 
+acrescente Tempo Reduzido (pág. 109).
+A  Fadiga,  lesões,  incapacitação  e  atri-
+bulações são passadas de uma forma para 
+outra — embora as perdas de PV e PF se
+-
+jam escalonadas na proporção dos valores 
+totais  da  PV  e  PF  da  nova  forma.  Exem
+-
+plo: se o personagem sofrer 10 pontos de 
+dano e quebrar uma perna em uma forma 
+com 20 PV, terá sofrido 5 pontos de dano 
+e  terá  a  mesma  perna  quebrada  quando  
+assumir uma forma com apenas 10 PV.
+Se  o  personagem  for  nocauteado  ou  
+morto,  ele  volta  imediatamente  para  a  
+
+vantagens
+71
+2
+forma  original  (que  também  estará  in-
+consciente  ou  morta).  Além  disso,  o  jo-
+gador  precisa  especificar  uma  influência  
+externa  razoavelmente  comum  capaz  de  
+obrigá-lo a retornar à forma original. Isso 
+deve  estar  de  acordo  com  a  origem  da  
+vantagem: Anular Mágica se a habilidade 
+do personagem for mágica, exorcismo se 
+for  um  poder  espiritual,  campos  magné
+-
+ticos poderosos, se for tecnológica, etc.
+Metamorfose abrange duas caracte-
+rísticas  distintas:  Forma  Alternativa  e  
+Morfose.
+Forma Alternativa
+Variável
+Da mesma maneira que o lobisomem 
+do folclore, o personagem é capaz de as
+-
+sumir  uma  forma  específica  e  diferente  
+da original. Essa forma pode ser qualquer 
+coisa que possa ser construída com pon
+-

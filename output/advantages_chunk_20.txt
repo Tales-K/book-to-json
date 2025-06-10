@@ -1,0 +1,100 @@
+podem ser ativadas e desativadas (como 
+Insubstancialidade) ficam “ativadas” auto-
+maticamente por um número de minutos 
+igual à margem de fracasso no teste de 
+HT (a diferença entre o resultado obtido 
+em um fracasso e o número alvo do teste) 
+e não ficam sob o controle do indivíduo. 
+Isso vale +10% para cada ponto de perso
+-
+nagem que custa a vantagem; por exemplo, 
+Insubstancialidade custaria +800%! Se a 
+vantagem tiver níveis, especifique-o.
+Audição 
+Discriminatória 3 1
+15 pontos
+O personagem tem uma capacidade 
+sobre-humana para distinguir sons. Ele 
+sempre consegue identificar as pessoas 
+pela voz e é capaz de reconhecer cada 
+máquina por seu “som típico”. No caso de 
+um sucesso em um teste de IQ, ele também 
+é capaz de memorizar um som se puder 
+ouvi-lo durante pelo menos um minuto. No 
+caso de um fracasso, ele tem que esperar no 
+mínimo um dia antes de repetir a tentativa.
+O personagem recebe um bônus de 
++4 (além dos eventuais bônus de Audição 
+Aguçada) em qualquer tarefa que utiliza a 
+audição e na perícia Perseguição quando 
+estiver seguindo um alvo barulhento.
+Para simular o sonar passivo utilizado 
+pelos submarinos, acrescente uma limitação, 
+de Acesso de -30%; “Somente sob a Água”.
+Audição Parabólica 3 1
+4 pontos/nível
+O  personagem  é  capaz  de  dar  um  
+“zoom” num som ou numa área em par-
+ticular e filtrar os sons que lhe interessam 
+do ruído de fundo. Cada nível de Audição 
+Parabólica dobra a distância dentro da 
+qual o personagem é capaz de distinguir 
+claramente os sons (v. Audição, pág. 358).
+Audição Subsônica 3 1
+0 ou 5 pontos
+O personagem é capaz de ouvir sons de 
+baixa frequência (abaixo de 40 Hz), como 
+
+vantagens
+45
+2
+o retumbar de trovões distantes, a vibração 
+inicial de terremotos e o estampido produ-
+zido pelo estouro de um bando de animais, 
+veículos blindados ou dragões. Esta van-
+tagem concede um bônus de +1 à perícia 
+Rastreamento se o alvo estiver se movendo 
+sobre o solo. Seu custo depende das habili-
+dades concedidas ao personagem:
+O  personagem  só  é  capaz  de  ouvir  
+sons de frequência muito baixa: 0 ponto.
+O personagem é capaz de ouvir sons 
+de  frequência  muito  baixa  e  outros  
+sons: 5 pontos.
+Observe  que  a  vantagem  Audição  
+Subsônica está inclusa no custo de Fala 
+Subsônica (pág. 59); o personagem não 
+pode comprar as duas.
+Boa Forma 3
+5 ou 15 pontos
+O  personagem  tem  um  sistema  car-
+diovascular mais saudável do que indi-
+ca seu valor de HT. Esta vantagem pode 
+ser comprada em dois níveis:
+Boa  Forma:  O  personagem  recebe  
+um  bônus  de  +1  em  todos  os  testes  de  
+HT (para manter a consciência, evitar a 
+morte, resistir doenças e venenos, etc.). 
+Isso  não  melhora  o  valor  da  HT  nem  
+das perícias baseadas nela! Ele também 
+recupera  PF  no  dobro  da  velocidade  
+normal. 5 pontos.
+Ótima  Forma:  Funciona  da  mesma  
+maneira  que  o  nível  anterior,  mas  o  
+personagem ganha um bônus de +2 nos 
+testes de HT. Além disso, o personagem 
+perde PF na metade da velocidade nor
+-
+mal. 15 pontos.
+Nos  dois  casos,  essa  vantagem  se  
+aplica somente aos PF perdidos por es
+-
+forço,  calor,  etc.  Ela  não  tem  qualquer  
+efeito sobre os PF gastos para fazer má
+-
+gicas ou usar poderes psíquicos.
+Boca Adicional 3 1
+5 pontos/boca
+O personagem tem mais de uma boca 
+funcional,  que  pode  estar  em  qualquer  
+parte do corpo. Todas as bocas são capa

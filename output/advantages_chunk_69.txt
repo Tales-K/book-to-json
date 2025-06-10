@@ -1,0 +1,100 @@
+-
+nece  visível.  Se  não  estiver  carregando  
+nada, o personagem recebe um bônus de 
++9 em Furtividade em qualquer situação 
+onde é importante não ser visto.
+Indivíduos  utilizando  visão  remota  
+paranormal  (bola  de  cristal,  Clarivi
+-
+dência, etc.) não conseguem enxergar o 
+personagem se ele estiver invisível para 
+os sentidos 
+normais dessas pessoas. Os 
+dispositivos  com  esses  poderes  ainda  
+conseguem  localizá-lo  —  assim  como  
+as habilidades paranormais que detec
+-
+tam inimigos, vida, etc. — mas apenas 
+de modo não-visual.
+A Invisibilidade funciona apenas con-
+tra um  tipo  de  visão.  Entre  os  tipos  de  
+visão  se  incluem:  visão  eletromagnética  
+(que  abrange  a  visão  comum,  a  Infravi
+-
+são,  a  Ultravisão  e  os  radares),  sonares,  
+campos magnéticos e qualquer outra coi
+-
+sa que o Mestre possa criar. Se for invisí-
+vel para a visão eletromagnética, o perso-
+nagem não apresenta sombra ou reflexo.
+Ampliações Especiais
+Afeta Máquinas: O personagem é in-
+visível  até  mesmo  para  máquinas.  Ele  
+não pode ser fotografado e não aparece 
+em  câmeras  ou  outros  detectores.  Dis
+-
+positivos como placas de pressão ainda 
+percebem sua presença, mas o persona
+-
+gem consegue passar por um robô sen-
+tinela  sem  ser  detectado.  Armas  com  
+mira   eletrônica   não   recebem   bônus   
+para atingi-lo. +50%.
+Ativada  ou  Desativada  à  Vontade: 
+O  personagem  é  normalmente  visível,  
+mas  pode  se  tornar  invisível  quando  
+quiser. +10%.
+
+vantagens
+68
+Capaz  de  Carregar  Objetos:  Os  objetos  
+que o personagem estiver carregando, in
+-
+cluindo  roupas  e  armaduras,  se  tornam  
+invisíveis. Eles voltam a ser visíveis quan
+-
+do colocados no solo. Objetos que pesam 
+até o valor de Nenhuma Carga do perso
+-
+nagem custam +10%; até Leve, +20%; até 
+Média, +50%; até Pesada, +100%.
+Estendida:  O  personagem  é  invisí-
+vel para mais de um tipo de visão (ex., 
+visão  eletromagnética  e  campos  mag
+-
+néticos).  +20%  por  tipo  adicional  de  
+visão.
+Normalmente  Ativa:  O  personagem  
+normalmente  é  invisível,  mas  ele  é  ca
+-
+paz  de  se  tornar  visível  por  curtos  pe-
+ríodos  de  tempo  fazendo  um  grande  
+esforço — 1 PF por segundo. +5%.
+Limitações Especiais
+Reflexo  Visível:  A  imagem  do  perso-
+nagem reflete em espelhos! -10%.
+Somente Máquinas: Essa habilidade 
+funciona como Afeta Máquinas, mas o 
+personagem  fica  invisível  apenas  para  
+máquinas.  Os  seres  vivos  são  capazes  
+de enxergá-lo normalmente. -50%.
+Somente Matéria: A invisibilidade do 
+personagem o oculta apenas no mundo 
+material. Criaturas insubstanciais (fan
+-
+tasmas, etc.) são capazes de enxergá-lo 
+normalmente. -10%.
+Sombra Visível: O personagem proje
+-
+ta uma sombra! -10%.
+Lacrado 3 1
+15 pontos
+O personagem é envolvido por uma 
+camada   impermeável   de   gases   e   lí
+-
+quidos.  Isso  o  torna  à  prova  d’água  e  
+concede  imunidade  total  contra  agen
+-
+tes  tóxicos  e  corrosivos  que  precisam  
+tocar  a  pele  ou  maquinário  exposto  
+para  fazer  efeito.  O  personagem  conti

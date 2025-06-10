@@ -1,0 +1,100 @@
+•    Um  bônus  de  +1  por  nível  em  to
+-
+das as perícias afetadas, até mesmo nos 
+testes  com  valores  predefinidos.  Isso  
+aumenta  o  NH  relativo  apenas  com  
+aquelas perícias; logo, essa é uma forma 
+barata de se tornar capacitado em uma 
+pequena  classe  de  perícias  (os  genera
+-
+listas vão perceber que a relação custo-
+-benefício é melhor quando se aumenta 
+o valor do atributo).
+•    Um  bônus  de  +1  por  nível  em  to
+-
+dos os testes de reação feitos por qual-
+quer pessoa capaz de perceber o Talen-
+to  do  personagem,  se  existir  a  chance  
+de  ela  ficar  impressionada  com  sua  
+aptidão (a critério do Mestre). Para re
+-
+ceber esse bônus, o personagem precisa 
+demonstrar  seu  Talento  —  geralmente  
+utilizando as perícias afetadas.
+•    Uma  redução  no  tempo  necessá-
+rio  para  aprender  as  perícias  afetadas  
+durante  o  jogo,  independentemente  de  
+como o personagem as aprende. Reduza 
+o  tempo  em  10%  por  nível  de  Talento;  
+ex.: Companheiro Animal 2 permite que 
+o personagem aprenda perícias relacio
+-
+nadas  com  animais  em  80%  do  tempo  
+normal.  Isso  não  surte  nenhum  efeito  
+sobre o custo em pontos das perícias.
+O personagem nunca pode ter mais 
+que  quatro  níveis  em  um  determinado  
+Talento. No entanto, talentos que se so
+-
+brepõe (e apenas eles) podem conceder 
+bônus maiores que +4 a uma perícia.
+Custo dos Talentos
+O  custo  de  um  Talento  depende  
+do  tamanho  do  grupo  de  perícias  
+afetadas:
+Pequeno  (6  ou  menos  perícias  rela-
+cionadas): 5 pontos/nível.
+Médio  (7  a  12  perícias  relaciona-
+das): 10 pontos/nível.
+Grande (13 ou mais perícias relacio-
+nadas): 15 pontos/nível.
+No que se refere aos Talentos, pe-
+rícias  com  múltiplas  especializações  
+são  consideradas  uma  única  perícia.  
+Depois  que  o  Talento  é  adquirido,  a  
+lista  de  perícias  afetadas  é  definitiva  
+(exceção:  o  Mestre  pode  determinar  
+que   um   determinado   Talento   afe
+-
+ta   novas   perícias   que   apareceram   
+em   suplementos   subsequentes   de   
+GURPS, ou perícias que ele inventar 
+durante a campanha — considerando 
+que  o  talento  é  de  algum  valor  para  
+elas).
+Exemplos de Talentos
+Os  Talentos  a  seguir  são  considera-
+dos  padrão  e  existem  em  grande  parte  
+das campanhas:
+Agente   Cativante:   Boemia,   De-
+tecção   de   Mentiras,   Diplomacia,   
+Dissimulação,  Intimidação,  Lábia,  
+Liderança,   Manha,   Mendicância,   
+Oratória, Política, Sex Appeal e Tra-
+to Social. Bônus de reação: engana-
+dores,  políticos,  vendedores,  etc.,  
+mas só se o personagem não estiver 
+tentando  manipulá-los.  15  pontos/
+nível.
+Artífice:  Alvenaria,  Armeiro,  Car-
+pintaria,  Conserto  de  Equipamento  
+Eletrônico,   Eletricista,   Engenharia,   
+Maquinista,   Mecânica   e   Ferreiro.   
+Bônus   de   reação:   qualquer   pessoa   
+para  quem  o  personagem  trabalha.  
+10 pontos/nível.
+Artista  Talentoso:  Artista,  Costu-
+ra,  Fotografia,  Joalheiro  e  Traba-
+lhos  em  Couro.  Bônus  de  reação: 
+qualquer  pessoa  que  adquirir  ou  
+apreciar o trabalho do personagem. 
+5 pontos/nível.
+Companheiro    Animal:    Adestra-
+mento   de   Animais,   Carregamento,   
+Carroceiro,  Cavalgar,  Falcoaria  e  Ve
+-
+terinária. Bônus  de  reação:  todos  os  
+animais. 5 pontos/nível.
+Curandeiro:    Cirurgia,    Diagnose,    
+Farmácia, Fisiologia, Medicina, Medi
+-

@@ -1,0 +1,100 @@
+de 17 ou 18, ele não poderá ser encontra
+-
+do  durante  toda  a  aventura!  No  caso  de  
+um sucesso, o Mestre deve fazer um teste 
+contra o NH efetivo do Contato para cada 
+informação ou pequeno favor solicitado.
+Nenhum contato pode ser encontra-
+do mais de uma vez por dia, mesmo que 
+vários  PdJs  compartilharem  o  mesmo  
+Contato. Se um personagem tiver mui
+-
+tas  perguntas  para  fazer,  deverá  tê-las  
+todas  em  mente  quando  se  encontrar  
+com  o  Contato.  Ele  responderá  à  pri
+-
+meira  pergunta  com  seu  NH  efetivo  
+completo.  Cada  questão  subsequente  
+sofre uma penalidade cumulativa de -2. 
+Não abuse de seus Contatos!
+Um  Contato  nunca  trará  informa
+-
+ções  fora  de  sua  área  de  conhecimen-
+to  —  seja  sensato.  Do  mesmo  modo,  o  
+Mestre  não  deve  fornecer  informações  
+que causem um curto-circuito em uma 
+parte importante da aventura.
+O jogador deve especificar como o per-
+sonagem  se  comunica  com  seu  Contato.  
+Independente da frequência de participa
+-
+ção,  o  personagem  não  conseguirá  falar  
+com ele se esse canal não estiver aberto.
+Confiabilidade
+Não existe nenhuma garantia de que 
+um  Contato  será  honesto.  A  confiabili
+-
+dade  multiplica  o  custo  em  pontos  do  
+indivíduo como mostrado a seguir:
+Completamente    Confiável:    Mesmo    
+numa falha crítica no teste de NH efeti
+-
+vo, a pior resposta do Contato será “Não 
+sei”. No caso de um fracasso comum, ele 
+conseguirá a informação em 1d dias. ×3.
+Razoavelmente  Confiável:  No  caso  de  
+uma falha crítica, o Contato mente. Num 
+fracasso  comum,  ele  não  sabe  nada  por  
+enquanto, “... mas talvez dentro de alguns 
+(1d)  dias”.  O  personagem  pode  tentar  de  
+novo depois do número de dias especifica
+-
+do; um novo fracasso indica que o indiví-
+duo não conseguiu descobrir nada. ×2.
+
+vantagens
+49
+2
+Meio  Confiável:  No  caso  de  um  fra-
+casso,  o  Contato  não  sabe  nem  conse-
+guiu descobrir nada. Em uma falha crí-
+tica, ele mente e, se tiver obtido um 18, 
+revela aos inimigos do personagem, ou 
+às  autoridades  (o  que  for  apropriado),  
+quem andou fazendo perguntas. ×1.
+Não Confiável: Reduza em 2 pontos o 
+NH  efetivo  do  Contato.  No  caso  de  um  
+fracasso comum, o Contato mente; numa 
+falha crítica, ele notificará os inimigos do 
+personagem. ×1/2  (arredonde  para  cima;  
+o custo final mínimo é 1 ponto).
+Dinheiro é Poder
+O  suborno  —  seja  na  forma  de  di-
+nheiro  ou  favores  —  motiva  um  Con-
+tato  e  aumenta  seu  nível  de  confiabili-
+dade. Quando chegar a “razoavelmente 
+confiável”,  os  níveis  adicionais  serão  
+direcionados para o NH efetivo do Con
+-
+tato;  o  suborno  nunca  torna  alguém  
+completamente confiável!
+O valor do suborno deve ser mais ou 
+menos equivalente ao ganho de um dia 
+de trabalho para um bônus de +1, equi
+-
+valente  a  uma  semana  para  um  bônus  
+de +2, equivalente a um mês para +3 e 
+equivalente a um ano para +4. Favores 
+devem  ter  um  valor  semelhante  e  de
+-
+vem estar relacionados a algo que faça 
+a diferença durante o jogo.
+O  suborno  também  deve  ser  apro-
+priado para o Contato. Um diplomata se 
+sentiria insultado com um suborno em 
+dinheiro,  mas  poderia  gostar  de  ser  in
+-
+cluído num determinado círculo social. 
+Um  criminoso  pediria  dinheiro,  mas  
+poderia  aceitar  favores  que  criariam  
+problemas  para  o  personagem.  Um  in

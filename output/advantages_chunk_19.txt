@@ -1,0 +1,100 @@
+ginal; por exemplo, um Ataque Cardíaco 
+Secundário vale +60%, em vez de +300%.
+Depois que você tiver escolhido todos 
+os modificadores da Atribulação, descreva 
+a natureza do ataque, como detalhado em 
+Ataque Inato (pág. 42).
+Ampliações Especiais
+Ataque Cardíaco: A vítima sofre um 
+ataque cardíaco incapacitante e morrerá 
+em alguns minutos se não for tratada; v. 
+Condições Fatais (pág. 429). +300%.
+Atordoamento: Só pode acompanhar 
+Vantagem,  Penalidade  em  Atributo,  
+Desvantagem ou Vantagem Anulada. Se 
+não resistir ao ataque, a vítima também 
+fica atordoada (como numa Atribulação 
+não modificada), além de sucumbir aos 
+efeitos de outras ampliações. +10%.
+Coma: A vítima fica inconsciente e prova-
+velmente morrerá em alguns dias se não for 
+tratada; v. Condições Fatais (pág. 429). +250%.
+Cumulativo: Ataques contínuos são cumu-
+lativos! O jogador deve comprar esta amplia-
+ção junto com Penalidade em Atributo, 
+ou com uma Vantagem, Desvantagem ou 
+Vantagem Anulada que resulte em uma carac-
+terística com “níveis”. +400%.
+Desvantagem: A vítima adquire tempora-
+riamente uma ou mais desvantagens físicas 
+ou mentais específicas (exceto desvantagens 
+mentais autoimpostas — v. pág. 121). Isso 
+vale +1% para cada ponto de personagem 
+que custa a desvantagem temporária; ex., 
+Paranoia [-10] custa +10%. Se a desvantagem 
+pode ser comprada em níveis, especifique-o. 
+A desvantagem dura um número de minutos 
+igual à margem de fracasso no teste de HT.
+Incapacitação: A vítima fica incapa-
+citada durante um número de minutos 
+igual à margem de fracasso no teste de 
+HT. Depois disso, ela fica atordoada até ser 
+bem-sucedida num teste de HT (uma vez 
+por segundo). Se a Incapacitação for com-
+binada com outros efeitos (como Irritante), 
+esses outros efeitos só ocorrem depois que a 
+incapacitação terminar. Eles substituem o 
+atordoamento e têm uma duração igual à da 
+Incapacitação. A Incapacitação pode assu-
+mir qualquer uma das seguintes versões: 
+Agonia, +100%; Alucinação, +50%; Ânsia, 
++50%; Asfixia, +100%; Ataque de Epilepsia, 
++100%; Êxtase, +100%; Inconsciência, 
++200%; Paralisia, +150%; Sono, +150%; ou 
+Torpor, +50%. Para maiores informações 
+sobre os efeitos dessas incapacitações, con-
+sulte Condições Incapacitantes (pág. 428).
+Irritante: A vítima sofre uma condição 
+debilitante, mas não incapacitante, em 
+vez de ficar atordoada. Este efeito dura 
+um número de minutos igual à margem 
+de fracasso no teste de HT. As possibili-
+dades são: Bêbado, +20%; Dor Moderada, 
++20%; Dor Severa, +40%; Dor Terrível, 
++60%; Embriagado, +10%; Euforia, +30%; 
+Nauseado, +30%; ou Tosse, +20%. A defini-
+ção desses efeitos podem ser encontradas 
+em Condições Irritantes (pág. 428).
+Penalidade em Atributo: A vítima sofre 
+uma redução temporária de atributo. Isso 
+custa +5% para cada -1 de redutor na ST 
+ou HT ou +10% para cada -1 de redutor 
+na DX ou IQ. Por exemplo, um ataque que 
+causa DX-3 e IQ-2 custaria +50%. Esse 
+efeito também diminui o NH de todas as 
+perícias baseadas nos atributos afetados na 
+mesma proporção. Os redutores na ST tam-
+bém reduzem a BC e o dano do indivíduo, 
+enquanto reduções na IQ também se aplicam 
+à Vontade e Percepção. As características 
+secundárias não são afetadas: por exemplo, 
+uma redução na HT não afeta a Velocidade 
+Básica nem o número de PF. Esses redutores 
+duram um número de minutos igual à mar-
+gem de fracasso no teste de HT.
+Vantagem Anulada: A vítima deixa de 
+ter uma vantagem específica durante um 
+número de minutos igual à margem de 
+fracasso no teste de HT. Se a vítima não 
+possuir a vantagem em questão, ela não 
+sofre maiores efeitos! Esta ampliação vale 
++1% para cada ponto de personagem no 
+custo da vantagem. Se a vantagem tiver 
+níveis, especifique o nível anulado.
+Vantagem: A vítima sente imediatamente 
+os efeitos de uma vantagem física ou mental 
+específica. As vantagens com efeitos instan-
+tâneos afetam o alvo uma vez — tão logo ele 
+é atingido — se ele fracassar no teste de HT; 
+por exemplo, a vantagem Dobra teleporta 
+o alvo instantaneamente. As vantagens que 

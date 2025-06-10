@@ -1,0 +1,100 @@
+jogador quiser entre os extremos “frio” e “calor” da zona.
+A Tolerância à Temperatura não confere resistência especial aos ata
+-
+ques  com  fogo  ou  gelo,  a  não  ser  que  o  único  dano  seja  resultado  de  
+um aumento ou queda na temperatura ambiente. Especificamente, esta 
+vantagem não protege o personagem se sua temperatura corporal esti
+-
+ver sendo manipulada.
+Em uma campanha realista, o Mestre deve limitar os huma
+-
+nos  normais  à  Tolerância  à  Temperatura  1  ou  2.  No  entanto,  
+personagens não-humanos com pelagem ou uma camada espes
+-
+sa de gordura podem ter níveis mais elevados.
+Tolerância-G  
+Ampliada 3
+5 a 25 pontos
+O  personagem  é  capaz  de  atuar  numa  grande  varie-
+dade de gravidades diferentes. Para um ser humano co-
+mum, as penalidades para atuar numa gravidade diferente 
+da  nativa  aumentam  a  cada  0,2G;  v.  Gravidades  Diferentes 
+(pág.  351).  Aumentar  esse  intervalo  custa  pontos:  5  pontos  
+para  0,3G;  10  pontos  para  0,5G;  15  pontos  para  1G;  20  pontos  
+para 5G; 25 pontos para 10G. Humanos normais estão limitados a gas
+-
+tar 10 pontos nesta característica.
+
+vantagens
+96
+Toque Sensível 3 1
+10 pontos
+As   pontas   dos   dedos   ou   órgãos   
+equivalentes  do  personagem  são  extre
+-
+mamente  sensíveis,  o  que  lhe  permite  
+sentir  o  calor  residual  em  uma  cadei
+-
+ra,  vibrações  tênues  no  chão  quando  
+alguém  se  aproxima,  etc.  Ele  recebe  
+um  bônus  de  +4  (além  de  quaisquer  
+bônus   devidos   a   Tato   Apurado)   em   
+qualquer  tarefa  que  utiliza  o  tato;  ex.:  
+um teste de Perícia Forense para notar 
+as  semelhanças  ou  as  diferenças  entre  
+dois  pedaços  de  tecido  ou  um  teste  de  
+Detecção  para  sentir  pequenos  objetos  
+escondidos.
+Treinado por  
+um Mestre 2
+30 pontos
+O personagem foi treinado por — ou 
+é  —  um  verdadeiro  Mestre  das  artes  
+marciais. Seu talento excepcional signi
+-
+fica que ele sofre metade da penalidade 
+usual quando utiliza um Golpe Rápido 
+(v. Opções  de  Ataques  Corpo  a  Corpo, 
+pág.  370)  ou  Aparar  mais  de  uma  vez  
+por  turno  (v.  Aparar,  pág.  376).  Esses  
+benefícios  se  aplicam  a  todas  as  suas  
+perícias  de  combate  desarmado  (Judô,  
+Caratê,   etc.)   e   perícias   com   Armas   
+Brancas.
+Além  disso,  o  personagem  é  capaz  
+de  concentrar  sua  força  interior  (ge
+-
+ralmente  chamada  de  “chi”)  para  rea-
+lizar  feitos  incríveis!  Isso  lhe  permite  
+aprender  Arte  da  Invisibilidade,  Golpe  
+Poderoso, Salto Voador e muitas outras 
+perícias — qualquer uma que exija esta 
+vantagem como pré-requisito (consulte 
+o Capítulo 4).
+O  Mestre  tem  toda  liberdade  para  
+estabelecer   pré-requisitos   adicionais   
+para esta vantagem, se quiser. Os exem
+-
+plos  mais  comuns  provenientes  da  fic-
+ção  são  perícias  com  Armas  Brancas,  
+Caratê, Filosofia, Judô e Teologia.
+Essa   habilidade   é   definitivamen
+-
+te  “impressionante”.  É  possível  que  o  
+Mestre  queira  proibi-la  em  uma  cam
+-
+panha realista.
+Ultraflexibilidade das 
+Juntas
+V.   Flexibilidade, pág. 60
+Ultravisão 3 1
+0 ou 10 pontos
+O  personagem  é  capaz  de  enxer-
+gar  luz  ultravioleta  (UV).  Essa  energia  
+emitida  pelo  sol  ocorre  durante  o  dia,  
+até mesmo com o tempo nublado, mas 
+é  bloqueada  por  janelas  de  vidro  ou  
+qualquer barreira sólida (terra, pedras, 
+etc.).  As  lâmpadas  fluorescentes  tam
+-
+bém  emitem  raios  UV.  Contanto  que  

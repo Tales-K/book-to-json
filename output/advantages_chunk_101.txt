@@ -1,0 +1,100 @@
+Limitações Especiais
+Ablativa:  A  RD  do  personagem  de-
+tém o dano uma vez. Cada ponto de RD 
+detém  um  ponto  de  dano  básico,  mas  
+é destruído no processo. A RD perdida 
+“cura” no mesmo ritmo que os PV per
+-
+didos (incluindo os efeitos de Restaurar 
+Membros, pág. 85). Use esse poder para 
+representar  personagens  supers  capa
+-
+zes  de  absorver  uma  grande  quantida-
+de de dano, mas que não têm tamanho 
+suficiente  para  justificar  uma  grande  
+quantidade de PV. -80%.
+Direcional: A RD do personagem pro-
+tege  apenas  contra  ataques  vindos  de  
+uma direção específica. -20% para frente 
+(F); -40% para costas (C), direita (D), es
+-
+querda  (E),  acima  (Ac)  ou  abaixo  (Ab).  
+Personagens humanoides só podem ad
+-
+quirir essa limitação para frente e atrás.
+Flexível: A RD do personagem não é 
+rígida,  o  que  faz  com  que  ele  se  torne  
+vulnerável  ao  trauma  por  impacto  (v.  
+pág. 379). -20%.
+Limitada: A RD do personagem só se 
+aplica  a  algumas  formas  de  ataque  ou  
+tipos  de  dano.  Para  maiores  detalhes,  
+consulte  o  quadro  Defesas  Limitadas 
+(pág. 84).
+Parcial: A RD do personagem protege 
+apenas um ponto de impacto específico, 
+vale -10% para cada redutor de -1 para 
+acertar a parte do corpo em questão (v. 
+pág.  398).  Exemplo:  um  animal  com  
+chifres  sem  ponta  e  um  crânio  espesso  
+pode  ter  “Apenas  o  Crânio”,  por  -70%.  
+“Apenas  o  Tronco”  vale  -10%  e  tam
+-
+bém  protege  os  órgãos  vitais.  Quando  
+o  jogador  adquire  essa  limitação  para  
+os  braços,  pernas,  mãos  ou  pés,  a  RD  
+protege  todos  os  membros  desse  tipo.  
+Se ele quiser proteger apenas um mem
+-
+bro,  o  valor  da  limitação  dobra  (ex.,  a  
+penalidade  para  atingir  os  braços  é  de  
+-2,  portanto,  se  quiser  proteger  apenas  
+um  braço,  o  jogador  pagaria  -40%).  Se  
+o personagem tiver braços, pernas, etc., 
+com penalidades distintas, utilize a me
+-
+nor para calcular o valor da limitação.
+Pele  Resistente:  Via  de  regra,  a  Resis-
+tência a Dano exige um elemento “duro”: 
+placa  de  armadura,  quitina,  etc.  Com  
+essa  limitação,  a  RD  do  personagem  é  
+representada  por  uma  pele  resistente.  
+Qualquer efeito que requer uma ruptura 
+na pele (por exemplo, veneno) ou contato 
+com a pele (por exemplo, choque elétrico 
+ou  a  perícia  Pontos  de  Pressão),  afetará  
+o personagem se o ataque que carrega o 
+efeito  penetrar  a  RD  de  sua  armadura,  
+mesmo  que  cause  0  ponto  de  dano!  Por  
+
+vantagens
+84
+ser um tecido vivo, a RD natural do per-
+sonagem  não  o  protege  contra  ataques  
+desse tipo. Esta limitação inclui todos os 
+efeitos da limitação Flexível (acima); não 
+é permitido adquirir as duas. Além disso, 
+Pele  Resistente  e  Campo  de  Força  são  
+mutuamente excludentes. -40%.
+Sem Armadura: O corpo do persona-
+gem foi projetado de tal forma que ele 
+não pode — ou prefere não usar arma
+-
+duras nem roupas. -40%.
+Semiablativa:   Quando   um   ataque   
+atinge  uma  RD  semiablativa,  cada  10  
+pontos  de  dano  removem  um  ponto  de  
+RD,  independente  do  ataque  ter  pene
+-
+trado a Resistência a Dano ou não. A RD 
+perdida  “sara”  da  mesma  maneira  que  
+acontece com a limitação Ablativa (não 
+é possível combinar as duas). -20%.
+Defesas em Camadas
+O  personagem  pode  ter  múltiplas  ca-
+madas  de  RD  com  diferentes  combina-
+ções  de  modificadores.  O  jogador  deve  
+especificar a ordem dessas camadas — da 
+mais externa até a mais interna — quan
+-
+do  criar  o  personagem.  Uma  vez  estabe-

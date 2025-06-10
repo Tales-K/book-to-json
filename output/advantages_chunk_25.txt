@@ -1,0 +1,100 @@
+bilidade  Possessão  (pág.  78),  ele  pode  
+tentar uma possessão completa enquanto 
+o personagem está em transe. Considera
+-
+-se que o personagem será “atento” e, por 
+isso, recebe um bônus de +5 para resistir.
+Carga Útil 3 1
+1 ponto/nível
+O  personagem  é  capaz  de  transpor-
+tar carga ou passageiros dentro de seu 
+próprio  corpo!  Essa  pode  ser  uma  ca
+-
+racterística superficial (ex.: uma “bolsa 
+de  carne”  implantada  cirurgicamente  
+ou  uma  bolsa  natural,  como  a  de  um  
+canguru)  ou  um  compartimento  inter
+-
+no.  Este  último  não  serve  apenas  para  
+máquinas  —  um  zumbi,  por  exemplo,  
+pode  ter  uma  colônia  de  aranhas  ou  
+serpentes vivendo dentro de seu corpo.
+Cada nível de Carga Útil permite que o 
+personagem carregue dentro de si até Base 
+de  Carga/10  kg.  Os  jogadores  que  forem  
+criar personagens que não têm Tolerância 
+a Ferimentos (Homogêneo) (pág. 94) ou a 
+metacaracterística Máquina (pág. 262) de
+-
+vem  pedir  permissão  ao  Mestre  antes  de  
+adquirirem mais de cinco níveis de Carga 
+Útil.  O  personagem  terá  de  distribuir  sua  
+capacidade de carga entre carga e ocupan
+-
+tes quando comprar a vantagem.
+Carga: O espaço ocupado por 10 kg é 
+mais ou menos de 0,028 m³. Um carro 
+médio  tem  entre  0,28  m³  e  0,56  m³  de  
+espaço  de  armazenamento;  um  semi
+-
+trailer tem cerca de 70 m³.
+Ocupantes:  Um  ser  do  tamanho  de  
+um humano exige cerca de 100 kg de ca
+-
+pacidade. Para outros indivíduos, pegue 
+o  peso  médio  da  raça  e  aumente-o  em  
+1/3.  Um  abrigo  real  exige  10  vezes  esse  
+peso.  Suas  vantagens  defensivas  (RD,  
+Lacrado etc.) também protegem os indi
+-
+víduos  transportados.  Se  os  ocupantes  
+forem  capazes  de  controlar  o  persona
+-
+gem,  compre  Controles  separadamente  
+— v. Mente Segmentada (pág. 70).
+Considere  a  Carga  Útil  do  persona-
+gem  como  parte  de  seu  corpo  —  não 
+como carga ou peso transportado quan
+-
+do estiver calculando o Deslocamento e 
+contabilizando  vantagens  com  capaci
+-
+dade de carga limitada, como Invisibili-
+dade, Saltador e Dobra.
+Máquinas  capazes  de  empurrar  ou  
+puxar  cargas  externas  —  ou  de  recolhê
+-
+-las  e  carregá-las  com  braços,  guindas-
+tes etc. — têm ST de Levantamento (pág. 
+89), não Carga Útil. Carros e caminhões 
+comuns têm Carga Útil, mas empilhadei
+-
+ras, rebocadores e veículos semelhantes 
+têm  que  comprar  ST  de  Levantamento  
+para representar suas habilidades.
+Limitações Especiais
+Exposta:  A  Carga  Útil  do  personagem  
+não pode ser ocultada e não está protegida 
+por  suas  vantagens  de  defesa.  Isso  é  ver
+-
+dade para qualquer parte da Carga Útil. O 
+principal uso desta limitação é criar motos 
+e outros veículos abertos. -50%.
+Carisma 2
+5 pontos/nível
+O personagem tem uma aptidão na-
+tural para impressionar e liderar outras 
+pessoas.  Qualquer  um  pode  conseguir  
+um  carisma  ilusório  por  meio  da  boa  
+aparência, boas maneiras e inteligência, 
+mas  o  carisma  real  funciona  indepen
+-
+dente desses fatores. Cada nível concede 
+um  bônus  de  +1  em  todos  os  testes  de  
+reação feitos por seres inteligentes com 
+quem o personagem interage ativamen
+-
+te  (em  conversas,  palestras,  etc.),  além  
+de um bônus de +1 nos testes de Influ
+-
+ência (v. Testes de Influência, pág. 359) e 

@@ -1,0 +1,100 @@
+lançado. Para calcular 1/2D e Max, use 
+a distância entre o objeto (e não o per
+-
+sonagem!) e o alvo; para calcular as pe-
+nalidades de distância, utilize a soma da 
+distância entre o personagem e o objeto 
+
+vantagens
+93
+2
+e deste até o alvo. Depois do arremesso, 
+o personagem terá “libertado” seu con
+-
+trole  telecinético  sobre  o  objeto  —  ele  
+precisa  fazer  uma  manobra  Preparar  
+para pegá-lo novamente.
+Levitação: Se tiver TC suficiente para 
+suportar  seu  próprio  peso,  o  persona
+-
+gem é capaz de levitar. Ele deve realizar 
+uma  manobra  Concentrar,  seguida  de  
+uma manobra Deslocamento com a TC 
+para  impulsionar  seu  corpo.  Para  um  
+voo  realmente  psicocinético,  adquira  
+Voo  (pág.  98)  com  a  limitação  Psico
+-
+cinético (pág. 93).
+Agarrar  e  Golpear:  O  personagem  é  
+capaz de usar TC para atacar um inimi
+-
+go diretamente. Ele deve fazer um teste 
+contra  seu  valor  de  DX  ou  contra  uma  
+perícia   de   combate   desarmado   para   
+atingir  o  alvo.  O  inimigo  se  defende  
+como se estivesse sendo atacado por um 
+oponente  invisível  (v.  Visibilidade,  pág.  
+394).  Se  o  personagem  conseguir  agar
+-
+rá-lo,  o  inimigo  não  consegue  tatear  a  
+energia da TC, mas pode tentar se des
+-
+vencilhar  normalmente  e,  se  também  
+possuir TC, pode realizar uma manobra 
+Concentrar e usar seu próprio nível nes
+-
+ta  habilidade,  em  vez  da  ST.  No  turno  
+seguinte,  depois  de  agarrar  o  inimigo  
+com TC, o personagem pode fazer uma 
+manobra  Deslocamento  com  a  mesma  
+vantagem  para  levantar  o  alvo  do  solo,  
+contanto  que  tenha  TC  suficiente  para  
+suportar o peso do inimigo. Um indiví
+-
+duo  nessa  situação  não  consegue  fazer  
+absolutamente  nada  que  dependa  do  
+contato  com  o  solo  (correr,  retirar-se,  
+etc.),  mas  pode  realizar  outras  ações  
+que sejam possíveis nessa situação.
+Limitações Especiais
+Magnética:   A   TC   do   personagem   
+exerce  um  “supermagnetismo”  e  afeta  
+apenas  metais  ferrosos:  ferro  (incluin
+-
+do aço), níquel e cobalto. -50%.
+Psicocinético:  A  habilidade  do  per
+-
+sonagem  faz  parte  do  poder  psíquico  
+Psicocinese  (v.  pág.  256).  Isso  a  torna  
+mental em vez de física. -10%.
+Visível:  A  TC  do  personagem  não  é  
+uma força invisível, mas sim uma mão 
+incorpórea  brilhante,  um  feixe-trator  
+ou algo semelhante. Isso ajuda muito as 
+outras pessoas a se defenderem de seus 
+ataques  com  TC  (não  utilize  as  regras  
+de Visibilidade). -20%.
+Telecomunicação 2/3 1
+Variável
+O personagem é capaz de se comu-
+nicar  por  longas  distâncias  sem  falar  
+em voz alta. Ele consegue enviar pala
+-
+vras  com  a  velocidade  normal  da  fala  
+ou imagens com a mesma rapidez com 
+que as desenha. Para estabelecer con
+-
+tato é necessário um segundo de con-
+centração  e  um  sucesso  num  teste  de  
+IQ.  Depois  disso,  o  personagem  não  
+precisa se concentrar mais. Ele é capaz 
+de  manter  vários  contatos,  mas  o  tes
+-
+te  de  IQ  sofre  uma  penalidade  cumu-
+lativa  de  -1  para  cada  contato  após  o  
+primeiro.
+A Telecomunicação funciona mes-
+mo  entre  os  sons  mais  estridentes,  
+embora   interferências   e   entropia   
+possam  interromper  o  sinal.  Pesso
+-

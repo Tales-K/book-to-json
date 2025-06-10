@@ -1,0 +1,100 @@
+-
+ciona  em  qualquer  ambiente!  Os  detec-
+tores de radar comuns não são capazes 
+de  detectar  o  Para-Radar,  embora  seja  
+possível que alguns sensores de alta tec
+-
+nologia consigam fazer isso. 40 pontos.
+Sonar:   O   Sentido   de   Monitora-
+mento  do  personagem  utiliza  ondas  
+ultrassônicas.  O  alcance  básico  é  de  
+2.000  metros  sob  a  água.  Ele  é  capaz  
+de  identificar  objetos  pequenos  e  de  
+determinar  seu  formato,  mas  é  neces
+-
+sário um sucesso num teste de Sentidos 
+para  distinguir  contornos  detalhados  
+(identificar  um  rosto,  por  exemplo).  O  
+Sonar  não  funciona  se  o  personagem  
+for  ensurdecido  e  pode  ser  “sabotado”  
+ou  confundido  por  um  barulho  muito  
+intenso (ex.: uma explosão). Indivíduos 
+com  Superaudição  são  capazes  de  de
+-
+tectar o Sonar. Essa vantagem é muito 
+menos eficaz no ar; onde seu alcance é 
+de apenas 20 metros multiplicados pela 
+pressão  do  ar  em  atmosferas  (uma  at
+-
+mosfera  na  Terra).  Sonar  é  completa-
+mente inútil no vácuo. 20 pontos.
+
+vantagens
+88
+Ampliações Especiais
+Arco Estendido: O personagem é ca-
+paz de examinar um arco com mais de 
+120°.  Um  arco  de  240°  (como  descri
+-
+to  para  Visão  Periférica,  pág.  98)  vale  
++75%; um arco de 360° (como descrito 
+para Visão de 360°, pág. 97) vale +125%.
+Intercepção  de  Baixa  Probabilidade  
+(IBP):  Disponível  apenas  para  Radar  e  
+Sonar. O personagem é capaz de ativar 
+e desativar esta ampliação. Ao ativá-la, 
+ele dificulta a detecção do próprio sinal. 
+Isso  reduz  o  alcance  pela  metade,  mas  
+o Sentido de Monitoramento do perso
+-
+nagem  só  pode  ser  detectado  com  1,5  
+vezes o alcance reduzido. +10%.
+Mira:   Ao   realizar   uma   manobra   
+Apontar, o personagem é capaz de “tra
+-
+var” a mira em qualquer objeto dentro 
+do  alcance  do  Sentido  de  Monitora
+-
+mento  e  determinar  com  precisão  a  
+distância e velocidade do mesmo como 
+se  possuísse  um  telêmetro  de  alta  tec
+-
+nologia.  Isso  concede  um  bônus  de  +3  
+nas tentativas de atingir esse alvo com 
+um ataque à distância apontado. +20%.
+Modo  Múltiplo:  Disponível  apenas  
+para  Radar.  O  personagem  é  capaz  de  
+alternar  entre  Radar  e  Radar  de  Ima
+-
+gens  (isso  é  muito  mais  barato  do  que  
+comprar  as  duas  vantagens  separada
+-
+mente, pois elas se sobrepõem). +50%.
+Penetrante:  Disponível  apenas  para  
+Para-Radar.  O  personagem  é  capaz  de  
+“enxergar” o interior de qualquer objeto 
+dentro de seu alcance. Funciona como 
+Visão Penetrante 2 (pág. 97). +50%.
+Limitações Especiais
+Somente Mira: Funciona como Mira, 
+mas  o  personagem  só  é  capaz  de  utili
+-
+zar seu sentido para “travar” a mira em 
+alvos que já foram observados com ou
+-
+tros  sentidos;  o  personagem  não  pode  
+utilizá-lo para detectar coisas. -40%.
+Sentido de Vibração 3 1
+10 pontos
+O personagem é capaz de detectar a 
+localização  e  o  tamanho  de  objetos  ao  
+sentir  vibrações  com  a  pele,  bigode  ou  
+antenas.  É  preciso  especificar  se  essa  
+habilidade funciona na água ou no ar.
+Sentido  de  Vibração  não  substitui  a  
+visão.  O  personagem  é  capaz  de  loca
+-
+lizar  um  oponente  no  escuro,  mas  não  
+consegue  verificar  detalhes  (se  ele  está  
+armado, por exemplo). Em um aposento 
+perfeitamente estático e escuro, ele teria 

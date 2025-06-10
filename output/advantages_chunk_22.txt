@@ -1,0 +1,100 @@
+Tamanho e Alcance, pág. 402). Isso afeta 
+o alcance das armas de combate corpo
+-
+ral  empunhadas  por  aquela  mão.  Cada  
+bônus de +1 no MT também acrescenta 
++1  por  dado  ao  dano  por  GeB.  +100%  
+para cada bônus de +1 no MT.
+Extraflexível: Os membros com essa 
+ampliação  são  mais  flexíveis  que  os  
+braços  humanos,  como  tentáculos  ou  
+a  tromba  de  um  elefante.  Esses  mem
+-
+bros sempre conseguem alcançar e tra-
+balhar  em  conjunto  com  outros  mem-
+bros, independentemente da posição do 
+corpo, de sua aparência geral ou se são 
+“destros” ou “canhotos”. +50%.
+Limitações Especiais
+Base para Armas: Em vez de um braço, 
+o personagem possui um “encaixe” onde 
+pode  colocar  uma  arma.  Isso  pode  ser  
+biológico,  mecânico  ou  um  híbrido  dos  
+dois, dependendo se o personagem é um 
+ser humano, uma máquina ou um cibor
+-
+gue. Ele não pode usar a base para nenhu-
+ma outra finalidade, a não ser empunhar 
+uma arma. Esta limitação é incompatível 
+com Pés Manipuladores, Nenhum Ataque 
+Físico, Curto e Fraco. -80%.
+Curto: O braço tem alcance “C” (apenas 
+combate corporal) e não tem o alçamento 
+necessário para usar armas que precisam 
+ser balançadas. Subtraia um metro do al
+-
+cance  de  qualquer  arma  de  combate  cor-
+po a corpo empunhada por esse membro. 
+Se todos os braços do personagem forem 
+curtos, ele sofre uma penalidade de -2 em 
+qualquer tentativa de agarrar. -50%.
+Fraco:  O  braço  do  personagem  tem  
+menos ST que o resto do corpo para le
+-
+vantar,  golpear  ou  agarrar.  -25%  se  ele  
+tiver  metade  da  ST  do  corpo,  ou  -50%  
+se  tiver  1/4  da  ST  (arredondado  para  
+baixo nos dois casos).
+Nenhum  Ataque  Físico:  O  membro  
+consegue  manipular  objetos,  mas  não  
+pode dar um soco ou empunhar armas 
+de  combate  corpo  a  corpo,  e  não  con
+-
+cede  nenhum  bônus  em  combates  cor-
+porais. Ele ainda é capaz de empunhar 
+uma arma de fogo ou outra arma simi
+-
+lar de combate à distância. -50%.
+Pés   Manipuladores:   O   “braço”   do   
+personagem é, na realidade, uma perna 
+extremamente hábil. Ele não consegue 
+andar  enquanto  estiver  manipulando  
+objetos  com  ela  (embora  possa  se  sen
+-
+tar,  flutuar  ou  voar).  Esta  limitação  é  
+uma  Desvantagem  Temporária,  mais  
+especificamente Sem Pernas (pág. 156). 
+Esse tipo de braço é geralmente — mas 
+nem sempre — Curto (v. a seguir). -30%.
+
+vantagens
+46
+Modificando Criaturas com 
+Um ou Dois Braços
+Criaturas  com  um  ou  dois  braços  
+podem  usar  os  modificadores  especiais  
+descritos  acima.  O  custo  em  pontos  é  
+1/10   do   modificador   percentual   para   
+cada braço afetado. Nesse caso, amplia
+-
+ções se tornam vantagens e limitações se 
+tornam desvantagens. Por exemplo, a li
+-
+mitação Curto tem um custo percentual 
+de -50%, logo, vale -5 pontos por braço. 
+Um indivíduo com dois braços curtos te
+-
+ria uma desvantagem de -10 pontos.
+Personagens  com  um  só  braço  só  
+podem    aplicar    esses    modificadores    
+uma  vez,  mas  também  recebem  os  -20  
+pontos  pela  desvantagem  Maneta  (Um  
+Braço) (pág. 148). Por exemplo, a trom
+-
+ba  de  um  elefante  seria  Extraflexível  
+(+50%),   Comprida   (+100%)   e   Fraca   
+(-50%).  Esses  modificadores  totalizam  
++100%,  uma  vantagem  de  10  pontos.  
+Somado  aos  -20  pontos  da  desvanta
+-
+gem  Maneta,  isso  custa  a  um  elefante  

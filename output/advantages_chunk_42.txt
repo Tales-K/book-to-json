@@ -1,0 +1,100 @@
+nos tempo ou gastando menos PF.
+Ampliações Especiais
+Capacidade Adicional de Carga: O per-
+sonagem  pode  levar  uma  carga  maior  
+que  sua  Base  de  Carga.  Se  sua  capaci
+-
+dade  de  carga  for  suficientemente  ele-
+vada, é possível transportar uma pessoa 
+com  ele.  Objetos  que  pesam  até  o  valor  
+de  Carga  Leve  do  personagem  custam  
++10%;  Até  Média,  +20%;  até  Pesada,  
++30%; até Carga Muito Pesada, +50%.
+Cego:  O  personagem  é  capaz  de  se  
+teleportar  de  acordo  com  um  conjunto  
+específico  de  coordenadas  (distância  e  
+direção)  sem  visualizar  ou  ter  visitado  
+anteriormente  o  local  de  destino.  Isso  
+impõe uma penalidade adicional de -5 no 
+teste de IQ! O personagem tem que pagar 
+dois  PF  para  cada  +1  de  bônus  quando  
+estiver usando esta ampliação. +50%.
+Confiável:  O  poder  do  personagem  é  
+estável  e  previsível.  Cada  nível  desta  am
+-
+pliação concede um bônus de +1 no teste 
+de IQ para usar a habilidade, permitindo 
+que o PdJ se teleporte sem muita prepara
+-
+ção (ex.: durante o combate) ou por gran-
+des distâncias sem gastar muitos PF para 
+melhorar  suas  chances.  +5%  para  cada  
+bônus de +1 (até um máximo de +10).
+Salto em Dobra: Esta ampliação só está 
+disponível para personagens com a vanta
+-
+gem Saltador (pág. 86). O jogador é obri-
+gado a aplicá-la tanto em Saltador quanto 
+em Dobra. Um saltador do tempo e salta
+-
+dor de mundos que quiser utilizar Dobra 
+com as duas habilidades precisa comprar 
+esta ampliação duas vezes. Quando salta, 
+o  personagem  pode  usar  Dobra  simulta
+-
+neamente  para  aparecer  em  qualquer  lu-
+gar  em  seu  destino.  São  necessários  dois  
+testes  —  uma  para  cada  habilidade  —  e  
+é possível que o personagem obtenha su
+-
+cesso em um deles e fracasse no outro, ou 
+que fracasse nos dois. +10% por cada van
+-
+tagem de Saltador associada.
+Limitações Especiais
+Limite de Distância: O personagem não 
+é capaz de se teleportar além de uma de
+-
+terminada distância a cada salto. Escolha 
+um alcance e encontre a penalidade rela
+-
+cionada na tabela acima. A limitação vale 
+-5% × (10 + penalidade); ex.: Uma limita
+-
+ção de 10 metros (-0) vale -50%, enquanto 
+uma de 150 km (-6) vale -20%. Um limite 
+de alcance maior que 150.000 km não re
+-
+presenta uma limitação significativa.
+
+vantagens
+55
+2
+Hipersalto: O personagem se move fisi-
+camente ao longo do “hiperespaço” ou do 
+“espaço de salto” para viajar entre vários 
+locais  de  destino.  Esse  tipo  de  teleporte  
+instantâneo não é verdadeiro; o PdJ tem 
+uma  velocidade  efetiva,  o  que  significa  
+que  a  viagem  leva  tempo.  Em  percursos  
+longos,  ele  precisa  recorrer  a  suprimen
+-
+tos  para  se  manter  vivo!  Além  disso,  o  
+personagem  não  é  capaz  de  ativar  o  Hi
+-
+persalto  na  atmosfera  nem  de  percorrer  
+distâncias  mais  curtas  que  um  segundo
+-
+-luz  (280.000  km;  -10  na  IQ).  Isso  efeti-
+vamente o limita a viagens espaciais. No 
+entanto,  o  Hipersalto  também  apresenta  
+um  benefício:  se  o  personagem  tiver  a  
+perícia  Navegação  (Hiperespaço),  pode  
+substituí-la por IQ. -50% se a velocidade 
+do PdJ for igual à velocidade da luz (um 
+segundo a cada 280.000 km percorridos); 
+-25% se o personagem for capaz de viajar 
+um ano-luz (-17 na IQ) por dia.
+Nu:  O  personagem  não  consegue  
+carregar  nada  durante  o  teleporte  e  
+sempre  chega  a  seu  destino  completa

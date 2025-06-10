@@ -1,0 +1,100 @@
+-
+to  em  que  usa  o  Encolhimento.  Esses  
+objetos  recuperam  o  tamanho  normal  
+quando são colocados pelo personagem 
+em qualquer lugar; a critério do Mestre, 
+eles podem deslocar o personagem en
+-
+quanto crescem ou até mesmo recupe-
+rar  o  tamanho  normal  debaixo  do  cor-
+po  do  personagem,  erguendo-o  muito  
+além do solo! Objetos que pesam até o 
+valor  de  Nenhuma  Carga  do  persona
+-
+gem custam +10%; Até Leve, +20%; até 
+Média, +50%; até Pesada, +100%.
+Dano   Total:   O   personagem   causa   
+dano  total  mesmo  quando  se  encontra  
+reduzido  (atenção  Mestres:  isso  possi
+-
+bilita a existência de um assassino qua-
+se perfeito). +100%.
+Deslocamento  Total:  O  personagem  
+mantém  seu  Deslocamento  total  quan
+-
+do se encontra reduzido. +30%.
+PV Total: O personagem mantém seu 
+total de PV quando se encontra reduzi
+-
+do. +30%.
+RD  Total:  O  personagem  mantém  
+sua RD total quando se encontra redu
+-
+zido. +30%.
+Equilíbrio Perfeito 3
+15 pontos
+Em  condições  normais,  o  persona-
+gem  sempre  consegue  manter  o  equi-
+líbrio,  independente  de  quão  estreita  é  
+a  superfície  sobre  a  qual  ele  está  cami
+-
+nhando.  Isso  permite  ao  personagem  
+caminhar sobre uma corda bamba, reci
+-
+fes,  galhos  de  árvore  ou  qualquer  outra  
+superfície fixa sem precisar de um teste. 
+Se a superfície estiver úmida, escorrega
+-
+dia ou instável, o personagem recebe um 
+bônus de +6 nos testes para verificar se 
+ele  consegue  se  manter  em  pé.  Durante  
+o  combate,  ele  recebe  um  bônus  de  +4  
+nos testes de DX e de perícias baseadas 
+em DX para se manter em pé ou não ser 
+derrubado.  Por  último,  o  personagem  
+recebe  um  bônus  de  +1  nos  testes  de  
+Acrobacia, Escalada e Pilotagem.
+Equipamento 
+Característico 4
+Variável
+O  personagem  tem  coisas  distintas  
+e  valiosas  que  não  estão  relacionadas  
+com seu nível de riqueza. Esses objetos 
+fazem parte de sua história pessoal tan
+-
+to quanto sua reputação e suas perícias. 
+O  jogador  tem  que  explicar  a  origem  
+dessas posses: ganhou sua nave estelar 
+em um jogo de cartas, herdou sua espa
+-
+da mágica de um mentor, etc.
+No  caso  de  equipamentos  que  pos
+-
+sam   ser   comprados   com   dinheiro,   
+como  armas  e  armaduras,  cada  ponto  
+de   Equipamento   Característico   con
+-
+cede  produtos  que  valem  até  50%  dos  
+recursos  iniciais  médios  da  campanha  
+(mas  nunca  em  dinheiro).  No  entanto,  
+no  caso  de  objetos  criados  como  per
+-
+sonagens, utilize as regras descritas na 
+vantagem Aliados  (pág.  35).  O  Mestre  
+deve  decidir  se  companheiros  androi
+-
+des,  corcéis  leais,  veículos  personali-
+zados,  etc.,  devem  ser  tratados  como  
+equipamento  (com  um  custo  em  di
+-
+nheiro) ou personagens (com um custo 
+em pontos).
+Se  o  personagem  perder  o  Equi
+-
+pamento  Característico  ou  vendê-lo  a  
+contragosto,  ou  se  ele  for  roubado  ou  
+confiscado,  o  Mestre  deve  dar  a  ele  a  
+oportunidade   de   recuperá-lo   duran
+-
+te  a  aventura.  Se  ele  estiver  realmente  
+perdido para sempre por alguma even

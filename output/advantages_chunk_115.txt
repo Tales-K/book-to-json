@@ -1,0 +1,100 @@
+ele  estiver  escalando  ou  usando  a  van
+-
+tagem Aderência (pág. 35).
+Super Salto 3 1
+10 pontos/nível
+O personagem é capaz de dar saltos 
+sobre-humanos!  Cada  nível  de  Super  
+Salto dobra  a  distância  e  a  altura  que  
+ele é capaz de saltar (v. Salto, pág. 356). 
+O  Deslocamento  do  personagem  en
+-
+quanto salta é o maior valor entre o seu 
+Deslocamento terrestre normal e 1/5 da 
+distância máxima atingida durante um 
+salto  em  distância  (portanto,  seu  sal
+-
+to  máximo  nunca  leva  mais  que  cinco  
+segundos).  Exemplo:  para  um  perso
+-
+nagem  com  um  salto  em  distância  de  
+100 metros, seu Deslocamento de salto 
+seria o maior valor entre 20 e seu Des
+-
+locamento terrestre normal.
+O  personagem  consegue  saltar  con
+-
+tra  um  inimigo  a  fim  de  realizar  um  
+encontrão contra ele. Calcule o empur
+-
+rão usando o Deslocamento máximo de 
+salto!  Não  é  necessário  fazer  um  teste  
+separado para saltar com precisão.
+Por  último,  se  cair  de  uma  altura  
+menor  ou  igual  ao  seu  salto  em  altura  
+máximo,  o  personagem  não  sofre  ne
+-
+nhum  dano.  É  possível  aumentar  essa  
+altura em cinco metros com um suces
+-
+so num teste de Acrobacia.
+Super Sorte 2 5
+100 pontos
+O  personagem  não  é  só  sortudo,  
+ele  exerce  um  controle  limitado  sobre  
+a  probabilidade.  Uma  vez  a  cada  hora  
+de jogo, o jogador pode ditar o resulta
+-
+do  de  qualquer  jogada  de  dados  feita  
+por  ele  mesmo  (ou  pelo  Mestre  para  o  
+personagem  dele),  em  vez  de  jogar  os  
+dados.  Tentativas  impossíveis  não  po
+-
+dem  receber  esse  efeito  (o  NH  efetivo  
+do teste tem que ser no mínimo 3), mas 
+o  jogador  pode  escolher  qualquer  re
+-
+sultado  que  seria  possível,  mesmo  que  
+muito  improvável,  em  uma  jogada  de  
+dados normal.
+Um personagem pode ter Super Sor
+-
+te  junto  com  qualquer  grau  de  Sorte  
+“normal”,  mas  não  é  possível  comprar  
+esta vantagem mais de uma vez!
+Superaudição 3 1
+0 ou 5 pontos
+O personagem é capaz de ouvir sons 
+em  frequências  superiores  à  capaci
+-
+dade  normal  da  audição  humana  (20  
+kHz).  Isso  permite  ouvir  apitos  para  
+cachorros,  sonares,  detectores  de  mo
+-
+vimento, etc. O personagem é capaz de 
+detectar  um  sonar  ativo  a  uma  distân
+-
+cia  duas  vezes  maior  do  que  o  alcance  
+efetivo  do  sonar.  O  custo  da  vantagem  
+depende das habilidades concedidas ao 
+personagem:
+O  personagem  só  é  capaz  de  ouvir  
+sons de alta frequência: 0 ponto.
+O personagem é capaz de ouvir sons 
+de  alta  frequência  e  outros  tipos  de  
+sons: 5 pontos.
+Esta   vantagem   abrange   Fala   Ul
+-
+trassônica  (pág.  59);  se  possuir  Fala  
+Ultrassônica,  o  personagem  não  pode  
+adquirir  Superaudição  (nem  seria  ne
+-
+cessário).
+Talento 2
+Variável
+O   personagem   tem   uma   aptidão   
+natural  para  um  conjunto  de  perícias  
+intimamente   relacionadas.   “Talentos”   
+podem ser comprados em níveis e con
+-
+cedem os seguintes benefícios:

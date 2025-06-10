@@ -1,0 +1,100 @@
+cause  dano),  o  jogador  pode  especificar  que  essa  carac
+-
+terística funciona apenas contra um determinado tipo de 
+dano.  Esta  é  uma  limitação  que  reduz  o  custo  da  vanta
+-
+gem. Nesses casos, os ataques são divididos em 4 classes 
+de raridade:
+Muito  Comum:  Uma  categoria  de  dano  extrema-
+mente  ampla  que  será  encontrada  em  quase  todos  os  
+cenários. Exemplos: ataques à distância, ataques corpo 
+a corpo, ataques físicos (proveniente de qualquer subs
+-
+tância  física),  ataques  energéticos  (ex.,  armas  de  feixe,  
+eletricidade,  fogo,  calor,  frio  e  som)  ou  todos  os  danos  
+com  origem  em  uma  vantagem  específica  (chi,  magia,  
+psiquismo, etc.). -20%.
+Comum: Uma categoria de dano ampla. Exemplos: um 
+tipo  de  dano  padrão  (queimadura,  corrosão,  contusão,  
+corte,  perfuração,  toxina  ou  perfurante),  uma  classe  de  
+substâncias comuns (ex., metal, pedra, água, madeira ou 
+carne), uma ameaça encontrada na natureza e produzida 
+por  tecnologia  ou  poderes  exóticos  (ex.,  ácido,  frio,  ele
+-
+tricidade  ou  calor/fogo)  ou  um  refinamento  da  categoria  
+“Muito Comum” (ex., energia mágica). -40%.
+Ocasional: Uma categoria de dano razoavelmente específi-
+ca. Exemplos: uma substância comum (ex., aço ou chumbo), 
+qualquer  classe  específica  de  dano  normalmente  produzida  
+somente  por  tecnologia  ou  habilidades  exóticas  (ex.,  feixes  
+de partículas, lasers, desintegradores ou cargas explosivas di
+-
+recionadas) ou um refinamento de uma categoria “Comum” 
+(ex., eletricidade mágica, metal perfurante, etc.). -60%.
+Rara: Uma categoria de dano extremamente limitada. 
+Exemplos:  feixes  de  partículas  carregadas,  fogo  de  dra
+-
+gão, chumbo perfurante, lasers ultravioletas ou uma subs-
+tância incomum (ex., prata ou armas abençoadas). -80%.
+Exceto quando indicado o contrário, uma RD específica só 
+funciona contra o dano direto. Se o personagem for levitado 
+por meio de magia e depois largado, o dano será resultado da 
+queda; “RD vs. magia” não o protegeria. Se uma espada má
+-
+gica atingir o personagem, “RD vs. magia” protegeria apenas 
+contra o componente mágico do dano. Da mesma forma, “RD 
+vs. trolls” não seria de nenhuma ajuda contra uma pedra ar
+-
+remessada por um troll — o dano é causado pelo objeto e não 
+pela  criatura.  Especifique  esses  detalhes  juntamente  com  o  
+Mestre antes de determinar o valor da limitação. Se o Mestre 
+decidir que uma substância nunca influenciaria diretamente 
+o dano, ele pode não permiti-la como uma limitação!
+
+vantagens
+85
+2
+Resistente  não  protege  contra  efeitos  que  
+a  Resistência  a  Dano  ou  Sentido  Protegido  
+bloqueia ou oferece um bônus nos testes de HT.
+Resistente não protege contra efeitos 
+que a Resistência a Dano ou Sentido Pro
+-
+tegido  bloqueia  nem  oferece  um  bônus  
+nos testes de HT. Isso inclui Atribulações 
+ou  Ataques  Inatos  que  não  possuem  os  
+modificadores mencionados acima.
+O  custo  básico  desta  vantagem  de-
+pende  da  raridade  dos  efeitos  que  ela  
+combate:
+Muito Comum: Uma categoria ampla 
+que envolve os objetos nocivos descritos 
+anteriormente. Exemplo:  Danos  ao  Me
+-
+tabolismo (todas as ameaças que afetam 
+apenas  os  seres  vivos,  incluindo  todos  
+os tipos de doenças e venenos, além das 
+síndromes como doença da altitude, do
+-
+ença de descompressão, enjoo marítimo 
+e descompensação horária). 30 pontos.
+Comum:  Um  grupo  de  objetos  rela-
+cionados  entre  si  encontrados  com  a  
+mesma  frequência,  tanto  na  natureza,  
+quanto em um ataque ou algum subcon
+-
+junto  igualmente  abrangente  de  “Muito  
+Comum”. Exemplo:  Venenos  (todas  as  
+toxinas, mas não asfixiantes nem corro
+-
+sivos)  ou  Enjoos  (todos  os  tipos  de  en-
+joos e síndromes ambientais). 15 pontos.
+Ocasional:   Um   grupo   de   objetos   
+intimamente   relacionados   encontra
+-
+dos  com  mais  frequência  na  natureza  
+do  que  em  ataques  deliberados  ou  um  
+subconjunto  de  um  grupo  “Comum”.  
+Exemplos:  Doenças  (todas  as  infecções  
+causadas  por  bactérias,  vírus,  fungos,  
+etc.) ou Venenos Ingeridos. 10 pontos.

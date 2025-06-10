@@ -1,0 +1,100 @@
+menor ou igual a essa frequência de participação numa jogada com 3d no iní
+-
+cio da aventura. A maneira como o PdM irá interagir com o personagem se a 
+jogada for bem-sucedida dependerá da natureza do relacionamento entre eles.
+A  frequência  de  participação  só  multiplica  o  custo  em  pontos  de  um  
+PdM Associado (pág. 31) depois que o seu nível de poder e o tamanho do 
+grupo forem determinados (da maneira apropriada), mas antes de quais
+-
+quer modificadores especiais.
+Constantemente (nenhum teste necessário): ×4. O PdM está sempre presen-
+te. Este nível normalmente é reservado a PdMs — normalmente Aliados — que 
+são implantados, usados como vestimentas ou que estão ligados ao persona
+-
+gem de alguma forma sobrenatural.
+Quase o tempo todo (resultado menor ou igual a 15): ×3.
+Bastante frequência (resultado menor ou igual a 12): ×2.
+Com frequência (resultado menor ou igual a 9): ×1.
+Esporadicamente (resultado menor ou igual a 6): ×1/2 (arredondado para cima).
+
+vantagens
+37
+2
+frequência de participação e os modifica-
+dores especiais (se houver algum) devem 
+ser aplicados ao custo final do grupo.
+Frequência de Participação
+Escolha  uma  frequência  de  partici-
+pação (pág. 36). Se um Aliado aparecer 
+no início da aventura, ele acompanhará 
+o personagem por toda ela.
+Aliados no Jogo
+Assim como acontece com os Depen-
+dentes (pág. 130), o Mestre deve ajustar 
+as  habilidades  de  um  Aliado  a  fim  de  
+mantê-lo com um percentual fixo do va
+-
+lor de pontos do personagem, na medi-
+da  em  que  este  também  ganha  pontos.  
+Isto  manterá  os  custos  do  aliado  e  da  
+vantagem como uma constante. O Mes
+-
+tre decide como o Aliado evolui, embora 
+ele possa pedir a opinião do jogador.
+Se  o  Aliado  do  personagem  morrer,  
+mas  isso  não  for  culpa  do  personagem,  
+o Mestre não deve penalizá-lo. O jogador 
+deve ser permitido usar os pontos gastos 
+no  aliado  falecido  para  criar  um  novo  
+Aliado.  Esse  novo  relacionamento  deve  
+se desenvolver aos poucos, mas o Mestre 
+pode permitir que esse PdM se torne um 
+Aliado  imediatamente  se  o  personagem  
+tomar   alguma   ação   para   conquistá-lo   
+(salvar  a  vida  dele,  por  exemplo).  Isso  é  
+especialmente   apropriado   em   culturas   
+onde dívidas de honra são levadas a sério!
+Se  um  personagem  decide  se  separar  
+amigavelmente  de  seu  Aliado,  o  Mestre  
+também  não  deve  impor  penalidades.  O  
+jogador  deve  ser  permitido  usar  os  pon
+-
+tos gastos na criação do primeiro Aliado 
+para  comprar  um  novo  Aliado  que  seu  
+personagem conheceu — ou virá a conhe
+-
+cer  —  durante  a  aventura.  Se  o  Mestre  
+permitir, o jogador pode trocar os pontos 
+que sobraram nessa transição por dinhei
+-
+ro (pág. 26), refletindo, por exemplo, uma 
+espécie de presente de despedida.
+Familiares
+Magos,  telepatas,  etc.,  costumam  es-
+tar ligados de modo sobrenatural a Alia-
+dos  especiais  conhecidos  como  familia-
+res — normalmente animais ou espíritos.
+Crie as habilidades básicas do fami-
+liar  juntamente  com  o  Mestre,  come-
+çando com o modelo racial de uma cria-
+tura comum da mesma espécie. Se o IQ 
+racial  do  familiar  for  menor  ou  igual  a  
+5, aumente-o no mínimo para 6. Se for 
+preciso, considere recomprar a desvan
+-
+tagem  Incapaz  de  Falar.  A  maioria  dos  
+familiares tem vantagens sobrenaturais: 
+Vida  Extra,  no  caso  de  gatos  (afinal  de  
+contas, eles têm sete vidas!), Elo Mental 
+e Diapsiquia para familiares capazes de 
+transmitir pensamentos, etc.
+Depois  de  definir  as  habilidades  do  
+familiar,  estabeleça  o  total  de  pontos  e  
+o custo da criatura como se ele fosse um 
+Aliado. Escolha também a frequência de 
+participação, como de costume. Essa fre
+-
+quência  pode  indicar  a  constância  com  
+que o familiar está presente (no caso de 
+um  fracasso  no  teste  de  participação,  
+talvez  ele  esteja  dormindo  ou  fazendo  

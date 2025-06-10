@@ -1,0 +1,14 @@
+# Node
+node_modules/
+.env
+*.log
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDF output (if any)
+*.pdf

@@ -1,0 +1,100 @@
+ganhos.  Ele  também  pode  permitir  
+níveis múltiplos de Defesa Ampliada. 
+Nesse caso, o custo em pontos é defi
+-
+nido para cada bônus de +1. Observe 
+que os bônus maiores que +3 são qua
+-
+se  sempre  injustificáveis,  mesmo  em  
+jogos “extravagantes”!
+Dentes 3 1
+0, 1 ou 2 pontos
+Qualquer pessoa que tem uma boca 
+tem dentes rombos capazes de morder 
+e  causar  GdP-1  pontos  de  dano  por  
+contusão. Isso custa 0 ponto e é típico 
+da maioria dos herbívoros. Um perso
+-
+nagem  com  esta  vantagem,  por  outro  
+lado,  tem  uma  mordida  que  causa  
+mais dano:
+Bico Afiado: Como o de uma ave de 
+rapina.  Causa  GdP-1  pontos  de  dano  
+muito perfurante. 1 ponto.
+Dentes Afiados: Como os da maioria 
+dos carnívoros. Causa GdP-1 pontos de 
+dano por corte. 1 ponto.
+Presas: Como as de um Tigre Dente
+-
+-de-Sabre. Causa GdP-1 pontos de dano 
+por perfuração. 2 pontos.
+Desenvolvedor 2
+25 ou 50 pontos
+O personagem é um inventor nato. 
+Ele é capaz de modificar equipamen
+-
+tos e — se tiver tempo e dinheiro su-
+ficientes — inventar bugigangas com-
+pletamente  novas,  como  descrito  sob  
+Invenções  (pág.  475).  Isso  permite  
+que ele crie engenhocas com rapidez e 
+facilita a percepção de inovações tec
+-
+nológicas  típicas  de  NTs  mais  eleva-
+dos.  Esta  vantagem  está  dividida  em  
+dois níveis:
+Desenvolvedor:   O   personagem   é   
+um  inventor  “cinematográfico”,  mas  
+seu  trabalho  ainda  leva  dias  ou  me
+-
+ses  e  exige  uma  grande  quantidade  
+de dinheiro e equipamentos caros. 25 
+pontos.
+Desenvolvedor  Rápido:  O  persona-
+gem  é  capaz  de  criar  engenhocas  fan-
+tásticas  em  minutos  ou  horas  e  conse-
+gue  se  arranjar  com  quaisquer  peças  
+sobressalentes que tiver ao seu alcance 
+que  custam  apenas  uma  pequena  por
+-
+centagem do que um inventor “realista” 
+teria que gastar. Esse nível é definitiva
+-
+mente inadequado para campanhas re-
+alistas! 50 pontos.
+Deslocamento 
+Ampliado 3 1
+20 pontos/nível
+O  personagem  é  realmente  muito  
+rápido!  Cada  nível  de  Deslocamento  
+Ampliado dobra  sua  velocidade  máxi
+-
+ma  em  um  determinado  ambiente:  Ar,  
+Solo, Espaço ou Água. Também é possí
+-
+vel adquirir meio nível de Deslocamen-
+to  Ampliado,  sozinho  ou  em  conjunto  
+com  qualquer  número  de  níveis  intei
+-
+ros; isso custa 10 pontos e multiplica o 
+Deslocamento por 1,5.
+Exemplo  1:  Um  personagem  super,  
+compra    Deslocamento    Ampliado    4    
+(Solo) por 80 pontos. Ele multiplica seu 
+Deslocamento por 2 × 2 × 2 × 2 = 16. Se 
+o Deslocamento Básico do personagem 
+era 8, ele poderia correr a uma velocida
+-
+de de 128 metros/segundo (384 km/h).
+Exemplo  2:  Uma  raça  aviária  tem  
+Deslocamento   Ampliado   (Ar)   de   2,5   
+que custa 50 pontos. Todos os membros 
+dessa  raça  multiplicam  sua  velocidade  
+aérea máxima por 2 × 2 × 1,5 = 6.
+Esse    Deslocamento    multiplicado    
+representa   a   velocidade   máxima   do   
+personagem.  Anote  o  resultado  entre  
+parênteses depois da característica Des
+-
+locamento Ampliado; ex., o super men-
+cionado no exemplo anterior escreveria 

@@ -1,0 +1,100 @@
+Alcance Máximo: O personagem é ca-
+paz  de  saltar  apenas  uma  determinada  
+
+vantagens
+87
+2
+distância no tempo ou um número limi-
+tado de “deslocamentos” entre mundos 
+paralelos,  independentemente  do  nú
+-
+mero  de  saltos.  Da  mesma  forma  que  
+acontece com Salto Limitado, o Mestre 
+precisa estabelecer o valor da limitação.
+Atordoamento:  O  personagem  sem-
+pre fica mentalmente atordoado depois 
+de um salto. -10%.
+Incapaz de Seguir: Disponível apenas 
+para  os  saltadores  de  mundos.  O  per
+-
+sonagem  não  consegue  “pegar  carona”  
+com outro Saltador. -20%.
+Nu: O personagem não consegue levar 
+nada com ele durante um salto e sempre 
+chega ao destino completamente nu. -30%.
+Salto  Limitado:  O  personagem  só  
+consegue  viajar  uma  determinada  dis
+-
+tância no tempo ou um número limita-
+do  de  “deslocamentos”  entre  mundos  
+paralelos por salto. Para ir mais longe, 
+ele  precisa  dar  vários  saltos.  O  Mestre  
+tem que definir o valor dessa limitação 
+em sua campanha; em alguns cenários 
+ela pode ser um obstáculo maior do que 
+em outros. Um valor sugerido é -10%.
+Solitário:  Esta  limitação  está  dispo-
+nível apenas para os saltadores de mun-
+dos.  Outros  Saltadores  não  conseguem  
+“pegar  carona”,  mesmo  que  o  persona
+-
+gem queira transportá-los. -10%.
+Sensível
+V.   Empatia, pág. 57
+Senso de Direção 2/3
+5 ou 10 pontos
+O   personagem   tem   um   excelente   
+senso  de  direção.  Esta  habilidade  está  
+disponível em dois níveis:
+Senso de Direção: O personagem sem-
+pre sabe onde fica o norte e é sempre 
+capaz de refazer um trajeto realizado 
+nos últimos 30 dias, não importa o quão 
+confuso ou tortuoso ele tenha sido. Essa 
+habilidade não funciona em ambientes 
+como o espaço interestelar, o limbo no 
+plano astral, etc., mas funciona em locais 
+subterrâneos, debaixo d’água e em outros 
+planetas. Esta vantagem concede um 
+bônus de +3 nos testes de Percepção do 
+Corpo e Navegação (Ar, Terra ou Mar). 
+(Observação: O senso de navegação que 
+guia as criaturas migratórias até seu des-
+tino é muito primitivo para se qualificar 
+como um senso de direção; trate-o como 
+uma característica de 0 ponto.) 5 pontos.
+Noção Tridimensional do Espaço: Fun-
+ciona como o caso anterior, mas de forma 
+tridimensional.  Esta  habilidade  é  útil  no  
+espaço sideral embora não ajude em nada 
+se  o  personagem  estiver  viajando  entre  
+dimensões. Ele recebe os bônus do Senso 
+de Direção, além de +1 em Pilotagem e +2 
+em  Acrobacia,  Queda  Livre  e  Navegação  
+(Espaço ou Hiperespaço). 10 pontos.
+Limitações Especiais
+Requer  Sinal:  O  personagem  conta  
+com  a  ajuda  de  sinais  de  uma  rede  de  
+navegação por satélite (como o GPS na 
+Terra)  ou  de  um  sistema  equivalente.  
+A  habilidade  não  funciona  na  falta  de  
+uma  orientação  desse  tipo  e  também  
+pode ser bloqueada. -20%.
+Sentido de 
+Monitoramento 3 1
+Variável
+O  personagem  é  capaz  de  irradiar  
+energia,  fazê-la  ricochetear  em  objetos  
+e analisar o sinal de resposta para cons
+-
+truir uma “imagem” de seus arredores. 
+Isso permite a ele discernir tamanho e 
+forma,  mas  não  cor  ou  detalhes  finos  
+(como escrita). Isso não tem nada a ver 
+com o sentido da visão comum aos se
+-
+res  humanos  e  não  necessita  de  ilumi-
+nação. Por isso, durante um combate, o 
+personagem  pode  ignorar  as  penalida
+-
+des relacionadas à escuridão. A percep-

@@ -1,0 +1,100 @@
+-
+sonagem   distinga   cores   e   possibilita   
+apenas  a  percepção  do  tamanho  e  da  
+forma  geral  dos  objetos  que  emitem  
+calor,  inclusive  dos  seres  vivos  (ex.,  o  
+personagem pode ter problemas para di
+-
+ferenciar duas pessoas do mesmo tama-
+nho). Ele deve fazer um teste com uma 
+penalidade de -4 para distinguir objetos 
+do mesmo tamanho e formato. O Mestre 
+pode exigir um teste de Visão com uma 
+penalidade de -4 para “ler” o calor refle
+-
+tido. Flashes  repentinos  de  calor  (como  
+uma  chama,  explosão  ou  laser  infraver
+-
+melho)  podem  cegar  o  personagem  da  
+mesma  forma  que  um  flash  de  luz  cega  
+uma pessoa com visão comum.
+O  custo  depende  da  capacidade  da  
+visão do personagem:
+O  personagem  só  enxerga  por  meio  
+da Infravisão e sofre as limitações dessa 
+vantagem o tempo todo: 0 ponto.
+O  personagem  é  capaz  de  alternar  
+entre  a  visão  comum  e  a  Infravisão  e  
+vice-versa: 10 pontos.
+Insubstancialidade 2/3 1
+80 pontos
+O  personagem  é  capaz  de  se  tornar  
+intangível  e  atravessar  objetos  sólidos  
+como   se   eles   não   existissem.   Nesse   
+estado,  a  gravidade  não  afeta  o  perso
+-
+nagem  e  ele  é  capaz  de  se  mover  em  
+qualquer direção com seu valor total de 
+Deslocamento  (sem  produzir  nenhum  
+som enquanto faz isso). O personagem 
+consegue  perceber  o  mundo  tangível  e  
+pode  se  comunicar  normalmente  com  
+as  pessoas  que  fazem  parte  dele,  mas  
+não  consegue  pegar  objetos  comuns  
+nem afetá-los de qualquer maneira.
+Ataques físicos e de energia não afe
+-
+tam  o  personagem,  mas  ele  continua  
+vulnerável  a  ataques  psíquicos  e  mági
+-
+cos (que não sejam materiais). Da mes-
+ma  maneira,  seus  ataques  físicos  e  de  
+energia  não  afetam  oponentes  físicos.  
+Suas  habilidades  psíquicas  e  mágicas  
+afetam  o  mundo  físico,  mas  todas  as  
+jogadas sofrem uma penalidade de -3.
+Embora  seja  capaz  de  atravessar  ob-
+jetos sólidos, o personagem ainda preci-
+sa  respirar.  Quando  ele  atravessar  esses  
+objetos,  considere  que  ele  está  debaixo  
+d’água  para  verificar  se  há  ou  não  sufo
+-
+camento. O personagem não consegue se 
+materializar dentro de um objeto sólido.
+A  forma  “natural”  (material  ou  in-
+substancial) do personagem é conside-
+rada um efeito especial. O jogador tem 
+que  comprar  a  vantagem  para  que  o  
+personagem  seja  capaz  de  assumir,  al
+-
+ternadamente, uma forma física e uma 
+forma insubstancial.
+Esta   característica   pode   represen-
+tar  qualquer  habilidade  do  folclore  e  
+da  ficção.  É  aconselhável  estabelecer  as  
+origens (v. pág. 33) e os efeitos especiais 
+em conjunto com o Mestre talvez o per
+-
+sonagem  “vibre”  em  dissonância  com  a  
+
+vantagens
+66
+realidade,  viaje  por  uma  dimensão  dife-
+rente  ou  se  transforme  em  um  espírito.  
+Esses  detalhes  determinam  a  aparência  
+do efeito, que pode ser transparente, ene
+-
+voada ou completamente normal (contu-
+do, o personagem não pode ficar invisível 
+sem  ter  a  vantagem  Invisibilidade).  Os  
+ataques  físicos  e  de  energia  do  perso
+-
+nagem  afetam  outras  criaturas  com  In-
+substancialidade  que  estiverem  na  mes-
+ma forma que ele, e vice-versa. O Mestre 
+pode definir que certos materiais, barrei
+-
+ras de energia, mágicas, etc., não podem 
+ser atravessados pela forma específica de 
+Insubstancialidade do personagem.
+Ampliações Especiais

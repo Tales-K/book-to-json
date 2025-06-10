@@ -1,0 +1,100 @@
+e outras substâncias inflamáveis).
+Perigo
+Variável
+O  personagem  pode  atribuir  uma  
+das  ampliações  a  seguir  a  um  Ataque  
+Inato  que  causa  dano  por  fadiga:  Afo
+-
+gamento,  +0%;  Congelamento,  +20%;  
+Desidratação,   +20%;   Sono   Perdido,   
++50%;  Fome,  +40%;  ou  Sufocamento,  
++0%. Trate a perda de PF causada pelo 
+ataque de mesma forma que a perda de 
+PF causada pelo perigo associado para 
+todos os propósitos, inclusive a recupe
+-
+ração (consulte o Capítulo 14).
+As  características  que  defendem  o  
+alvo  do  perigo  em  questão  também  o  
+protegem deste dano. Exemplo: um ata
+-
+que  com  Fome  causaria  uma  perda  de  
+PF  que  poderiam  ser  recuperados  por  
+uma refeição; contudo, um personagem 
+que Não Come nem Bebe seria imune a 
+esse ataque.
+Projeção Dupla (pdp)
++20%
+Este modificador permite que um ata-
+que por contusão ou corte provoque uma 
+projeção duas vezes mais intensa que a 
+normal; consulte Projeção (pág. 378).
+Radiação (rad)
++25% ou +100%
+O ataque irradia o alvo. A avaliação de 
+dano é feita normalmente, mas, indepen-
+dente de atravessar a RD ou não, o ata-
+que causa 1 rad por ponto de dano básico 
+causado. Para maiores informações sobre 
+os efeitos da radiação consulte Radiação 
+(pág. 435). No caso de um ataque que 
+causa dano por toxina, a radiação subs-
+titui o dano normal e a ampliação custa 
++25%; isso é típico de uma radioatividade 
+“comum”. No caso de um ataque por quei-
+madura, a radiação é aplicada em adição 
+ao dano normal e a ampliação vale +100%; 
+utilize essa opção para lidar com feixes 
+de partículas. Outros tipos de dano não 
+podem receber esta ampliação.
+Sobretensão (sob)
++20%
+Eletrônicos,  incluindo  personagens  
+com a desvantagem Elétrico (pág. 137), 
+que  sofrem  dano  superior  a  1/3  PVIni
+-
+cial de um ataque deste tipo devem fa-
+zer um teste de HT. Um fracasso signifi-
+ca ficar desabilitado por um número de 
+segundos  igual  à  margem  de  fracasso;  
+em uma falha crítica, até ser reparado.
+Trauma por  
+Impacto Duplo (tid)
++20%
+Disponível  para  Ataques  Inatos  que  
+causam  dano  por  queimadura,  corro
+-
+são, corte, perfuração ou perfurante. Os 
+ataques  por  queimadura  ou  corrosão  
+ampliados dessa maneira causam a per
+-
+da de 1 PV de trauma por impacto para 
+cada  10  pontos  de  dano  básico  resisti
+-
+do  por  uma  armadura  flexível.  Os  ata-
+ques por corte, perfuração e perfurante 
+com  essa  ampliação  causam  o  mesmo  
+trauma por impacto que um ataque por 
+contusão: 1 PV de trauma por impacto 
+para  cada  5  pontos  de  dano  básico  re
+-
+sistido por uma armadura flexível.
+Persistente 6
++40%
+Esta ampliação só pode ser aplicada 
+a  um  ataque  com  Efeito  de  Área  (pág.  
+105). Isso faz com que a área de efeito 
+permaneça  imóvel  durante  10  segun
+-
+dos, causando dano (ou atacando e pos-
+sivelmente  causando  dano,  se  compra-
+da  junto  com  Bombardeio,  pág.  111)  
+em  qualquer  indivíduo  que  entrar  ou  
+passar por ela. Utilize Prazo Estendido 
+para aumentar a duração desse efeito.
+
+vantagens
+109
+2
+Prazo Estendido
+Variável

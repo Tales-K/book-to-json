@@ -1,0 +1,100 @@
+No primeiro teste, ele obtém um 11, mas no 
+segundo, 14. Esse valor é maior que sua HT 
+(12), mas menor que sua HT modificada 
+(12 + 4 = 16). Ele desmaia e seus inimigos 
+o consideram como morto. Mais ou menos 
+um dia depois, ele recobra a consciência, 
+ainda ferido, mas não morto!
+Numa  campanha  realista,  o  Mestre  
+pode  decidir  limitar  aos  níveis  1  e  2  o  
+acesso dos personagens a esta vantagem.
+DX Braçal 3 1
+12 ou 16 pontos por +1 DX
+Um ou mais braços do personagem têm 
+uma DX adicional em relação ao restante 
+do corpo. Esse valor se aplica somente 
+às ações feitas com os braços, ou mãos, 
+em questão — ele não afeta a Velocidade 
+Básica! Se uma tarefa exigir duas mãos ou 
+mais e elas não tiverem a mesma DX, uti-
+lize o menor valor. As perícias de combate 
+dependem da DX corporal e não se benefi-
+ciam de forma alguma da destreza braçal.
+A  DX  Braçal  custa  12  pontos  para  
+cada +1 de DX para um braço e 16 pon
+-
+tos para cada +1 de DX nos dois braços. 
+Não  vale  a  pena  aumentar  esse  valor  
+para três braços ou mais — nesse caso, 
+é melhor comprar a DX corporal. Se a 
+DX  do  personagem  foi  adquirida  com  
+a  limitação  Manuseadores  Precários,  
+aplique-a também à DX Braçal.
+Elasticidade 3 1
+6 pontos/nível
+O  personagem  é  capaz  de  esticar  o  
+próprio   corpo   em   qualquer   direção.   
+Cada nível de Elasticidade permite que 
+o personagem aumente seu MT efetivo 
+em  +1  para  qualquer  parte  do  corpo  
+sem  fazer  o  mesmo  com  o  MT  geral.  
+O  personagem  é  capaz  de  alongar  os  
+braços para aumentar seu alcance (mas 
+não o dano causado pelo golpe em ba
+-
+lanço,  pois  essa  vantagem  não  resulta  
+em  massa  ou  músculos  adicionais),  as  
+pernas  para  ultrapassar  obstáculos,  o  
+pescoço para enxergar sobre barreiras, 
+etc. Para maiores informações, consul
+-
+te Modificador  de  Tamanho  e  Alcance 
+(pág.  402).  As  partes  do  corpo  do  per
+-
+sonagem  aumentam  ou  diminuem  à  
+razão de ±1 MT por segundo.
+Elasticidade é ideal para máquinas com ma-
+nipuladores telescópicos. Um personagem super 
+com  um  “corpo  de  borracha”  deve  considerar  
+alguma  combinação  de  Morfose,  Pele  Elástica,  
+Super Salto e Ultraflexibilidade das Juntas.
+
+vantagens
+57
+2
+Por si só, a Elasticidade é ideal para 
+máquinas  com  manipuladores  telescó
+-
+picos.  Um  personagem  super  com  um  
+“corpo  de  borracha”  deve  considerar  
+alguma  combinação  de  Morfose  (pág.  
+72), Pele Elástica (pág. 77), Super Salto 
+(pág. 90) e Ultraflexibilidade das Juntas 
+(pág. 61).
+Elo Mental 2 5
+Variável
+O personagem se encontra em comu-
+nicação telepática permanente com ou-
+tro  indivíduo  —  geralmente  um  irmão  
+gêmeo,  um  ente  querido,  um  membro  
+da mesma colmeia, etc. O personagem 
+será   automaticamente   bem-sucedido   
+em todas as tentativas de contatar essa 
+pessoa  com  Diapsiquia  (v.  Telecomuni
+-
+cação, pág. 93) e Leitura da Mente (pág. 
+68), contanto que ela decida não resistir 
+ou  tenha  Mentalidade  de  Escravo.  Elo  
+Mental não  permite  contato  automáti
+-
+co  a  distâncias  interestelares  (mais  de  
+0,1 ano-luz) nem consegue alcançar ou
+-
+tras dimensões, mundos paralelos, etc.
+Esta  vantagem  custa  5  pontos  para  
+uma  pessoa,  10  pontos  para  2–9  pes
+-
+soas, 20 pontos para 10–99 pessoas, 30 
+pontos  para  100–999  pessoas  e  assim  
+por  diante  —  adicione  10  pontos  ao  
+custo  para  cada  aumento  de  dez  vezes  

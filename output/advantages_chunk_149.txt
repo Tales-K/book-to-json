@@ -1,0 +1,100 @@
+-
+lha quais ampliações deseja usar, a Se-
+letividade  possibilita  versões  múltiplas  
+da mesma habilidade sem que seja pre
+-
+ciso  comprá-la  várias  vezes.  Isso  pode  
+ser extremamente útil quando se estiver 
+criando  um  super-herói  igual  aos  dos  
+quadrinhos!
+Sintomas 6
+Variável
+Sintomas são efeitos que ocorrem se 
+o dano cumulativo (perda de PV ou PF) 
+causado  pelo  Ataque  Inato  ampliado  
+exceder uma fração do PV ou PF bási
+-
+co da vítima. A vítima não tem direito a 
+um  teste  de  HT  para  resistir  os  efeitos  
+de Sintomas! O Mestre deve considerar 
+a possibilidade de limitar os Sintomas a 
+ataques  que  causam  1d  ponto  de  dano  
+ou menos.
+Escolha os Sintomas a partir dos 
+seguintes  efeitos,  descritos  como  
+ampliações  para  Atribulação  (pág.  
+43):   Desvantagem,   Irritante,   Pe-
+nalidade  em  Atributo,  Vantagem  e  
+Vantagem  Anulada.  Se  o  limiar  do  
+Sintoma for de 2/3 do PVInicial da 
+vítima,  utilize  o  custo  apresentado  
+em  Atribulação;  se  for  de  1/2  do  
+PVInicial, dobre o custo; se for 1/3, 
+triplique o custo.
+Exemplo:   Cegueira   vale   +50%   
+como  uma  Atribulação,  mas  como  
+um  Sintoma  que  ocorre  quando  a  
+vítima perde metade dos seus PVI-
+nicial com um Ataque Inato ela vale 
++100%.
+Ao contrário das Atribulações, os 
+Sintomas  só  são  anulados  quando  
+o  dano  que  os  causou  for  curado.  
+No exemplo anterior, a Cegueira só 
+passaria  depois  que  a  vítima  ficar  
+com mais da metade dos PV.
+Um Ataque Inato pode causar vários 
+Sintomas,  representando  os  efeitos  di
+-
+versos  que  podem  ocorrer  em  diferen-
+tes limiares de dano.
+Subaquático 6
++20%
+Pressupõe-se   que   os   ataques   são   
+úteis  no  ar  ou  no  vácuo  e  se  tornam  
+inúteis   em   líquidos.   Esta   ampliação   
+permite que um ataque funcione sob a 
+água com 1/10 da distância de alcance.
+Tempo Reduzido
++20%/nível
+Esta ampliação só pode ser aplica-
+da  às  habilidades  que  exigem  algum  
+tempo  para  serem  ativadas.  É  possí
+-
+vel  comprá-la  quantas  vezes  quiser.  
+Cada nível reduz pela metade o tem
+-
+po necessário para utilizar a habilida-
+de  (arredondado  para  cima).  Depois  
+que o tempo é reduzido a um segun
+-
+do, o próximo nível da ampliação irá 
+torná-la instantânea e ela será utiliza
+-
+da como uma ação livre.
+Observe que não é possível adicionar 
+Tempo  Reduzido  a  poderes  de  ataque,  
+a  características  que  já  possuem  mo
+-
+dificadores especiais que manipulem o 
+tempo de ativação ou à Aptidão Mágica 
+(para reduzir o tempo de operação).
+Variável 6
++5%
+O personagem é capaz de enfraque-
+cer seu ataque. Por exemplo, se tiver um 
+Ataque  Inato  que  normalmente  causa  
+3d  pontos  de  dano,  ele  pode  reduzi-lo  
+para 1d ou 2d. É necessário indicar isso 
+antes de fazer a jogada de ataque.
+limitações
+É  possível  aplicar  limitações  a  pra-
+ticamente qualquer característica (mas, 
+da  mesma  maneira  que  acontece  com  
+as ampliações, as perícias normalmen
+-
+te ficam de fora). Quando se aplica uma 
+limitação  a  uma  desvantagem,  seu  va
+-
+lor como  desvantagem  é  reduzido;  ex.:  
+uma limitação de -10% aplicada a uma 

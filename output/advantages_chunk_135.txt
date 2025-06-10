@@ -1,0 +1,100 @@
+O  corpo  do  personagem  digere  o  
+álcool com uma eficiência notável. Ele 
+é  capaz  de  beber  durante  um  período  
+indefinido sem sofrer quaisquer efeitos 
+nocivos,  contudo,  a  bebedeira  o  afe
+-
+ta  como  a  qualquer  outra  pessoa.  Ele  
+também  recebe  um  bônus  de  +2  em  
+todos  os  testes  de  HT  relacionados  ao  
+alcoolismo.
+Voz Penetrante 3
+O  personagem  realmente  é  capaz  
+de  se  fazer  ouvir!  Em  situações  nas  
+quais  ele  deseja  ser  ouvido  em  meio  
+ao  barulho,  as  outras  pessoas  rece
+-
+bem um bônus de +3 no teste de Audi-
+ção. A critério do Mestre, ele também 
+recebe um bônus de +1 nos testes de 
+Intimidação  se  surpreender  alguém  
+com um berro.
+modifiCadores
+Um modificador  é  um  traço  que  
+pode ser adicionado a uma caracte
+-
+rística normalmente uma vantagem 
+— para alterar sua função. Existem 
+dois tipos básicos de modificadores: 
+ampliações  e  limitações.  As  amplia
+-
+ções tornam as características liga-
+das  a  elas  mais  úteis,  enquanto  as  
+limitações   acrescentam   restrições   
+adicionais a elas.
+Os modificadores ajustam o cus-
+to  base  de  uma  característica  de  
+acordo com seus efeitos. As amplia-
+ções aumentam  o  custo  e  as  limi-
+tações  o  diminuem.  Por  exemplo,  
+uma ampliação de +20% aumenta-
+ria o custo base em pontos de uma 
+vantagem  em  1/5,  enquanto  uma  
+limitação  de  -50%  reduziria  esse  
+custo pela metade.
+É possível aplicar qualquer quanti-
+dade de modificadores a uma caracterís-
+tica. Some seus valores para encontrar o 
+modificador líquido e aplique-o ao custo 
+base da característica. Arredonde o custo 
+resultante  para  cima,  até  o  próximo  
+número inteiro. Exemplo: uma ampliação 
+de +10%, mais uma de +40%, somada a 
+uma limitação de -30%, mais uma de -45% 
+resultariam em um modificador líquido de 
+-25%. Eles reduziriam o custo de uma van-
+tagem de 10 para 7,5 pontos — que devem 
+ser arredondados para 8.
+Os modificadores nunca podem redu-
+zir um custo em mais de 80%. Sempre que 
+isso acontecer, aplique um modificador 
+de -80%. Portanto, independentemente 
+do número de limitações impostas a uma 
+característica, ela nunca pode ser reduzida 
+a menos que 1/5 de seu custo base.
+O Mestre tem a palavra final em relação 
+a quais e como as características podem ser 
+modificadas. Algumas combinações não 
+fazem sentido (imagine Idade Imutável com 
+a limitação Uso Limitado!), outras apresen-
+tam um potencial para serem abusadas e 
+ainda existem aquelas que podem não ser 
+adequadas à campanha. Os modificadores 
+percentuais também implicam em mais cál-
+culos. Mestres que preferem manter as coi-
+sas mais simples podem acabar proibindo 
+a utilização desses modificadores.
+Para  muitas  outras  ampliações  e  li-
+mitações, veja o GURPS Poderes.
+Modificadores Especiais
+Muitas  vantagens  e  algumas  desvantagens,  oferecem  “ampliações  es-
+peciais” e “limitações especiais”. Esses modificadores costumam ser ade-
+quados apenas às características em questão, nas quais são descritos. No 
+entanto,  o  Mestre  pode  optar  por  atribuir  os  modificadores  especiais  de  
+uma característica a outras semelhantes.
+Alcance, Área e Duração das Vantagens
+Quando  se  aplica  modificadores,  às  vezes  é  necessário  conhecer  a  
+distância de alcance, área de efeito ou duração de uma vantagem para 
+a qual uma ou mais dessas características não foi especificada — por 
+exemplo,  quando  se  aplica  uma  ampliação  que  concede  distância  a  
+uma  habilidade  que  normalmente  não  tem  esse  parâmetro.  A  menos  
+que a vantagem especifique o contrário, assuma que a distância de al
+-
+cance é 100 metros, a área consiste em um círculo de 2 metros de raio 
+(e  3,5  m  de  altura,  se  o  volume  for  importante)  e  a  duração  é  de  10  
+segundos. As exceções estarão anotadas.
+
+vantagens
+102
+Ampliações e Limitações de Ataque
+Algumas  ampliações  e  limitações  se  destinam  apenas  a  Ataque  Inato,  

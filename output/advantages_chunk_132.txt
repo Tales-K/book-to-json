@@ -1,0 +1,100 @@
+é  incompatível  com  os  demais  modifi
+-
+cadores  especiais,  com  exceção  de  So-
+mente Voo Espacial. +50%.
+Voo  Espacial  Newtoniano:  Funcio
+-
+na  da  mesma  maneira  que  Voo  Espa-
+cial  (acima),  mas  o  Deslocamento  do  
+personagem  no  espaço  —  ou  sua  ve
+-
+locidade  máxima  espacial,  se  ele  tiver  
+Deslocamento Ampliado (Espaço) — é, 
+na verdade, seu “delta-v”: a variação na 
+velocidade total que ele é capaz de reali
+-
+zar antes de ficar sem massa de reação. 
+Exemplo: O personagem pode acelerar 
+até atingir seu delta-v e permanecer as
+-
+sim  (como  um  míssil),  ou  acelerar  até  
+atingir a metade do seu delta-v e depois 
+desacelerar  até  o  final  de  sua  jornada  
+(como uma nave espacial comum). De
+-
+pois de realizar mudanças de velocida-
+de  igual  ao  seu  delta-v,  o  personagem  
+deve  reabastecer  para  poder  voltar  a  
+alterar sua velocidade. +25%.
+Limitações Especiais
+Alado: O personagem usa asas gran-
+des ou flaps de pele para voar. A enver-
+gadura  desses  elementos  é  no  mínimo  
+o dobro da altura do personagem. Para 
+poder  decolar,  aterrissar  ou  fazer  uma  
+manobra, ele precisa de uma área aber
+-
+ta com um raio igual à sua envergadu-
+ra  em  todas  as  direções.  Se  suas  asas  
+estiverem presas, ou se uma delas ficar 
+incapacitada (ou mais que 1/3 delas, se 
+o  personagem  tiver  mais  de  duas),  o  
+personagem não conseguirá voar. Con
+-
+sidere  as  asas  como  braços  no  que  se  
+refere à mira e incapacitação. Se o per
+-
+sonagem  quiser  golpear  ou  manipular  
+objetos  com  suas  asas,  precisa  pagar  
+por elas como Pernas ou Braços Adicio
+-
+nais, além do custo de Voo. -25%.
+Asas  Pequenas:  Funciona  da  mes-
+ma  maneira  que  Alado,  mas  a  enver-
+gadura  do  personagem  não  pode  ser  
+mais  que  a  metade  de  sua  altura.  O  
+personagem  usa  as  asas  para  mano
+-
+brar e estabilizar o voo, não para voar 
+mais  alto.  Se  as  asas  ficarem  incapa
+-
+citadas  durante  o  voo,  o  personagem  
+precisa ser bem sucedido em um teste 
+de Acrobacia Aérea (ou com seu valor 
+predefinido)  para  aterrissar  em  segu
+-
+rança. -10%.
+Incapaz  de  Pairar:  O  personagem  
+tem  sempre  que  se  deslocar  a  uma  ve
+-
+locidade  que  é  pelo  menos  1/4  de  sua  
+velocidade aérea máxima (arredondado 
+para  cima)  quando  está  voando.  Essa  
+limitação  é  incompatível  com  Planar  
+Controlado e Planar. -15%.
+
+vantagens
+100
+Limite Baixo de Voo: O personagem 
+não consegue voar muito alto. Isso não 
+limita  sua  velocidade,  mas  o  Mestre  
+pode  exigir  testes  de  Acrobacia  Aérea  
+para  ver  se  o  personagem  consegue  
+desviar de obstáculos próximos ao solo. 
+Um teto de 9 m vale -10%; um teto de 3 
+m, -20%; e um teto de 1,5 m, -25%.
+Mais Leve que o Ar: O personagem con-
+segue  voar,  tornando-se  mais  leve  que  o  
+ar  (ou  assumindo  a  forma  de  um  gás).  O  
+vento desloca o personagem a 1 m/s, na di
+-
+reção em que estiver soprando, para cada 
+8  km/h  de  velocidade.  Se  o  vento  estiver  
+soprando na mesma direção que o perso
+-
+nagem  deseja  viajar,  esse  valor  é  somado  
+ao  Deslocamento  do  personagem;  caso  
+contrário, ele é reduzido, pois o persona
+-
+gem está voando contra o vento. -10%.
+Planar:  O  personagem  não  consegue  

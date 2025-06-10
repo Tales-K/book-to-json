@@ -1,0 +1,100 @@
+apenas um Ataque Adicional. Isso per
+-
+mite que ele ataque com as duas mãos ao 
+mesmo tempo e representa uma coorde-
+nação excepcionalmente boa. Personagens 
+supers e não-humanos não estão sujeitos a 
+essa limitação. Um policial superpoderoso 
+poderia comprar dois Ataques Adicionais, 
+o  que  lhe  permitiria  lançar  raios  dos  
+olhos, disparar a pistola e golpear com 
+o cassetete, tudo ao mesmo tempo. Um 
+dragão poderia comprar quatro Ataques 
+Adicionais e atacar cinco vezes com qual-
+quer combinação de seus quatro membros, 
+dentes, chifres, cauda e sopro de fogo!
+Ataque Adicional é exatamente isso: 
+uma manobra Ataque adicional em seu 
+turno de combate. Ela não elimina a 
+penalidade de -4 para mãos “inábeis” (v. 
+Ambidestria, pág. 38), nem permite que 
+o personagem realize várias manobras 
+Apontar (v. Rastreamento Ampliado, pág. 
+81). Ele pode usar alguns de seus ataques 
+para realizar manobras Fintar, mas não 
+pode realizar outros tipos de ação — para 
+isso é necessário ter Padrão de Tempo 
+Alterado (pág. 75).
+Ataques Adicionais e  
+Ataque Total
+Quando  um  personagem  que  tem  
+Ataque Adicional realiza um Ataque Total, 
+ele tem que escolher um tipo de bônus 
+para todos os seus ataques naquele turno. 
+Ele não poderia, por exemplo, aplicar um 
+Ataque Total (Resoluto) para um ataque 
+e um Ataque Total (Forte) para outro. Se 
+utilizar um Ataque Total (Duplo) para 
+aumentar o número de ataques, o persona-
+gem recebe apenas um ataque adicional.
+Ataques Adicionais e  
+Golpe Rápido
+O personagem pode usar um de seus ata-
+ques corpo a corpo para aplicar um Golpe 
+Rápido (v. pág. 370) durante seu turno, 
+sujeito aos redutores normais. Os ataques 
+restantes são realizados em adição ao Golpe 
+Rápido e não sofrem penalidades. O perso-
+nagem não pode usar Golpe Rápido com 
+dois ou mais ataques em um mesmo turno.
+Ataque Constritivo 3 1
+15 pontos
+A musculatura do personagem foi aper-
+feiçoada para esmagar seus oponentes 
+— seja com um “abraço de urso” ou esma-
+gando-o como uma jiboia. Para utilizar esta 
+habilidade, o personagem primeiro precisa 
+agarrar a pretensa vítima, cujo Modificador 
+de Tamanho (pág. 19) não pode ser maior 
+do que o do personagem. No próximo turno 
+e em cada turno subsequente, realize uma 
+Disputa Rápida entre a ST do personagem e 
+a ST ou HT da vítima (o que for maior). Se o 
+personagem vencer, ele causa dano ao alvo 
+igual à sua margem de vitória no teste; caso 
+contrário, o alvo não sofre dano.
+Ataque Inato 3 1
+Variável
+O personagem tem um ataque natural 
+ou embutido com o qual é capaz de causar 
+dano físico (se quiser ataques que não cau-
+sam dano, consulte Atribulação, pág. 43, 
+e Retenção, pág. 85). Entre os exemplos 
+incluem-se o sopro de fogo de um dragão, a 
+arma de feixe iônico embutida de um robô 
+e a habilidade de lançar raios de um deus.
+Via de regra, este é um ataque à distân-
+cia com 1/2D 10, Max 100, Prec 3, CdT 1, 
+Tiros N/A e Recuo 1, embora seja possível 
+aplicar modificadores para alterar esses 
+valores (v. pág. 101–116).
+Um Ataque Inato causa 1d ponto de 
+dano por nível. Seu custo por nível de
+-
+pende do tipo de dano causado:
+Contusão (cont)
+O ataque do personagem causa dano por 
+impacto com um instrumento sem ponta, 
+como uma arma de concussão ou uma 
+explosão. É provável que esse golpe resulte 
+em uma projeção (pág. 378) e é mais eficaz 
+para causar traumas por impacto (pág. 379) 
+do que outros tipos de dano. 5 pontos/nível.
+Corrosão (cor)
+O  ataque  envolve  ácido,  desintegra-
+ção  ou  algo  semelhante.  Para  cada  5  
+pontos  de  dano  básico  causado,  a  RD  
+do alvo é reduzida em 1 ponto, além do 
+dano  regular  (seres  vivos  recuperam  a  
+RD  natural  na  mesma  velocidade  que  
+os PV). 10 pontos/nível.

@@ -1,0 +1,100 @@
+ticipação.   Apenas   PdJs   que   escolhem   
+PdMs  como  aliados  pagam  pontos  pelo  
+privilégio. Dois PdJs podem ser “aliados” 
+mútuos  sem  gastar  nenhum  ponto  de  
+personagem, assim como dois PdMs — e 
+PdMs nunca pagam pontos para ter PdJs 
+como Aliados. Um Aliado consiste em um 
+assistente PdM habilidoso para um PdJ.
+Poder do Aliado
+Consulte a tabela abaixo para deter-
+minar  quantos  pontos  o  jogador  deve  
+gastar  com  o  Aliado  de  seu  persona
+-
+gem. “Total de Pontos” é total de pontos 
+do  Aliado  expresso  em  um  percentual  
+dos  pontos  iniciais  do  PdJ;  “Custo”  re
+-
+presenta o custo do Aliado. Se o total de 
+pontos  do  Aliado  cair  entre  duas  cate
+-
+gorias, use o percentual maior.
+Total de PontosCusto
+25%1 ponto
+50%2 pontos
+75%3 pontos
+100%5 pontos
+150%10 pontos
+Não   são   permitidos   Aliados   com   
+mais  de  150%  dos  pontos  iniciais  do  
+PdJ;  considere  esses  PdMs  como  Pa
+-
+tronos (pág. 75). Exceção: A progressão 
+acima  se  estende  indefinidamente  para  
+Aliados   não-sencientes   (IQ   0);   cada   
++50%  dos  pontos  iniciais  do  PdJ  custa  
++5 pontos de personagem.
+Aliados  criados  com  até  100%  dos  
+pontos  iniciais  do  PdJ  também  podem 
+ser  Dependentes  (pág.  130).  Some  os  
+custos  de  Aliado  e  Dependente  e  con
+-
+sidere  essa  combinação  como  uma  ca-
+racterística  única:  uma  vantagem  se  o  
+custo total for positivo ou uma desvan
+-
+tagem se for negativo.
+Grupos de Aliados
+Um  jogador  pode  comprar  quantos  
+Aliados seus pontos de personagem per
+-
+mitir. Normalmente, cada Aliado é uma 
+vantagem  independente,  mas  é  possí
+-
+vel  tratar  um  grupo  de  Aliados  relacio-
+nados  como  uma  característica  única  
+para economizar espaço na planilha de 
+personagem.  No  caso  de  um  grupo  de  
+indivíduos  com  suas  próprias  habilida
+-
+des e planilhas, some os custos de cada 
+Aliado para descobrir o valor do grupo, 
+ajuste o custo total de acordo com a fre
+-
+quência  de  participação  e,  em  seguida,  
+aplique os modificadores especiais.
+No  caso  de  um  grupo  com  mais  de  
+cinco  aliados  idênticos  e  intercambi
+-
+áveis  que  compartilham  uma  mesma  
+planilha  —  como  um  bando  de  valen
+-
+tões ou um enxame de abelhas mecâni-
+cas — calcule o custo em pontos de um 
+único  membro  do  grupo  e  multiplique  
+esse custo de acordo com a tabela abai
+-
+xo para chegar ao custo total do grupo.
+Tamanho do GrupoMultiplicador
+6–10×6
+11–20×8
+21–50×10
+51–100×12
+Adicione  ×6  ao  multiplicador  para  
+cada  aumento  de  dez  vezes  (ex.,  ×30  
+para  100.000  Aliados).  O  Mestre  pode  
+exigir   a   vantagem   Antecedentes   In
+-
+comuns  (pág.  39),  se  o  jogador  quiser  
+hordas de Aliados, ou até mesmo proi
+-
+bir grupos a partir de um determinado 
+tamanho   embora   ele   possa   permitir   
+um  exército  ou  outro  grupo  numeroso  
+como um Patrono. Os multiplicadores de 
+Frequência de Participação
+Mesmo que o jogador pague pontos de personagem para manter um rela-
+cionamento produtivo com um PdM ou receba pontos no caso de um relacio-
+namento problemático, é improvável que o PdM seja uma presença constante 
+nas aventuras. Cada aliado ou inimigo possui uma frequência de participação 
+e só aparecerá numa determinada aventura se o Mestre obtiver um resultado 

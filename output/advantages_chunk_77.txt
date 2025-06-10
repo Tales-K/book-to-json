@@ -1,0 +1,100 @@
+dos  modelos  animais  vale  0  
+ponto   ou   menos,   essa   for
+-
+ma  custa  15  pontos;  embora  
+criaturas mais poderosas (ex.: 
+ursos  e  tigres)  podem  ter  um  
+custo   maior.   Se   o   animal   
+escolhido   for   selvagem,   o   
+modelo  deve  incluir  caracte
+-
+rísticas   como   Bestial,   Fúria   
+e  Sanguinolência.  Por  último,  
+aplique  limitações  como  Ape
+-
+nas em Emergência (pág. 110), 
+Apenas     Inconsciente     (pág.     
+110) e Incontrolável (pág. 113) 
+à Forma Alternativa, da maneira 
+apropriada. Se o personagem só 
+for capaz de mudar de forma na 
+lua  cheia,  acrescente  também  a  
+limitação  Gatilho  (pág.  112)  de  
+-40%.
+Raças  Metamórficas:  Quando  esti-
+ver criando uma raça inteira que possui 
+Forma  Alternativa,  estabeleça  os  deta
+-
+lhes  da  vantagem  por  último.  Primeiro  
+some  o  custo  de  todas  as  características  
+da  raça,  exceto  Forma  Alternativa,  depois  
+subtraia esse valor do custo do modelo racial 
+no qual raça é capaz de se transformar e então use essa 
+diferença para calcular o custo da Forma 
+Alternativa. Acrescente esse valor ao custo 
+das outras habilidades da raça para deter
+-
+minar o custo racial final.
+Exemplo:  Os  anões  da  floresta  são  
+capazes de se transformar em ursos in
+-
+teligentes.  Excluindo  a  Forma  Alterna-
+tiva, as características raciais dos anões 
+da floresta totalizam 25 pontos. O mo
+-
+delo  urso  vale  125  pontos.  A  diferença  
+é  de  125  -  25  =  100  pontos.  Portanto,  
+o custo da Forma Alternativa é de 15 + 
+(90% × 100) = 105 pontos. Isso faz com 
+que  o  modelo  racial  anão  da  floresta  
+custe 25 + 105, ou seja, 130 pontos.
+
+vantagens
+72
+Limitações Especiais
+Cosmética: O personagem é capaz de 
+assumir uma segunda aparência distin
+-
+ta  sem  nenhuma  alteração  nas  habili-
+dades ou no modelo racial. -50%.
+Morfose
+Variável
+Essa habilidade é semelhante à For-
+ma  Alternativa,  mas  não  está  limitada  
+a  modelos  raciais  específicos.  O  perso
+-
+nagem  pode  assumir  qualquer  modelo  
+racial, respeitando alguns limites.
+Primeiro,  o  modelo  racial  deve  exis-
+tir  na  campanha.  O  Mestre  pode  criá-lo  
+por conta própria ou se basear em algum 
+outro  suplemento  de  GURPS,  mas  o  jo
+-
+gador não pode criar modelos totalmente 
+novos para uma Morfose (embora possa 
+ajustar modelos existentes; veja a seguir).
+Segundo, o personagem é capaz de se 
+transformar  apenas  em  um  ser  vivo  ou  
+em alguma criatura que já foi viva, como 
+um  vampiro.  Transformar-se  em  uma  
+máquina exige uma ampliação especial.
+Por  último,  o  valor  em  pontos  do  
+modelo  deve  estar  dentro  de  um  limi
+-
+te determinado pelo número de pontos 
+que o personagem tem em Morfose.
+Se  o  personagem  for  capaz  de  assu-
+mir qualquer modelo racial cujo valor em 
+pontos é menor que seu valor em pontos 
+original, a Morfose custa 100 pontos. Isso 
+coloca muitas  formas  à  disposição  do  
+personagem — qualquer tipo de criatura 
+que não for mais poderosa que sua forma 
+original. No caso de um ser humano, isso 
+significa  gatos,  insetos,  corujas  e  lobos.  
+Se  o  personagem  for  capaz  de  assumir  
+formas mais poderosas, some a diferença 
+entre o custo do modelo racial mais alto 
+e o custo do modelo original aos 100 pon
+-
+tos  básicos.  Exemplo:  um  ser  humano  

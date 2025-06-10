@@ -1,0 +1,100 @@
+ções secretas que, de outra forma, estariam 
+“fora do alcance” de alguém com a mesma 
+Hierarquia  ou  Status.  Exemplo:  um  gene
+-
+ral  “com  acesso”  a  segredos  militares  de  
+acordo com sua Hierarquia Militar não te
+-
+ria  que  comprar  Permissão  de  Segurança  
+separadamente,  mas  um  civil  com  o  mes
+-
+mo nível de acesso precisaria gastar alguns 
+pontos para ter esse privilégio.
+O custo em pontos da vantagem de-
+pende do nível de acesso:
+•    O  personagem  tem  acesso  a  uma  
+quantidade relativamente pequena de se
+-
+gredos necessários ao seu conhecimento. 
+Exemplo: um piloto de um bombardeiro 
+estratégico que sabe segredos sobre avia
+-
+ção, artilharia e alvos. 5 pontos.
+•    O  personagem  tem  livre  acesso  a  
+uma  quantidade  pequena  de  segredos  
+ou  acesso  limitado  a  uma  grande  quan
+-
+tidade de segredos necessários ao seu co-
+nhecimento. Exemplo: um oficial da con-
+traespionagem  que  tem  acesso  limitado  
+a muitos segredos, pois parte de seu tra
+-
+balho consiste em protegê-los. 10 pontos.
+•    O  personagem  tem  livre  acesso  a  
+uma   grande   quantidade   de   segredos.   
+Exemplo: um agente secreto cinematográ
+-
+fico que sabe quase todos os segredos exi-
+gidos pela trama da aventura. 15 pontos.
+Reduza   esses   valores   (arredonda-
+dos  para  cima)  pela  metade  se  a  orga-
+nização  que  concedeu  a  Permissão  de  
+Segurança tiver uma importância rela
+-
+tivamente  pequena  (ex.:  uma  pequena  
+corporação ou governo municipal).
+O  personagem  não  pode  comprar  
+esta vantagem sem uma verificação mi
+-
+nuciosa de seus antecedentes. O Mestre 
+tem  liberdade  para  não  conceder  esse  
+privilégio  a  qualquer  PdJ  que  tiver  um  
+passado   suspeito   (incluindo   caracte
+-
+rísticas  como  Dívidas  ou  Segredo)  ou  
+uma personalidade instável (como, por 
+exemplo, Paranoia ou Sadismo).
+Pernas Adicionais 3 1
+Variável
+Se  o  personagem  é  capaz  de  andar  
+com um determinado membro, mas não 
+consegue  utilizá-lo  para  manipular  ob
+-
+jetos,  este  membro  é  considerado  uma  
+perna para o sistema GURPS (se quiser 
+pernas  que  se  dobram  como  braços,  
+consulte  a  vantagem  Braços  Adicionais, 
+pág.  45).  Uma  perna  comum  pode  dar  
+chutes que causam dano por GdP/contu
+-
+são com seu alcance comum (um metro 
+para um ser humano). O padrão huma
+-
+no  é  duas  pernas,  que  custam  0  ponto.  
+Pernas adicionais apresentam um custo:
+Três ou quatro pernas: Se perder uma 
+perna, o personagem ainda consegue se 
+mover com metade do seu Deslocamen
+-
+to (arredondado para baixo). A perda de 
+uma segunda perna o faz cair. 5 pontos.
+Cinco ou seis pernas: Cada perna perdi-
+da reduz o Deslocamento em 20% até res-
+tarem  apenas  três  pernas.  Nesse  momen-
+to, o Deslocamento do personagem é 40% 
+do normal. A perda de outra perna provo
+-
+ca a queda do personagem. 10 pontos.
+Sete pernas ou mais: Cada perna perdi-
+da reduz o Deslocamento em 10% até res-
+tarem apenas três pernas. Nesse momen-
+to, o Deslocamento do personagem é 40% 
+do  normal.  A  perda  de  outra  perna  pro
+-
+voca a queda do personagem. 15 pontos.
+O jogador pode aplicar os modifica-
+dores  a  seguir  para  todas  as  pernas  de  
+um personagem:
+Ampliações Especiais
+Comprida: As pernas do personagem 
+são mais compridas em relação ao seu 

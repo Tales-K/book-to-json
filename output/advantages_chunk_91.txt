@@ -1,0 +1,100 @@
+o  personagem  também  morre!  Portan
+-
+to,  o  personagem  precisa  manter  seu  
+hospedeiro atual vivo... pelo menos até 
+conseguir achar um substituto.
+Para possuir um novo hospedeiro, o 
+personagem  precisa  se  concentrar  du
+-
+rante um segundo e tocá-lo fisicamente. 
+Tentativas de possuir seu próprio Títere 
+(pág. 94) são automaticamente bem-su
+-
+cedidas.  Em  todos  os  outros  casos,  é  
+preciso fazer uma Disputa Rápida: a IQ 
+do personagem vs. a Vontade do alvo. A 
+vítima  resiste  com  um  bônus  de  +5  se  
+estiver lutando contra o personagem ou 
+muito atento aos seus atos, portanto, é 
+melhor ser sutil.
+No caso de um empate ou se o per
+-
+sonagem  perder,  ele  fica  mentalmente  
+atordoado  durante  1d  segundos.  Além  
+disso, o personagem nunca mais pode
+-
+rá  tentar  possuir  o  mesmo  alvo  nova-
+mente, pois ele estará “imune”.
+No  caso  de  um  sucesso,  o  persona-
+gem assume o controle do corpo de sua 
+vítima e suprime completamente a per
+-
+sonalidade  dela.  O  hospedeiro  anterior 
+do  personagem  recupera  o  controle  de  
+seu próprio corpo (se ele for inteligente) 
+depois de 1d segundos de atordoamento 
+mental e não se lembrará da possessão.
+
+vantagens
+79
+2
+O   personagem   é   capaz   de   fazer   sua   
+consciência  se  deslocar  de  um  corpo  para  
+outro.  Em  teoria,  é  possível  viver  assim  
+eternamente...  Entretanto  ele  não  consegue  
+sobreviver fora de um hospedeiro vivo.
+O personagem passa a ter a ST, DX 
+e HT (e características secundárias cal
+-
+culadas a partir desses valores) do novo 
+hospedeiro,  assim  como  suas  vanta
+-
+gens e desvantagens físicas. O persona-
+gem mantém a própria IQ, Percepção e 
+Vontade e todas as características men
+-
+tais.  Algumas  características  mentais  
+também são mantidas, dependendo das 
+leis e valores da sociedade.
+As  perícias  são  um  caso  especial.  
+As  baseadas  em  IQ,  Percepção  e  Von
+-
+tade  permanecem  inalteradas.  Outras  
+mantêm  o  mesmo  nível  de  habilidade  
+relativo.  Exemplo:  se  tiver  Acrobacia  
+igual a DX+3, o personagem passa a ter 
+Acrobacia 12 em um corpo com DX 9 e 
+Acrobacia 14 em um corpo com DX 11.
+Se  ocupar  um  hospedeiro  sábio,  o  
+personagem  terá  acesso  suficiente  às  
+memórias  dele  nas  primeiras  horas  da  
+dominação  para  descobrir  o  nome  e  a  
+rotina  diária  do  indivíduo,  mas  não  o  
+suficiente para aprender as perícias ba
+-
+seadas em IQ. Para relembrar um fato 
+específico  da  memória  do  hospedeiro,  
+é  necessário  fazer  um  teste  de  IQ  com  
+uma  penalidade  de  -1  para  cada  hora  
+que tiver se passado desde a possessão. 
+Só  é  permitida  uma  única  tentativa  
+para cada lembrança específica!
+Se o personagem ocupar um hospe
+-
+deiro  durante  muito  tempo  ou  saltar  
+entre  vários  corpos,  o  Mes
+-
+tre  tem  toda  liberdade  para  
+ajustar  o  total  de  pontos  do  
+personagem  a  fim  de  refle
+-
+tir  o  corpo  mais  caro  que  
+está  sendo  ocupado  regu
+-
+larmente.  Para  maiores  
+informações  sobre  esse  
+assunto, consulte o Ca
+-
+pítulo 9.
+Aplicando  os  modi-
+ficadores    adequados,    a    

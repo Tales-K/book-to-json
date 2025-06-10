@@ -1,0 +1,100 @@
+co de tatu, um couro grosso ou escamas 
+como as de um lagarto têm RD 2; o cou
+-
+ro  do  rinoceronte  e  a  armadura  de  um  
+pangolim  têm  RD  3;  as  escamas  de  um  
+jacaré e o couro de um elefante têm RD 
+4;  uma  tartaruga  gigante  têm  RD  5.  Os  
+robôs,  supers,  entidades  sobrenaturais,  
+etc.,  podem  adquirir  qualquer  valor  de  
+RD, desde que o Mestre esteja de acordo.
+Existem  vários  modificadores  espe-
+ciais  disponíveis  para  alterar  as  carac-
+terísticas básicas dessa vantagem.
+Ampliações Especiais
+Absorção:  O  personagem  é  capaz  de  
+absorver  o  dano  e  utilizá-lo  para  am
+-
+pliar  suas  habilidades.  Cada  ponto  de  
+RD cancela um ponto de dano e o trans
+-
+forma  em  um  ponto  de  personagem,  
+que  pode  ser  utilizado  para  melhorar  
+temporariamente  algumas  característi
+-
+cas  (tudo,  exceto  perícias).  Esses  pon-
+tos são armazenados em uma “bateria” 
+com  capacidade  igual  à  RD  (ex.,  uma  
+RD  10  tem  uma  bateria  de  10  pontos).  
+Depois  que  essa  bateria  estiver  cheia,  
+cada ponto de RD continua cancelando 
+um  ponto  de  dano,  mas  não  o  conver
+-
+te  mais  em  um  ponto  de  personagem.  
+O  jogador  não  tem  que  usar  os  pontos  
+armazenados  imediatamente,  mas  não  
+pode  realocá-los  depois  que  eles  foram  
+utilizados.  Os  pontos  absorvidos  são  
+perdidos  à  razão  de  um  ponto  por  se
+-
+gundo — começando pelos não utiliza-
+dos.  O  personagem  também  perde  as  
+habilidades  ampliadas  à  medida  que  
+os  pontos  vão  se  perdendo.  (Exceção:  
+Se precisar de PV ou PF, o personagem 
+pode se curar com esses pontos. Restau
+-
+rar  um  PV  usa  2  pontos  armazenados;  
+restaurar um PF usa 3 pontos. Essa cura 
+é permanente. Apenas PV ou PF acima 
+do  máximo  são  drenados.)  O  persona
+-
+gem  não  consegue  absorver  dano  de  
+sua  própria  ST  ou  habilidades  de  ata
+-
+que.  +80%  se  os  pontos  absorvidos  só  
+puderem  ser  usados  para  ampliar  uma  
+característica (definida no momento da 
+criação do personagem) ou se servirem 
+só para cura; +100% se for possível me
+-
+lhorar qualquer característica.
+Campo  de  Força:  A  RD  do  persona-
+gem  assume  a  forma  de  um  campo  de  
+força  projetado  a  uma  curta  distância  
+de  seu  corpo.  Esse  efeito  protege  todo  
+o  corpo  do  personagem  —  inclusive  os  
+olhos — assim como qualquer coisa que 
+ele  estiver  carregando,  e  reduz  o  dano  
+causado  por  ataques  antes  da  RD  da  
+armadura. Os efeitos de ataques que de
+-
+pendem do toque (como várias mágicas) 
+só  afetam  o  personagem  se  forem  pro
+-
+vocados por um ataque que causa dano 
+suficiente para perfurar a RD. +20%.
+Enrijecido:  Cada  nível  de  Enrijecido  
+reduz o divisor de armadura de um ata
+-
+que  em  um  degrau.  Esses  degraus  são,  
+na seguinte ordem: “ignora RD”, 100, 10, 
+5, 3, 2 e 1 (sem divisor). +20% por nível.
+Reflexão: A RD do personagem “rico-
+cheteia” todo o dano que detém, lançan-
+do-o contra o atacante. O dano restante 
+afeta  o  personagem  normalmente.  O  
+atacante  não  tem  direito  a  uma  defesa  
+ativa  contra  o  primeiro  ataque  que  o  
+personagem  devolver  contra  ele,  mas  
+retoma  o  direito  de  usar  suas  defesas  
+normais  contra  os  ataques  subsequen
+-
+tes  que  forem  refletidos.  A  Reflexão  só  
+funciona  contra  ataques  diretos!  Ela  
+não  é  capaz  de  refletir  o  dano  causado  
+por explosões, fragmentos, gás veneno
+-
+so  ou  qualquer  outro  efeito  que  afeta  
+uma  área.  Esta  ampliação  e  Absorção  
+são mutuamente excludentes. +100%.

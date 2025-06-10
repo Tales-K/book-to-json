@@ -1,0 +1,100 @@
+tem  que  comprar  ST  50  para  ser  capaz  
+de suportar seu próprio peso. Se o perso
+-
+nagem tiver ST 15 e receber o bônus de 
++35 só quando estiver na altura máxima, 
+o  jogador  poderá  comprar  esse  bônus  
+com  uma  limitação  Tamanho  de  -40%.  
+Com MT +1, o personagem terá 3 metros 
+de  altura,  ou  seja,  30%  de  sua  altura  fi
+-
+nal,  logo,  +30%  dos  +35  de  ST,  ou  seja,  
++10, elevando sua ST para 25. Do mesmo 
+modo, com 5 metros de altura ele terá ST 
+32 e MT +2, com 7 metros, terá ST 39 e 
+MT +3 e com 10 metros, ST 50 e MT +4.
+Modificadores Especiais
+Somente  Tamanho  Máximo:  O  per-
+sonagem só pode assumir seu tamanho 
+normal ou o tamanho máximo. Em vez 
+de aumentar o MT em +1 por segundo, 
+o  personagem  cresce  até  atingir  o  MT  
+máximo  ou  volta  ao  normal  em  um 
+único segundo. A limitação de não po
+-
+der assumir MTs intermediários (o que 
+restringe o uso dessa habilidade em es
+-
+paços  fechados)  anula  a  ampliação  de  
+crescer rapidamente (um benefício útil 
+durante o combate). +0%.
+
+vantagens
+51
+2
+Cronolocalização
+V.   Noção Exata do  
+Tempo, pág. 74
+Cura 2 1
+30 pontos
+O   personagem   é   capaz   de   curar   
+outras  pessoas  —  ele  precisa  manter  
+contato físico com o alvo. Para ativar o 
+poder, ele precisa se concentrar por um 
+segundo e obter um sucesso num teste 
+de IQ. O teste sofre uma penalidade de 
+-2 se o alvo estiver inconsciente.
+O  personagem  pode  usar  Cura  de  
+duas maneiras:
+Curar  Doenças:  Isso  exige  um  teste  
+de IQ com um modificador determina
+-
+do pelo Mestre que pode variar de um 
+bônus  de  +1,  no  caso  de  um  resfriado  
+comum, até uma penalidade de -15 — 
+para  AIDS.  O  custo  em  
+PF  é  igual  ao  dobro  do  
+redutor  (mínimo  de  
+1  PF).  Exemplo:  se
+-
+riam necessários 6 PF 
+para curar uma doen
+-
+ça    que    exige    
+um  teste  de  
+IQ-3.
+Curar Ferimentos: No caso de um su-
+cesso,  o  personagem  é  capaz  de  curar  
+qualquer número de PV. Isso custa a ele 
+1 PF para cada 2 PV curados (arredon
+-
+dado para cima). Um fracasso custa 1d 
+PF, mas o personagem pode tentar nova
+-
+mente; uma falha crítica também causa 
+1d ponto de dano ao paciente. Uma re
+-
+cuperação de 1 único PV já interrompe 
+quaisquer sangramentos. Um teste com 
+uma penalidade de -6 é capaz de curar 
+um membro incapacitado — mas intei
+-
+ro — se conseguir recuperar todos os PV 
+perdidos no ferimento que causou a in
+-
+capacitação. Exemplo: para curar mãos 
+incapacitadas  por  4  pontos  de  dano,  é  
+preciso fazer um teste de IQ-6 e gastar 2 
+PF. Cada curandeiro tem direito a ape
+-
+nas  uma  tentativa  por  membro  ferido.  
+Cura  não  consegue  restaurar  membros  
+perdidos nem ressuscitar os mortos.
+Se  esta  vantagem  for  utilizada  mais  
+de  uma  vez  por  dia  em  um  mesmo  
+alvo,  aplique  uma  penalidade  cumulati
+-
+va  de  -3  para  cada  cura  bem-sucedida  
+do  mesmo  tipo  (ferimento  ou  doença)  
+num mesmo alvo. Essas penalidades são 
+cumulativas  até  que  um  dia  inteiro  te

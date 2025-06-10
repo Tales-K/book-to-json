@@ -1,0 +1,100 @@
+uma área em torno dele. O primeiro nível 
+de Efeito de Área dá ao personagem um 
+raio  de  1  metro.  Os  níveis  seguintes  do
+-
+bram esse raio, como de costume; consul-
+te Efeito de Área (pág. 105). +50%/nível.
+Abascanto  
+(Resistência à Magia) 2 5
+2 pontos/nível
+O  personagem  tem  mais  chance  de  
+não  ser  afetado  pela  magia.  O  nível  de  
+Resistência à Magia dele é subtraído do 
+nível  de  habilidade  de  qualquer  outro  
+personagem que faça uma mágica nele. 
+Por  exemplo,  se  um  personagem  tem  
+Resistência  à  Magia  3,  qualquer  mago  
+sofre uma penalidade de -3 em suas má
+-
+gicas contra ele, enquanto ele recebe um 
+bônus de +3 para resisti-las. Além disso, 
+o personagem pode fazer um teste de HT 
++  Resistência  à  Magia  para  resistir  aos  
+efeitos de elixires mágicos. Não é possí
+-
+vel  “desligar”  esta  vantagem  para  rece-
+ber acesso a mágicas benéficas (a fim de 
+curá-lo, por exemplo) ou beber elixires!
+O Abascanto só interfere com mágicas 
+lançadas diretamente sobre o personagem. 
+
+vantagens
+35
+2
+Ela  não  o  defende  de  mágicas  de  projé-
+teis (que são feitas na mão do feiticeiro e 
+arremessadas  contra  o  personagem),  de  
+ataques  com  armas  mágicas  e  de  mági
+-
+cas de adivinhação lançadas diretamente 
+contra ele. Resistência à Magia também 
+não  tem  nenhum  efeito  sobre  poderes  
+sobrenaturais  que  não  são  mágicos;  ex.,  
+milagres  divinos,  poderes  psíquicos  ou  
+os poderes inatos de espíritos.
+O  Abascanto,  assim  como  seu  nível  
+preciso, pode ser reconhecido por qual
+-
+quer mago que olhe para a aura do per-
+sonagem  ou  por  qualquer  pessoa  que  
+faça uma mágica sobre ele.
+Esta  vantagem  não  pode  ser  combi
+-
+nada com Aptidão Mágica. Na verdade, 
+um personagem com Resistência à Ma
+-
+gia não é capaz de fazer nenhuma má-
+gica  (embora  ainda  seja  capaz  de  usar  
+armas mágicas).
+Ampliações Especiais
+Ampliada:  Sua  Resistência  à  Magia  
+não interfere com a habilidade de ope
+-
+rar mágicas do personagem. Isso permi-
+te  que  ele  tenha  tanto  Aptidão  Mágica  
+quanto Resistência à Magia. +150%.
+Abençoado 2 5
+10 pontos ou mais
+O personagem está sintonizado com 
+um deus, senhor demoníaco, grande es
+-
+pírito, poder cósmico, etc. Essa benção 
+pode  assumir  diversas  formas,  mas  em  
+todos os casos, o personagem perderá a 
+vantagem se não conseguir agir de acor
+-
+do com as regras e valores da entidade.
+Abençoado: De vez em quando, o per-
+sonagem  recebe  sabedoria  da  entidade.  
+Após comungar (por meio de meditação, 
+oração,  etc.)  por  pelo  menos  uma  hora,  
+o  personagem  recebe  visões  ou  pressá
+-
+gios  sobre  eventos  futuros.  Estabeleça  
+os  detalhes  em  conjunto  com  o  Mestre;  
+ex.,  o  Deus  do  Fogo  pode  exigir  que  o  
+personagem   fique   olhando   fixamente   
+para  chamas  durante  uma  hora,  para  
+depois  enviar  suas  revelações.  O  Mestre  
+faz secretamente um teste contra a IQ do 
+personagem para ver se ele recebe algu
+-
+ma informação útil. Entretanto, o ritual 
+é  extenuante;  no  final  dessa  uma  hora,  
+o  personagem  perde  10  PF.  Como  um  
+benefício  secundário,  os  seguidores  da  
+entidade  percebem  o  status  especial  do  
+personagem, que recebe um bônus de re
+-
+ação de +1 na presença deles. 10 pontos.
+Muito Abençoado: Funciona da mes-

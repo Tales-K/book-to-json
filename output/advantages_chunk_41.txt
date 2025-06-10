@@ -1,0 +1,100 @@
+de -1 para cada aumento de 10× da dis
+-
+tância.
+Tempo  de  Preparo:  O  tempo  neces
+-
+sário  para  preparar  o  teleporte  afeta  o  
+teste de IQ, da seguinte maneira:
+Tempo de  
+Preparo
+Modificador  
+de IQ
+Nenhum-10
+1 segundo-5
+2 segundos-4
+4 segundos-3
+8 segundos-2
+15 segundos-1
+30 segundos0
+1 minuto+1
+2 minutos+2
+4 minutos+3
+8 minutos+4
+15 minutos+5
+30 minutos+6
+1 hora+7
+2 horas+8
+4 horas+9
+8 horas+10
+Esta  tabela  não  tem  continuação;  
++10 é o maior bônus possível.
+Remoção: Se tiver uma visão “de se
+-
+gunda  mão”  do  destino,  o  personagem  
+sofre  uma  penalidade  de  -2  para  cada  
+nível  de  remoção.  Por  exemplo,  vê-lo  
+pela  televisão  ou  pelos  olhos  de  outra  
+pessoa impõe uma penalidade de -2, en
+-
+quanto que visualizá-lo em um televisor 
+refletido nos olhos de outra pessoa im
+-
+põe uma penalidade de -4. Há uma pe-
+nalidade adicional de -2 durante o tele-
+porte para um local que o personagem 
+já visitou, mas não consegue ver.
+Pontos de Fadiga: Aplique um bônus 
+de  +1  para  cada  PF  gasto.  O  persona
+-
+gem deve declarar isso antes de fazer o 
+teste  e  perderá  os  PF  independente  do  
+resultado. O personagem não é obriga
+-
+do a gastar PF, mas em geral essa é uma 
+boa ideia se ele tiver que viajar para um 
+local distante ou não tiver muito tempo 
+para se preparar.
+No  caso  de  um  sucesso,  o  persona
+-
+gem  aparece  no  local  de  destino.  Se  
+fracassar,  ele  não  vai  a  lugar  nenhum  
+e  o  poder  fica  enfraquecido:  penalida
+-
+de  de  -5  para  usá-lo  novamente  nos  
+próximos 10 minutos. No caso de uma 
+falha crítica, ele é levado a um destino 
+errado, que pode ser qualquer lugar de
+-
+finido pelo Mestre! O local não precisa 
+ser perigoso, mas deve representar um 
+inconveniente. Além disso, o poder fica 
+temporariamente “esgotado” e não fun
+-
+ciona durante 1d horas.
+O personagem pode usar Dobra para 
+fugir  de  ataques  durante  um  combate.  
+Uma vez por turno, ele pode realizar um 
+teleporte para qualquer local que possa 
+ver  instantaneamente  a  uma  distância  
+de  até  10  metros.  Isso  é  considerado  
+uma esquiva. Contudo, o teste de IQ so
+-
+fre uma penalidade de -10 por causa do 
+uso  instantâneo,  portanto,  o  persona
+-
+gem talvez queira gastar alguns pontos 
+de fadiga para aumentar suas chances!
+Esta habilidade pode ser melhorada 
+com a prática, gastando-se pontos para 
+aplicar  ampliações  ou  remover  limita
+-
+ções. O jogador não pode aplicar Custo 
+em Pontos de Fadiga Reduzido ou Tem
+-
+po Reduzido (pág. 109) nesta vantagem; 
+em vez disso, ele deve comprar Confiá
+-
+vel (adiante). Com o bônus proveniente 
+dessa  ampliação  o  personagem  conse
+-
+gue  se  teleportar  com  precisão  em  me-

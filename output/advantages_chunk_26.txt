@@ -1,0 +1,100 @@
++1  em  Adivinhação,  Liderança,  Mendi
+-
+cância e Oratória. O Mestre pode definir 
+que o Carisma do personagem não afeta 
+os membros de raças muito diferentes.
+Cibernética 3
+Variável
+Considere a maioria dos implantes ci-
+bernéticos como vantagens equivalentes: 
+Infravisão para olhos biônicos, Resistên
+-
+cia a Dano para blindagem cutânea, etc. 
+Alguns  implantes  talvez  se  qualifiquem  
+para  a  limitação  Desvantagem  Tempo
+-
+rária  (pág.  111);  entre  as  desvantagens  
+temporárias  adequadas  incluem-se  Elé
+-
+trico (pág. 137) e Manutenção (pág. 149) 
+—  elas  se  aplicam  ao  implante  e  não  às  
+capacidades gerais do personagem.
+Clarissenciência 2 5
+50 pontos
+O  personagem  é  capaz  de  deslocar  
+seus  sentidos  que  funcionam  à  distân
+-
+cia (no caso de seres humanos: a visão, 
+audição e o olfato) para um ponto fora 
+do seu corpo. Esse “ponto de vista” tem 
+que estar num local específico a, no má
+-
+ximo, 10 metros de distância. Essa dis-
+tância pode ser modificada com Alcance 
+Ampliado  (pág.  102)  ou  Alcance  Redu
+-
+zido (pág. 110). O personagem também 
+pode dobrar temporariamente essa dis
+-
+tância gastando 2 PF por minuto.
+Para  utilizar  a  Clarissenciência,  o  
+personagem deve escolher um ponto de 
+vista (que pode estar dentro de alguma 
+coisa) e uma direção, concentra-se du
+-
+rante  um  minuto  e,  em  seguida,  fazer  
+um teste de IQ. Se o ponto de vista es
+-
+tiver fora da linha de visão do persona-
+gem, ele ainda assim precisará especifi-
+car uma distância e direção, mas fará o 
+teste com uma penalidade de -5.
+No  caso  de  um  sucesso,  o  persona-
+gem será capaz de usar seus sentidos que 
+funcionam à distância como se estivesse 
+fisicamente  presente  no  ponto  de  vista  
+(isso  também  significa  que  ele  não  con
+-
+seguirá sentir o ambiente ao redor do seu 
+corpo!).  A  visão  ignora  completamente  
+quaisquer  penalidades  provenientes  da  
+escuridão.  Não  é  possível  ver  através  de  
+objetos sólidos, porém, se o ponto de vis
+-
+ta  estiver  dentro  (por  exemplo)  de  uma  
+urna  fechada,  o  personagem  enxergará  
+seu conteúdo apesar da falta de luz. Se o 
+personagem estiver utilizando, ou sujeito 
+a, habilidades que dependem da distância 
+(por exemplo, mágicas), calcule todas as 
+distâncias a partir do corpo dele, não do 
+ponto  de  vista.  A  Clarissenciência  pode  
+ser mantida por tempo indeterminado.
+Se o personagem fracassar por uma 
+margem  de  1,  os  sentidos  do  persona
+-
+gem  se  deslocam  para  outro  ponto  de  
+vista, escolhido pelo Mestre. Se fracas
+-
+sar por uma margem maior, nada acon-
+tece. Uma falha crítica deixa a habilida-
+de desligada por 1d hora.
+Para trazer de volta os sentidos deslo-
+cados, direcioná-los para outro ponto de 
+vista, ou mudar a direção (em geral, im
+-
+portante apenas para a visão), o persona-
+gem precisa se concentrar por um segun-
+do e fazer outro teste de IQ. Contudo, um 
+ponto de vista estabelecido dentro de um 
+objeto em movimento (por exemplo, um 
+carro)  se  locomove  naturalmente  junto  
+com  o  objeto  em  questão,  sem  qualquer  
+necessidade de concentração especial. Só 
+é possível projetar um ponto de vista por 
+vez — não é possível direcionar a audição 
+para um local, a visão para outro, etc.
+Limitações Especiais
+Clariaudiência: Somente a audição é 
+deslocada. -30%.
+Clariosmia:  Somente  o  olfato  é  des

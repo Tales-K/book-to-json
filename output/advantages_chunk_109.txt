@@ -1,0 +1,100 @@
+ção do personagem está limitada a um 
+arco de 120° à sua frente.
+Esse  sentido  é  “ativo”.  Qualquer  in
+-
+divíduo capaz de perceber o sinal emi-
+tido  pelo  personagem  consegue  detec-
+tá-lo a uma distância de até duas vezes 
+o  alcance.  No  entanto,  ao  contrário  de  
+outras vantagens sensoriais, o persona
+-
+gem é capaz de desativar essa habilida-
+de; v. Ativando e Desativando Vantagens 
+(pág. 34).
+Veremos a seguir, diversas variações 
+do  Sentido  de  Monitoramento.  Cada  
+uma  delas  representa  uma  vantagem  
+independente  com  suas  próprias  regras  
+especiais. Sempre que essas regras con
+-
+trariarem  as  regras  gerais  fornecidas  
+anteriormente,  siga  as  regras  específi
+-
+cas. Cada sentido tem também uma dis-
+tância  de  alcance  básico.  Para  ajustar  
+isso,  o  jogador  pode  comprar  Alcance  
+Ampliado (pág. 102) ou Alcance Redu
+-
+zido (pág. 110).
+Radar: O Sentido de Monitoramento 
+do  personagem  utiliza  ondas  de  rádio.  
+O alcance básico é de 2.000 metros. Ele 
+é  capaz  de  detectar  somente  objetos  
+grandes (do tamanho de um ser huma
+-
+no ou maior) e densos. Com um sucesso 
+num  teste  de  Sentidos,  o  personagem  
+tem uma ideia geral do tamanho relati
+-
+vo do objeto e se ele está em movimento 
+ou  não  —  nada  mais  preciso  que  isso.  
+Não  é  possível  obter  uma  “imagem”  
+real  com  Radar  nem  utilizar  esta  van
+-
+tagem  para  fazer  pontaria  durante  um  
+ataque. Radar funciona melhor com al
+-
+vos aéreos; faça um teste com uma pe-
+nalidade de -4 para visualizar alvos cuja 
+silhueta não apareça contra o céu. Esta 
+vantagem não funciona debaixo d’água. 
+20 pontos.
+Radar de Imagens: O Sentido de Mo
+-
+nitoramento do personagem utiliza um 
+radar de ondas milimétricas. O alcance 
+básico é de 200 metros. O personagem 
+é capaz de identificar objetos pequenos 
+e determinar seu formato, mas precisa 
+de  um  sucesso  num  teste  de  Sentidos  
+para  distinguir  contornos  detalhados  
+(identificar  um  rosto,  por  exemplo).  O  
+Radar de Imagens é capaz de ver atra
+-
+vés de tecidos finos e da vegetação rala. 
+O  personagem  recebe  um  bônus  de  
++3  nas  tentativas  de  localizar  objetos  
+escondidos,  como  armas,  e  ignora  as  
+penalidades  para  visualizar  objetos  es
+-
+condidos em meio à vegetação rala. Os 
+detectores de radar comuns detectam o 
+Radar de Imagens com uma penalidade 
+de -4. Esta vantagem não funciona de
+-
+baixo d’água. 20 pontos.
+Radar a Laser: O Sentido de Monito
+-
+ramento do personagem utiliza um raio 
+laser. O alcance básico é de 200 metros. 
+Esta  vantagem  é  muito  semelhante  a  
+Radar  de  Imagens,  mas  o  feixe  é  mais  
+estreito  e  têm  uma  resolução  melhor  
+—  o  que  significa  uma  penalidade  de  
+-4 nos testes para localizar objetos, mas 
+um bônus de +4 para identificá-los. Ape
+-
+nas os detectores especiais são capazes 
+de identificar o Radar a Laser e mesmo 
+assim  eles  sofrem  uma  penalidade  de  
+-4. O Radar a Laser não consegue atra
+-
+vessar  fumaça  densa  nem  objetos  sóli-
+dos. O alcance também varia entre 10% 
+a 50% em meio à chuva e neve e é de 1% 
+sob a água. 20 pontos.
+Para-Radar:  O  Sentido  de  Monitora-
+mento do personagem utiliza uma ener-
+gia desconhecida pela ciência do século 
+XXI.  Trate  Para-Radar  como  Radar  de  
+Imagens,  com  a  diferença  que  ele  fun

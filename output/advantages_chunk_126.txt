@@ -1,0 +1,100 @@
+essa  energia  esteja  presente,  o  perso
+-
+nagem  será  capaz  de  distinguir  mais  
+cores  do  que  as  possíveis  com  a  visão  
+comum.  Isso  o  auxilia  a  discernir  con
+-
+tornos; observar restos de poeira, tinta 
+etc., e identificar minerais e plantas. O 
+personagem recebe um bônus de +2 em 
+todos os testes de Visão realizados sob 
+luz  UV,  assim  como  nos  testes  relacio
+-
+nados  a  Busca,  Observação  e  Perícia  
+Forense para encontrar pistas ou obje
+-
+tos escondidos.
+Durante a noite, uma pequena quan
+-
+tidade  de  raios  UV  atinge  o  solo,  pro-
+veniente das estrelas. Isso não permite 
+que o personagem enxergue no escuro, 
+mas  o  permite  ignorar  até  -2  em  pe
+-
+nalidades   por   escuridão   (cumulativo   
+com  Visão  Noturna).  Os  raios  UV  vão  
+muito  mais  além  sob  a  água  do  que  a  
+luz  visível.  Isso  permite  reduzir  pela  
+metade  todas  as  penalidades  de  visão  
+sob a água (mas, em escuridão total, o 
+personagem  enxergará  tão  mal  quanto  
+qualquer outra pessoa).
+O  custo  da  vantagem  depende  das  
+habilidades concedidas ao personagem:
+O  personagem  só  é  capaz  de  enxer
+-
+gar  raios  UV  e  fica  cego  em  ambientes  
+fechados, em subterrâneos ou em qual
+-
+quer outro lugar onde não haja incidên-
+cia  desse  tipo  de  iluminação,  até  mes-
+mo  se  houverem  fontes  de  luz  comum  
+presentes: 0 ponto.
+O  personagem  é  capaz  de  enxer-
+gar  tanto  a  luz  visível  quanto  a  UV:  
+10 pontos.
+Venturoso 2
+15 pontos
+O destino parece sorrir para o perso-
+nagem quando ele está em perigo! Toda 
+vez que assume um risco desnecessário 
+(na  opinião  do  Mestre),  o  personagem  
+recebe  um  bônus  de  +1  nos  testes  de  
+habilidade. Além disso, se obtiver uma 
+falha crítica num rompante de alto ris
+-
+co, o jogador pode fazer um novo teste.
+Exemplo:   Uma   gangue   de   rufiões   
+começa  a  atirar  no  personagem  com  
+armas  automáticas.  Se  ele  se  esconder  
+atrás  de  um  muro  e  revidar,  não  rece
+-
+berá nenhum bônus da vantagem Ven-
+turoso. Contudo, se ele pular o muro e 
+correr  em  direção  aos  bandidos,  ata
+-
+cando os atiradores aos berros, recebe-
+rá todos os benefícios!
+Ver o Invisível 3 1
+15 pontos
+O personagem é capaz de ver objetos 
+ou indivíduos que são normalmente invi
+-
+síveis.  Compre  esta  vantagem  separada-
+mente para cada tipo de invisibilidade.
+Versátil 2
+5 pontos
+O   personagem   é   extremamente   
+criativo.  Ele  recebe  um  bônus  de  +1  
+em  qualquer  tarefa  que  exija  criati
+-
+vidade   ou   inventividade,   incluindo   
+a  maioria  dos  testes  com  a  perícia  
+Artista, os testes de Engenharia para 
+novas  invenções  e  todos  os  testes  de  
+habilidade  feitos  para  utilizar  a  van
+-
+tagem Desenvolvedor.
+Vida Extra 2 1
+25 pontos/vida
+O  personagem  é  capaz  de  voltar  
+dos  mortos!  Seus  inimigos  podem  
+estar  certos  de  que  o  mataram,  mas  
+ele não morreu de verdade. Defina os 
+detalhes  em  conjunto  com  o  Mestre.  
+Toda vez que volta dos mortos, o per
+-
+sonagem gasta uma Vida Extra — re-
+mova-a  da  planilha  de  personagem  
+e  reduza  em  25  o  total  de  pontos  do  
+personagem.  O  Mestre  pode  decidir  

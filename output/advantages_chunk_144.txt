@@ -1,0 +1,100 @@
+utiliza o valor básico de +50%.
+Um  ataque  Guiado  ou  Teleguiado  
+com uma indicação de 1/2D deve ser 
+compreendida como a velocidade do 
+ataque em metros/segundo. O ataque 
+pode  acertar  um  alvo  situado  a  até  
+1/2D  de  sua  distância  no  turno  em  
+que  é  lançado.  São  necessários  tur
+-
+nos  adicionais  para  alcançar  alvos  
+mais  distantes.  Não  reduza  o  dano  
+pela  metade,  mas  adie  a  jogada  de  
+ataque até ele atingir o alvo.
+Para  maiores  informações,  con-
+sulte Armas  Guiadas  e  Teleguiadas 
+(pág. 412).
+Imprecação 6
+Variável
+O ataque do personagem não é um 
+ataque  à  distância  convencional;  ele  
+funciona  mais  como  uma  mágica  Co
+-
+mum  (pág.  239).  Ele  não  tem  os  pa-
+râmetros  Mau  Funcionamento,  1/2D,  
+Max,  Prec,  CdT,  Tiros  e  Recuo  e  não  
+pode  ter  nenhuma  ampliação  ou  li
+-
+mitação  que  modifique  esses  valores.  
+Ainda  mais  importante:  a  RD  do  alvo  
+não  tem  nenhum  efeito  sobre  o  dano,  
+teste  de  resistência  ou  outros  efeitos  
+do ataque!
+A  Imprecação  exige  uma  manobra  
+Concentrar,  em  vez  de  Atacar,  para  ser  
+utilizada.  Ela  pode  visar  qualquer  víti
+-
+ma que se encontre no campo de visão 
+do personagem ou que possa ser perce
+-
+bida  com  clareza.  Para  determinar  se  
+o  ataque  atingiu  o  alvo,  o  personagem  
+deve fazer um teste contra sua Vontade, 
+aplicando  as  penalidades  de  distância  
+detalhadas  a  seguir.  O  inimigo  pode  
+fugir;  nesse  caso,  transforme  o  ataque  
+numa Disputa Rápida de Vontade — o 
+personagem  precisa  vencer  para  afetar  
+a vítima.
+Quando   estiver   ampliando   uma   
+Atribulação, a Disputa Rápida descri
+-
+ta acima substitui o teste de resistên-
+cia  usual.  O  personagem  faz  o  teste  
+contra sua Vontade, enquanto o alvo 
+usa a HT — ou um atributo diferente 
+se  o  ataque  tiver  Baseado  Em  (Atri
+-
+buto  Diferente)  —  modificada  como  
+sempre de acordo com a Atribulação. 
+Por  exemplo,  uma  Atribulação  que  
+permite um teste de HT-1 para resis
+-
+tir ao ataque resulta em uma Disputa 
+Rápida  entre  a  Vontade  do  persona
+-
+gem e a HT-1 do alvo.
+
+vantagens
+107
+2
+O valor da Imprecação depende dos 
+modificadores de distância utilizados. 
+Se quiser adotar uma penalidade de -1 
+para cada metro da distância — como 
+acontece com as mágicas Comuns — a 
+ampliação custa +100%. Se adotar as pena-
+lidades de distância da Tabela de Tamanho 
+e Velocidade/Distância (pág. 550), ela custa 
++150%. Se adotar as penalidades des-
+critas no quadro Modificadores de Longa 
+Distância (pág. 241), ela custa +200%.
+A Imprecação é um “modificador de 
+penetração”; ela não pode ser combinada 
+com outros modificadores do mesmo tipo, 
+nem com modificadores que se aplicam ape-
+nas aos ataques à distância convencionais.
+Interligação
++10% ou +20%
+O  personagem  é  capaz  de  utilizar  
+duas ou mais vantagens ao mesmo tem
+-
+po, como se fossem uma só. Por +10%, 
+suas    habilidades    ficam    interligadas    
+permanentemente,  resultando  em  um  
+único poder, e devem ser utilizadas em 
+conjunto  —  ele  não  é  capaz  de  usá-las  
+separadamente.   Por   +20%,   também   
+será  possível  usá-las  separadamente.  É  
+preciso  adicionar  esta  ampliação  a  to
+-

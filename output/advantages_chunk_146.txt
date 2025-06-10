@@ -1,0 +1,100 @@
+Mobilidade   é   mutuamente   exclu
+-
+dente com Flutuação (pág. 105).
+Modificadores de Dano 6
+Variável
+O  personagem  pode  aplicar  um  ou  
+mais dos modificadores que veremos a 
+seguir a um Ataque Inato para diferen
+-
+ciar ainda mais o dano causado.
+Explosão (exp)
++50%/nível
+O  ataque  produz  uma  explosão  no  
+ponto  de  impacto  (se  o  alvo  não  tiver  
+sido  atingido,  verifique  a  dispersão;  v.  
+pág.  414).  O  alvo  sofre  dano  normal
+-
+mente;  qualquer  item  que  se  encontre  
+por  perto  sofre  “dano  colateral”  equi
+-
+valente  ao  dano  básico  dividido  por  3  
+× a distância em metros a partir da ex
+-
+plosão.  Se  o  ataque  também  tiver  um  
+Divisor de Armadura (pág. 105), ele não 
+se aplica ao dano colateral.
+É  possível  adquirir  até  dois  níveis  
+adicionais  de  Explosão  para  obter  um  
+efeito que não é tão afetado pela distân
+-
+cia. O segundo nível divide o dano bási-
+co por 2 × a distância em metros a partir 
+da explosão e custa +100%; o terceiro ní
+-
+vel divide o dano pela distância em me-
+tros a partir da explosão e custa +150%.
+A Explosão geralmente está limitada 
+a  ataques  por  contusão  ou  queimadu
+-
+ra,  mas  o  Mestre  pode  permitir  outras  
+combinações.
+Para   maiores   informações   sobre   
+esta   ampliação,   consulte   Explosões 
+(pág. 414).
+Fragmentação (frag)
++15% por dado
+Este ataque espalha fragmentos que 
+causam dano no momento do impacto. 
+Decida a quantidade de dados de dano 
+de fragmentação e anote-a entre parên
+-
+teses após o dano básico do ataque. To-
+das as pessoas que estiverem dentro de 
+um raio de 5 metros por dado de dano 
+de   fragmentação   sofrem   um   ataque   
+com  um  NH  efetivo  de  15,  modificado  
+pela  penalidade  de  distância  a  partir  
+do ponto de impacto; consulte Dano de 
+Fragmentação (pág. 414).
+Os  fragmentos  causam  dano  por  
+corte. Se você acrescentar Fragmenta
+-
+ção a um ataque por queimadura ou a 
+um ataque com a ampliação Incendiá
+-
+rio (a seguir), os fragmentos serão in-
+cendiários  sem  nenhum  custo  adicio-
+nal. Se você aplicar essa característica 
+a  um  ataque  com  Acompanhamento  
+(pág.  102),  a  penetração  indica  que  
+os   fragmentos   atingem   automatica
+-
+mente  o  alvo  inicial,  e  ninguém  mais.  
+Fragmentação  costuma  acompanhar  
+Explosão (acima), mas isso não é obri
+-
+gatório.
+Esta   ampliação   custa   +15%   por   
+dado  de  dano  de  fragmentação.  Um  
+dano equivalente a [2d] ou [3d] é típico 
+de uma explosão causada por uma gra
+-
+nada. O dano máximo de fragmentação 
+é de [12d] ou o dano básico do ataque, 
+o que for menor.
+Fragmentos Quentes: Os fragmentos 
+causam  dano  por  queimadura  com  os  
+modificadores Cíclico (seis ciclos de 10 
+segundos) e Divisor de Armadura (0,2), 
+em vez de dano por corte. O custo per
+-
+manece inalterado.
+Incendiário (inc)
++10%
+Um  Ataque  Inato  que  não  causa  
+dano  por  queimadura  pode  ser  Incen
+-
+diário. Isso concede ao dano um efeito 
+inflamável  secundário  que  pode  atear  
+fogo em materiais voláteis (combustível 

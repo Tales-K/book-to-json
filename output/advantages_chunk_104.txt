@@ -1,0 +1,100 @@
+Raro:  Um  objeto  ou  síndrome  am
+-
+biental  específicos  ou  um  subconjunto  
+de  “Ocasional”.  Exemplos:  Aceleração  
+(desmaios   causados   por   forças   gra
+-
+vitacionais    extremamente    elevadas),    
+Doença  da  Altitude,  Doença  de  Des
+-
+compressão,  Enjoo  Marítimo,  Enjoo;  
+Nanomáquinas. 5 pontos.
+Multiplique o custo básico de modo 
+a  refletir  o  grau  da  resistência  do  per
+-
+sonagem:
+O personagem é totalmente imune a 
+todos os efeitos nocivos e nunca preci
+-
+sa fazer testes de resistência (anote isso 
+como  “Imunidade”  na  planilha  de  per
+-
+sonagem): ×1.
+O  personagem  recebe  um  bônus  de  
++8 nos testes de HT: ×1/2.
+O  personagem  recebe  um  bônus  de  
++3 nos testes de HT: ×1/3.
+Elimine todas as frações do custo final.
+Um ser humano comum pode ter qual-
+quer nível de resistência a um objeto mun-
+dano  “Raro”,  como  Enjoo  Marítimo.  Ele  
+poderia também ter Resistente a Doenças 
+(+3)  [3]  Resistente  a  Doenças  (+8)  [5]  ou  
+Resistente  a  Venenos  (+3)  [5].  Qualquer  
+coisa  além  disso  é  considerada  sobre-hu
+-
+mana.  Golens,  robôs,  mortos-vivos  e  ou-
+tros seres que não estão realmente “vivos” 
+precisam  adquirir  Imunidade  a  Danos  ao  
+Metabolismo [30]; isso já está incluído na 
+metacaracterística   Máquina   (pág.   262).   
+Em casos de dúvida, o Mestre tem sempre 
+a palavra final.
+Resistência Mental: É possível ter re-
+sistência contra uma ameaça totalmen-
+te  mental.  Isso  funciona  exatamente  
+como descrito anteriormente, porém, o 
+bônus se aplica aos testes de resistência 
+contra a IQ e a Vontade, em vez de HT. 
+“Psiquismo” é uma categoria permitida 
+e considerada Muito Comum.
+Restaurar Membros 3 1
+40 pontos
+O  personagem  é  capaz  de  regenerar  
+membros e órgãos perdidos! Uma orelha, 
+dedo  da  mão  ou  do  pé,  garra,  ponta  de  
+tentáculo,  etc.,  decepados,  se  regeneram  
+em 1d semanas; mãos ou pés perdidos, em 
+1d+1 meses; um olho, braço ou perna, em 
+2d+2 meses. Se o personagem também ti
+-
+ver Regeneração (acima), Restaurar Mem-
+bros agirá com muito mais rapidez: todas 
+as partes perdidas do corpo serão regene
+-
+radas no mesmo período de tempo neces-
+sário para recuperar todos os PV perdidos.
+Limitações Especiais
+Superficial: O personagem só é capaz 
+de regenerar orelhas, dedos das mãos e 
+dos pés e outras partes pequenas — não 
+mãos, pés, olhos, etc. -50%.
+Retenção 3 1
+2 pontos/nível
+O personagem tem um ataque capaz 
+de manter o alvo preso no lugar. O joga
+-
+dor deve descrever os efeitos do ataque 
+quando comprar a vantagem. O perso
+-
+nagem  pode  enroscar  sua  vítima  com  
+vinhas, prendê-la com teias, congelá-la 
+num  bloco  de  gelo,  transformar  o  solo  
+em areia movediça, etc.
+Retenção  é  um  ataque  à  distância  
+com  1/2D  
+–,  Max  100,  Prec  3,  CdT  1,  
+Tiros N/A e Recuo 1. É possível aplicar 
+modificadores  para  alterar  esses  valo
+-
+res (v. págs. 101–116).
+Se  o  ataque  obtiver  sucesso,  a  vítima  
+fica agarrada (v. pág. 370) e presa no lu
+-
+gar.  Ela  não  pode  utilizar  as  manobras  
+Deslocamento   e   Mudança   de   Posição   
+nem  mudar  de  direção  e  sua  DX  sofre  
+uma  penalidade  de  -4.  A  ST  desse  efeito  
+é igual ao nível de Retenção do agressor, 
+mas ataques adicionais podem se acumu
+-

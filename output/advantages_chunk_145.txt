@@ -1,0 +1,100 @@
+das as habilidades que desejar interligar.
+Se transformar dois ataques em um 
+e  atribuir  Mau  Funcionamento,  1/2D,  
+Max,  Prec,  CdT,  Tiros  e  Recuo  idênti
+-
+cos  a  eles,  então  eles  podem  ser  con-
+siderados como um ataque único com 
+apenas uma jogada de ataque, embora 
+exijam  testes  separados  de  avaliação  
+de dano. Isso não é a mesma coisa que 
+a  ampliação  Acompanhamento  (pág.  
+102)!
+Jato 6
++0%
+O ataque é um jato contínuo, como 
+um lança-chamas. Trate-o como uma 
+arma branca com uma distância mui
+-
+to  elevada,  em  vez  de  uma  arma  de  
+combate à distância. Não aplique pe
+-
+nalidades devido à distância e veloci-
+dade do alvo.
+Um  ataque  com  Jato  não  tem  Prec  
+e tem 1/2D 5 e Max 10, em vez de sua 
+distância  usual.  A  ampliação  Alcan
+-
+ce  Ampliado  aumenta  esse  valor  em  
+100%/nível, em vez de seus efeitos nor
+-
+mais.
+Jato  é  incompatível  com  Acompa-
+nhamento, Armas Brancas, Aura, Cone, 
+Efeito de Área e Fogo Contínuo.
+Longa Distância
++40%
+Esta  ampliação  concede  distância  
+de  alcance  a  uma  vantagem  que  nor
+-
+malmente afeta uma área imediata ou 
+que depende do toque para afetar ou
+-
+tras pessoas. Via de regra, ela concede 
+1/2D  10,  Max  100,  Prec  3,  CdT  1,  Ti
+-
+ros N/A e Recuo 1. A duração é de 10 
+segundos,  a  menos  que  a  habilidade  
+indique outra duração (como Neutra
+-
+lizar  ou  Possessão),  ou  é  instantânea  
+(como em Cura) e o personagem não 
+pode utilizá-la novamente até que to
+-
+dos os seus efeitos tenham se esgota-
+do.  É  possível  aplicar  outros  modifi-
+cadores para alterar os parâmetros do 
+ataque à distância e sua duração.
+Esta     ampliação     normalmente     
+está  limitada  a  Abafador  de  Mana,  
+Ampliador  de  Mana,  Cura,  Estática  
+Psíquica,  Neutralizar  e  Possessão.  O  
+Mestre  tem  liberdade  para  permiti
+-
+-la em outras características, mas ela 
+nunca  deve  modificar  artilharia  cor
+-
+poral  (como  Golpeadores  ou  Mordi-
+da de Vampiro) ou habilidades que já 
+têm alcance.
+
+vantagens
+108
+Mobilidade 6
++40%/nível
+Esta ampliação só pode ser aplicada 
+a  um  ataque  que  tenha  as  ampliações  
+Efeito  de  Área  (pág.  105)  e  Persistente  
+(pág. 108). A área de efeito se move sob 
+o  comando  do  personagem.  O  Deslo
+-
+camento é igual ao nível da ampliação 
+(Deslocamento  1  por  +40%,  Desloca
+-
+mento 2 por +80% e assim por diante) 
+e não pode exceder a distância Max do 
+ataque.
+Para mover a área de efeito, o perso
+-
+nagem  tem  que  realizar  uma  manobra  
+Concentrar. Para tornar essa região mó
+-
+vel  independente,  acrescente  Teleguia-
+do (fazendo com que ela ataque o alvo 
+válido  mais  próximo)  e  possivelmente  
+Área  Seletiva  (buscando  apenas  inimi
+-
+gos). Compre essas ampliações duas ve-
+zes se quiser que elas se apliquem tanto 
+à jogada de ataque inicial quanto à área 
+de efeito resultante.

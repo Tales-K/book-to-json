@@ -1,0 +1,100 @@
+Seletiva:  A  Sorte  do  personagem  só  
+se  aplica  a  uma  classe  específica  de  
+tarefas relacionadas,  como  atletismo,  
+interação  social  e  outras  perícias  que  
+ele  usa  em  seu  trabalho.  O  “combate”  
+é uma escolha válida, mas afeta apenas 
+os  testes  de  habilidade  com  armas,  as  
+defesas  ativas  e  os  testes  de  ST  ou  DX  
+no combate corporal — não os testes de 
+DX  para  ver  se  o  personagem  tropeça,  
+ou os de HT para sobreviver, etc. -20%.
+ST Braçal 3 1
+3, 5 ou 8 pontos por +1 ST
+Um  ou  mais  braços  do  personagem  
+têm ST adicional em relação ao restan
+-
+te do corpo. Esse valor se aplica apenas 
+aos esforços para erguer, atirar ou ata
+-
+car  com  os  braços,  ou  mãos,  em  ques-
+tão.  Ele  não  afeta  o  número  inicial  de  
+PV nem a Base de Carga! Se uma tarefa 
+exige  várias  mãos  para  ser  realizada  
+e  elas  não  tiverem  a  mesma  ST,  use  a  
+média.
+A  ST  Braçal  custa  3  pontos  para  
+cada +1 de ST para um braço, 5 pontos 
+para cada +1 em dois braços e 8 pontos 
+para cada +1 nos três braços. Não vale 
+a pena aumentar esse valor para quatro 
+braços ou mais — nesse caso, é melhor 
+adquirir a ST geral. Se a ST do perso
+-
+nagem  foi  comprada  com  a  limitação  
+Manuseadores  Precários  ou  Tamanho,  
+aplique  as  mesmas  limitações  à  ST  
+Braçal.
+ST de Golpe 3 1
+5 pontos por +1 ST
+O  personagem  é  capaz  de  aplicar  
+golpes  mais  poderosos  do  que  indica  
+o valor de sua ST. Adicione o valor da 
+ST  de  Golpe  à  ST  básica  quando  for  
+avaliar  o  dano  por  GdP  e  GeB  (v.  Ta
+-
+bela de Dano, pág. 16). A ST de Golpe 
+não  tem  nenhum  efeito  sobre  os  PV  
+ou a Base de Carga. Se o jogador ad
+-
+quirir a ST do personagem com as li-
+mitações Manuseadores Precários ou 
+Tamanho,  aplique  estas  limitações  à  
+ST de Golpe.
+ST de Levantamento 3 1
+3 pontos por +1 de ST
+O personagem tem uma capacidade 
+desproporcional  de  erguer  cargas  em  
+relação  à  sua  massa.  Esta  vantagem  é  
+comum  em  veículos  e  personagens  su
+-
+pers.  Adicione  a  ST  de  Levantamento  
+do personagem à sua ST normal quan
+-
+do  for  calcular  a  Base  de  Carga  (pág.  
+15) para carregar, levantar, empurrar e 
+puxar  objetos.  O  valor  desta  vantagem  
+também  é  adicionado  à  ST  em  situa
+-
+ções onde o personagem precisa aplicar 
+uma pressão lenta e constante (agarrar, 
+asfixiar,  etc.).  A  ST  de  Levantamento  
+não  deve  ser  adicionada  à  ST  (nem  à  
+Base  de  Carga)  na  hora  de  calcular  os  
+PV iniciais, a distância de arremesso e o 
+dano causado por ataques corpo a cor
+-
+po ou armas de arremesso.
+Se  a  ST  do  personagem  tiver  a  li
+-
+mitação  Tamanho,  a  mesma  limitação  
+deve ser aplicada à ST de Levantamen
+-
+to. No entanto, a limitação Manuseado-
+res Precários não concede desconto no 
+valor desta característica.
+
+vantagens
+90
+Status
+V.   Status, pág. 28
+Status  elevado  é  uma  vantagem  e  
+deve ser representada como tal na pla
+-
+nilha de personagem.
+Super Escalada 3 1
+3 pontos/nível
+O  personagem  é  capaz  de  escalar  
+muito   rápido.   Cada   nível   de   Super   
+Escalada  adiciona  um  bônus  de  +1  ao  
+Deslocamento  do  personagem  quando  

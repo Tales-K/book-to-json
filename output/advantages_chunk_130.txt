@@ -1,0 +1,100 @@
+e  ataques  à  distância.  A  figura  mostra  
+o  ângulo  de  visão  de  um  personagem  
+normal (branco) e de alguém com Visão 
+Periférica (cinza).
+Se   o   Mestre   estiver   usando   um   
+mapa,  o  personagem  será  capaz  de  re
+-
+alizar ataques corpo a corpo tanto nos 
+hexágonos laterais (à direita e à esquer
+-
+da) quanto nos frontais — embora um 
+ataque com uma só mão contra o lado 
+oposto  (ex.:  atacar  o  hexágono  à  es
+-
+querda  com  a  mão  direita)  ainda  seja  
+considerado   desajeitado   e,   por   isso,   
+considerado  um  Golpe  Desenfreado  (v.  
+pág. 388). O personagem continua não 
+podendo atacar um inimigo que se en
+-
+contra  diretamente  atrás  dele,  exceto  
+com um Golpe Desenfreado.
+Esta  habilidade  também  ajuda  na  
+defesa!  Se  for  atacado  pela  direita  ou  
+pela  esquerda,  o  personagem  é  capaz  
+de se defender sem sofrer penalidades. 
+Sua  defesa  ativa  sofre  uma  penalidade  
+de -2 nos ataques pelas costas.
+Fora  do  combate,  o  personagem  
+recebe  um  bônus  de  +3  nos  testes  
+para  detectar  tentativas  de  Persegui
+-
+ção  ou  emboscadas  pelas  costas  e  o  
+Mestre sempre deve fazer um teste de 
+Visão  para  ver  se  o  personagem  per
+-
+cebe  alguma  coisa  perigosa  “às  suas  
+costas”.
+Limitações Especiais
+Fácil  de  Atingir:  Os  olhos  do  perso-
+nagem  estão  instalados  em  soquetes,  
+são  incomumente  grandes  ou  de  algu
+-
+ma  forma  mais  vulneráveis  a  ataques.  
+Um indivíduo consegue direcionar seus 
+ataques contra os olhos do personagem 
+— se eles estiverem dentro de seu ângu
+-
+lo de visão — apenas com uma penali-
+dade de -6. -20%.
+Visão Telescópica 3 1
+5 pontos/nível
+O  personagem  é  capaz  de  dar  um  
+zoom  com  os  olhos,  como  se  estivesse  
+usando binóculos. Cada nível permite a 
+ele  ignorar  —  a  qualquer  momento  —  
+uma penalidade de distância do alcan
+-
+ce de -1 relacionada aos testes de Visão 
+ou  de  -2  se  ele  realizar  uma  manobra  
+Apontar para dar um zoom em um de
+-
+terminado  alvo.  Essa  habilidade  tam-
+bém  pode  funcionar  como  uma  mira  
+telescópica,  concedendo  um  bônus  de  
+Precisão de +1 por nível nos ataques à 
+distância,  contanto  que  o  personagem  
+realize  uma  manobra  Apontar  durante  
+um número de segundos igual ao bônus 
+(v. a seção Miras Telescópicas, sob Aces
+-
+sórios para Armas de Fogo, pág. 412).
+Os   benefícios   desta   característica   
+não  são  cumulativos  com  os  de  um  
+equipamento  tecnológico,  como  binó
+-
+culos  ou  miras  telescópicas.  Se  tiver  
+ambos,  o  personagem  deve  escolher  
+um.
+Limitações Especiais
+Sem Foco: O campo de visão do per-
+sonagem é amplo e não pode ser focado 
+para uso em ataques à distância. O per
+-
+sonagem não recebe o bônus de Preci-
+são durante um combate. -60%.
+Visualização 2 5
+10 pontos
+Ao  se  visualizar  realizando  uma  
+tarefa,  o  personagem  é  capaz  de  au
+-
+mentar   suas   chances   de   sucesso.   
+Quanto mais sua imagem mental for 
+fiel   às   circunstâncias   verdadeiras,   
+maior  será  o  bônus.  A  visualização  
+deve  ser  detalhada  e  envolver  uma  
+ação  clara  e  específica.  Isso  a  torna  
+inútil  durante  um  combate,  onde  a  
+situação  se  altera  com  mais  rapidez  
+do que é possível perceber.

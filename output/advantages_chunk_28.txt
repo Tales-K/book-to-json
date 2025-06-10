@@ -1,0 +1,100 @@
+-
+-azulado e beber lavadura e leite azedo. 
+Em vez de reduzir a frequência com que 
+o personagem tem que se alimentar, di
+-
+minua suas necessidades de sobrevivên-
+cia (e o custo da alimentação) para uma 
+quantidade equivalente: 2/3 para o nível 
+1, 1/3 para o nível 2, 5% para o nível 3 e 
+1% para o nível 4. O personagem recebe 
+um  bônus  igual  ao  seu  nível  em  Estô
+-
+mago de Ferro (de +1 a +4) para resistir 
+aos efeitos de envenenamento e doenças 
+causados  por  alimentos  que  não  foram  
+criados especialmente para ele, mas so
+-
+fre  uma  penalidade  de  -3  nos  testes  de  
+reação  de  qualquer  pessoa  que  estiver  
+observando ele se alimentar! -50%.
+Somente  Água:  O  personagem  ne-
+cessita de menos água, mas consome a 
+quantidade comum de alimento. -50%.
+Somente  Alimentos:  O  personagem  
+necessita de menos alimento, mas con
+-
+some a quantia comum de água. -50%.
+Contatos 4
+Variável
+O  personagem  tem  um  amigo  que  
+fornece informações úteis ou faz peque
+-
+nos  favores  (escolha  dois  dentre  “rápi-
+do”, “inofensivo” e “barato”). O custo em 
+pontos de um Contato se baseia na perí
+-
+cia que ele utiliza para ajudar o persona-
+gem,  a  frequência  com  que  ele  fornece  
+informações ou realiza favores e o quan
+-
+to se pode confiar nele como pessoa.
+NH Efetivo do Contato
+Primeiro,  decida  o  tipo  de  Contato  
+do personagem. Isso pode variar desde 
+um indigente alcoólatra caído na sarje
+-
+ta até um chefe de estado — dependen-
+do dos antecedentes do personagem. O 
+importante é que ele tem acesso a infor
+-
+mações,  conhece  o  personagem  e  pro-
+vavelmente vai reagir favoravelmente a 
+ele (claro que oferecer dinheiro e favo
+-
+res  é  sempre  uma  boa  ideia;  o  Mestre  
+deve estabelecer o “preço” do Contato).
+Em seguida, escolha a perícia fornecida 
+pelo Contato. Ela deve estar relacionada aos 
+antecedentes  do  indivíduo;  ex.,  Finanças  
+para um banqueiro ou Perícia Forense para 
+um técnico de laboratório. Quando o perso
+-
+nagem busca ajuda de seu contato, o Mestre 
+faz um teste contra a perícia do Contato.
+Depois  disso,  escolha  o  nível  de  ha-
+bilidade efetivo  do  Contato  na  perícia  
+escolhida.  Esse  valor  reflete  os  contatos,  
+outras  perícias,  Status,  etc.  do  Contato.  
+Não é necessário utilizar um nível de ha
+-
+bilidade real (o Mestre definirá isso, se for 
+importante). Por exemplo: o presidente de 
+uma usina siderúrgica local pode ter NH 
+em perícias relacionadas ao comércio que 
+variam entre 12 e 14, mas seu NH efetivo 
+pode ser igual a 18 por causa de seu cargo 
+na  empresa.  Esse  nível  de  habilidade  de
+-
+termina o custo básico do Contato:
+NH EfetivoCusto Básico
+121 ponto
+152 pontos
+183 pontos
+204 pontos
+Adicione 1 ponto a esse custo no caso 
+de  Contatos  capazes  de  obter  informa
+-
+ções por meio de talentos sobrenaturais 
+(PES,  adivinhação  mágica,  etc.).  Isso  é  
+comum entre espíritos, feiticeiros, etc.
+Frequência de Participação
+Defina  uma  frequência  de  participa-
+ção, como explicado em Frequência de Par-
+ticipação (pág. 36), e aplique o multiplica-
+dor  ao  custo  básico  do  Contato.  Quando  
+o  personagem  quiser  conversar  com  seu  
+contato,  o  Mestre  fará  um  teste  contra  a  
+frequência  de  participação.  Se  fracassar,  
+o  Contato  estará  ocupado  ou  não  poderá  
+ser localizado naquele dia. Num resultado 

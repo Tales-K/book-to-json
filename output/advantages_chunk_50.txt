@@ -1,0 +1,100 @@
+-
+tualidade,  o  Mestre  deve  devolver  os  
+pontos de personagem (ou substituir o 
+objeto  por  outro  de  valor  equivalente).  
+No entanto, se o personagem vender ou 
+se desfizer do Equipamento Caracterís
+-
+tico por vontade própria, então ele esta-
+rá perdido junto com os pontos gastos!
+Escavação 3 1
+30 pontos + 5 pontos/ponto de 
+Deslocamento de Escavação
+O personagem é capaz de atravessar 
+solo  e  rocha,  deixando  entulhos  para  
+trás.  A  passagem  cavada  tem  largura  
+suficiente  para  que  ele  possa  caminhar  
+dentro dela. Ele se move através de ro
+-
+chas com metade do seu Deslocamento 
+de  Escavação.  O  Mestre  pode  querer  
+verificar  as  chances  de  o  túnel  desabar  
+atrás  do  personagem.  O  personagem  
+deve  fazer  um  teste  por  minuto  contra  
+o  NH  mais  elevado  entre  Engenharia  
+(Mineração), Prospecção-3 ou IQ-4 para 
+cavar  um  túnel  estável.  Esses  valores  
+podem receber bônus no caso de rochas 
+sólidas e penalidades para rochas fracas 
+ou terra solta. Cada redução de metade 
+do Deslocamento de Escavação concede 
+um bônus de +1 nesses testes.
+Escorregadio 3 1
+2 pontos/nível
+O  personagem  é  difícil  de  segurar!  
+Ele pode ser viscoso, ter moléculas mui
+-
+to lisas ou estar cercado por um campo 
+de  força  que  evita  fricção.  Cada  nível  
+nesta característica (até no máximo cin
+-
+co) concede um bônus de +1 nos testes 
+de  ST,  DX  e  Fuga  feitos  pelo  persona
+-
+gem para se libertar de amarras, se des-
+vencilhar  em  um  combate  corporal  ou  
+se espremer por aberturas estreitas.
+Escudo Mental 2 1
+4 pontos/nível
+O  personagem  possui  um  “escudo”  
+que o avisa ou defende de ataques men
+-
+tais. Adicione o nível de Escudo Mental 
+do  personagem  à  sua  IQ  ou  Vontade  
+sempre  que  ele  for  resistir  a  uma  van
+-
+tagem com a limitação Telepático (v. o 
+Capítulo 6) ou a uma mágica relaciona
+-
+da  entre  as  Mágicas  de  Comunicação  e  
+Empatia (pág. 245) ou Mágicas de Con
+-
+trole da Mente (pág. 245).
+O  escudo  também  protege  o  perso
+-
+nagem  de  tentativas  de  localizar  sua  
+mente utilizando a magia ou o psiquis
+-
+mo.  Para  encontrá-lo,  o  controlador  
+dessas  habilidades  precisa  vencer  uma  
+Disputa Rápida contra a Vontade + Es
+-
+cudo Mental do personagem.
+O  personagem  é  capaz  de  desligar  
+voluntariamente seu Escudo Mental se 
+quiser para permitir que um amigo leia 
+sua  mente,  por  exemplo.  Essa  é  uma  
+ação livre, mas precisa ser realizada no 
+início do turno. Escudo Mental protege 
+o  personagem  enquanto  ele  está  dor
+-
+mindo  ou  inconsciente,  a  menos  que  
+ele  tenha  adormecido  ou  desmaiado  
+enquanto  o  escudo  se  encontrava  vo
+-
+luntariamente desligado.
+Limitações Especiais
+Cibernética:  O  escudo  protege  o  
+personagem  contra  ataques  relacio
+-
+nados  a  computadores  ex.,  a  forma  
+“Digital”  de  Possessão  e  a  forma  “Ci
+-
+bernética” de Sonda Mental e Leitura 
+da Mente — em vez de magia ou psi
+-
+quismo.  Esta  limitação  está  disponí-
+vel apenas para personagens que têm 
+Mente Digital (pág. 69). -50%.
+Telepático: A habilidade do persona-
+gem faz parte do poder psíquico Telepa-

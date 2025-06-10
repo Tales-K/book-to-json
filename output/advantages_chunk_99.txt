@@ -1,0 +1,100 @@
+-
+diação. +40%.
+Limitações Especiais
+Somente   Radiação:   Funciona   da   
+mesma  maneira  que  Cura  Radiação,  
+mas  o  personagem  só  elimina  a  radia
+-
+ção, não recuperando PV. -60%.
+Reivindicar 
+Hospitalidade 4
+1 a 10 pontos
+O personagem pertence a um grupo 
+social que encoraja seus membros a aju
+-
+darem uns aos outros. Quando está lon-
+ge de casa, o personagem pode recorrer 
+a outros membros dessa sociedade para 
+obter alimento, abrigo e auxílio básico.
+O custo em pontos depende do tama-
+nho  e  da  riqueza  do  grupo.  Um  único  
+amigo  com  uma  casa  em  outra  cidade  
+vale  1  ponto;  uma  família  pequena,  2  
+pontos; uma sociedade de mercadores ao 
+longo de uma rota comercial importante, 
+5 pontos; uma vasta aliança de indivídu
+-
+os  ricos,  como,  por  exemplo,  “todos  os  
+comerciantes do mundo”, 10 pontos. No 
+local apropriado, deveria ser fácil encon
+-
+trar os membros do grupo (14 ou menos 
+com 1d-1 hora de busca), mas encontrá
+-
+-los  aleatoriamente  é  mais  difícil  (6  ou  
+menos em meio a uma pequena multidão 
+— contanto que num local apropriado).
+
+vantagens
+83
+2
+Reivindicar Hospitalidade evita, prin-
+cipalmente, os custos e o incômodo pelos 
+quais  um  personagem  na  estrada  passa  
+para  obter  abrigo  (contudo,  se  seus  an
+-
+fitriões  forem  ricos,  talvez  eles  esperem  
+presentes),  mas  traz  benefícios  colate
+-
+rais.  Os  membros  do  grupo  são  amigá-
+veis  entre  si  (bônus  de  +3  nos  testes  de  
+reação)  e  podem  conceder  informações,  
+apresentar pessoas e até mesmo fazer pe
+-
+quenos empréstimos, se requisitados. Em 
+alguns casos, o nível de assistência pode 
+chegar ao oferecido pela vantagem Con
+-
+tatos  (pág.  48).  Mas,  se  o  jogador  busca  
+algo mais ele deve adquirir Aliados (pág. 
+35) ou Patrono (pág. 75).
+Tenha  em  mente  que  esta  vantagem  
+funciona para os dois lados. Quando esti
+-
+ver em casa, um personagem com Reivin-
+dicar  Hospitalidade  terá  que  fornecer  o  
+mesmo tipo de hospitalidade que recebeu 
+durante suas viagens. Isso pode se tornar 
+um gancho para uma aventura! Se o per
+-
+sonagem  decidir  não  ajudar,  pode  ficar  
+com o nome sujo e perder a vantagem.
+Renda Própria
+V.   Renda Própria, pág. 26
+Reputação
+V.   Reputação, pág. 26
+Uma reputação positiva é uma van-
+tagem  e  deve  ser  anotada  como  tal  na  
+planilha de personagem.
+Resistência a Dano 3 1
+5 pontos/nível
+O  próprio  corpo  do  personagem  tem  
+um valor de Resistência a Dano. Subtraia 
+esse  valor  do  dano  causado  por  qual
+-
+quer  ataque  físico  ou  de  energia  depois 
+de  aplicar  a  RD  de  armaduras  artificiais  
+(normalmente, um personagem pode usar 
+uma armadura sobre a RD natural), mas 
+antes  de  multiplicar  a  lesão  pelo  tipo  de  
+dano. Via de regra, a RD natural não pro
+-
+tege os olhos (ou as janelas, se o persona-
+gem for um veículo) nem é útil contra ata-
+ques puramente mentais, como telepatia.
+Humanos  normais  não  podem  com-
+prar  essa  característica.  Criaturas  com  
+uma  armadura  natural  podem  adquirir  
+uma  RD  de  1  a  5.  Uma  pele  grossa  ou  
+couro  tem  RD  1;  a  pele  do  porco,  cas
+-

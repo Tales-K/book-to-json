@@ -1,0 +1,100 @@
+sucesso. Não é possível definir uma hora 
+precisa para o personagem acordar. Es
+-
+tabeleça  uma  duração,  depois  a  multi-
+plique por (2d+3)/10. -60%.
+Controle Térmico 2/3 1
+5 pontos/nível
+O  personagem  é  capaz  de  alterar  a  
+temperatura ambiente. O aquecimento 
+ou  esfriamento  está  limitado  a  10  °C  
+por  nível  e  ocorre  a  uma  taxa  de  1  °C  
+por nível a cada segundo de concentra
+-
+ção.  O  personagem  é  capaz  de  afetar  
+um raio de dois metros a uma distância 
+de  até  10  metros.  Utilize  Alcance  Am
+-
+pliado (pág. 102) ou Alcance Reduzido 
+(pág.  110)  para  modificar  essa  distân
+-
+cia; acrescente níveis de Efeito de Área 
+(pág. 105) para aumentar o raio.
+Esta  habilidade  nunca  causa  dano  
+direto. Para isso, compre Ataque Inato 
+normalmente por queimadura (no caso 
+de  chamas)  ou  fadiga  (no  caso  de  ata
+-
+ques que causam dano por meio de al-
+terações na temperatura corporal).
+Limitações Especiais
+Calor:  O  personagem  só  consegue  
+aumentar a temperatura. -50%.
+Frio: O personagem só consegue di
+-
+minuir a temperatura. -50%.
+Psicocinético: A habilidade do perso
+-
+nagem faz parte do poder psíquico Psi-
+cocinese (pág. 256), geralmente chama-
+do de “criocinese” (no caso de frio) ou 
+“pirocinese” (no caso de calor). -10%.
+Crescimento 3 1
+10 pontos/nível
+O personagem é capaz de crescer — 
+realmente crescer muito! Na medida em 
+que o personagem cresce, sua ST tem de 
+crescer  também  (senão  ele  cairia  devi
+-
+do ao próprio peso). O equipamento do 
+personagem não muda de tamanho!
+Cada  nível  de  Crescimento  permite  
+que  o  personagem  adicione  +1  ao  seu  
+Modificador   de   Tamanho.   Calcule   a   
+altura  final  do  personagem  usando  a  
+Tabela de Modificador de Tamanho (pág. 
+19).  Um  aumento  no  MT  afeta  o  com
+-
+primento  dos  braços  e  das  pernas  do  
+personagem e influência em seu alcan
+-
+ce e na capacidade de transpor obstácu-
+los; v. Modificador de Tamanho e Alcan-
+ce  (pág.  402).  Ele  demora  um  segundo  
+para  modificar  seu  MT  em  +1  (ou  em  
+-1 quando voltar ao tamanho normal).
+Se o personagem tentar crescer den
+-
+tro de um aposento, veículo, recipiente, 
+etc., que não o comporta, o processo é 
+interrompido  normalmente.  No  entan
+-
+to,  se  o  dano  máximo  por  GdP  para  a  
+ST  do  personagem  naquele  momento  
+for maior que a RD das paredes ou do 
+teto,  ele  os  arrebenta.  Isso  leva  um  se
+-
+gundo para cada ponto de RD.
+O jogador tem que comprar a ST ne
+-
+cessária para sustentar a nova forma do 
+personagem — 5 × a altura final em me
+-
+tros. Uma ST que aumenta com a altura 
+e só está disponível quando o persona
+-
+gem  cresce  pode  ser  comprada  com  a  
+limitação  Tamanho  (v.  Força,  pág.  14).  
+Utilize  o  maior  MT  do  personagem  
+para  calcular  o  valor  da  limitação.  No  
+caso  de  MTs  intermediários,  calcule  a  
+relação entre a altura do personagem e 
+sua altura máxima. Essa relação indica 
+a fração da ST adicional que estará dis
+-
+ponível para o personagem num deter-
+minado MT (arredondada para baixo).
+Exemplo: Um personagem com 1,80m 
+de altura (MT 0) tem Crescimento 4. Ele 
+pode  crescer  até  MT  +4,  o  que  acarreta  
+em uma altura máxima de 10 metros. Ele 

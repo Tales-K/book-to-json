@@ -1,0 +1,100 @@
+Precisão: No caso de um sucesso no 
+teste  de  Sentidos,  o  personagem  tam
+-
+bém  sabe  a  distância  do  que  quer  que  
+ele tenha detectado. +100%.
+Limitações Especiais
+Vaga:  O  personagem  é  capaz  de  de-
+tectar  apenas  a  presença  ou  ausência  
+da  substância  determinada.  A  direção  
+e  a  quantidade  são  reveladas  somente  
+num  sucesso  decisivo  e  ele  não  conse
+-
+gue analisar o que detecta. Esta limita-
+ção  e  Preciso  são  mutuamente  exclu-
+dentes. -50%.
+Difícil de Subjugar 3
+2 pontos/nível
+O  personagem  é  difícil  de  nocaute-
+ar.  Cada  nível  em  Difícil  de  Subjugar  
+concede um bônus de +1 nos testes de 
+HT  feitos  para  verificar  se  o  persona
+-
+gem  evita  a  inconsciência  —  seja  por  
+ferimentos, drogas ou o efeito de armas 
+de alta tecnologia — e resistir a habili
+-
+dades  sobrenaturais  que  provocam  in-
+consciência.  Numa  campanha  realista,  
+o Mestre pode decidir limitar aos níveis 
+1  e  2  o  acesso  dos  personagens  a  esta  
+vantagem.
+
+vantagens
+54
+Digestão Universal 3 1
+5 pontos
+O  personagem  apresenta  um  pro-
+cesso  digestivo  que  se  adapta  de  ma-
+neira  notável  e  lhe  permite  se  alimen-
+tar  de  qualquer  animal  não-venenoso  
+ou  proteína  vegetal,  não  importa  quão  
+estranho  ou  fantástico  eles  sejam.  Isso  
+permite   a   sobrevivência   a   partir   de   
+elementos  que  são,  normalmente,  ino
+-
+fensivos,  embora  nada  nutritivos.  No  
+entanto,  o  personagem  não  tem  uma  
+resistência   especial   a   venenos;   para   
+isso,  compre  Resistente  (pág.  84).  Um  
+dos  benefícios  desta  vantagem  é  que  o  
+personagem pode se livrar com rapidez 
+e segurança de qualquer evidência não
+-
+-venenosa e orgânica — alimentando-se 
+dela!
+Dobra 2 5
+100 pontos
+O personagem tem a habilidade de 
+se teleportar, viajando de um ponto a 
+outro sem se deslocar pelo espaço en
+-
+tre eles. Para isso, ele precisa enxergar 
+seu  destino  com  os  próprios  olhos,  
+vê-lo  remotamente  (por  um  circuito  
+fechado  de  TV,  pelos  olhos  de  outra  
+pessoa — utilizando Leitura da Mente 
+com a ampliação Sensorial, etc.) ou vi
+-
+sualizá-lo claramente em sua mente (o 
+que só é possível se ele já tiver visitado 
+o local pessoalmente).
+O  personagem  é  capaz  de  trans-
+portar  uma  carga  igual  à  sua  Base  
+de Carga quando viaja, além de qual
+-
+quer tipo de Carga Útil (pág. 47). Para 
+carregar  mais  coisas  ou  transportar  
+mais  pessoas  ele  precisa  da  amplia
+-
+ção  Capacidade  Adicional  de  Carga  
+(adiante).
+Ele  deve  fazer  um  teste  de  IQ  para  
+ativar  a  habilidade,  aplicando  os  se
+-
+guintes modificadores:
+Distância: As penalidades de distân
+-
+cia estão indicadas na tabela abaixo. Se 
+a distância real estiver entre dois desses 
+valores, utilize o mais alto.
+DistânciaPenalidade
+10 metros0
+20 metros-1
+100 metros-2
+500 metros-3
+3 km-4
+15 km-5
+150 km-6
+1.500 km-7
+Adicione  uma  penalidade  adicional  

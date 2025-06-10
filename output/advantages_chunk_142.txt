@@ -1,0 +1,100 @@
+cia do que indica seu dano básico.
+Divisor de  
+Armadura
+Modificador
+(2)+50%
+(3)+100%
+(5)+150%
+(10)+200%
+Somente  Ataques  Inatos  e  Atribula-
+ções podem ter esta ampliação. Divisor 
+de Armadura é um “modificador de pe
+-
+netração”:  não  é  possível  combiná-lo  
+com  outros  modificadores  do  mesmo  
+tipo,   como   Acompanhamento   (pág.   
+102) e Agente de Contato (pág. 102).
+Efeito Colateral 6
+Variável
+Esta  ampliação  só  pode  ser  aplica-
+da a um Ataque Inato e ao modificador 
+de penetração Divisor de Armadura. Se 
+qualquer  parte  do  dano  ultrapassar  a  
+RD, o alvo precisa obter um sucesso em 
+um teste de HT com uma penalidade de 
+-1  para  cada  2  PV  perdidos,  ou  sofrer  
+um “efeito colateral”.
+Escolha  os  efeitos  colaterais  dentre  
+os  descritos  em  Atribulação  (pág.  43).  
+Entre   as   opções   válidas   se   incluem   
+atordoamento, Desvantagem, Incapaci
+-
+tar  e  Penalidade  em  Atributo.  O  custo  
+do  Efeito  Colateral  é  de  +50%,  mais  o  
+custo  das  ampliações  de  Atribulação.  
+Por  exemplo,  um  atordoamento  teria  
+um custo de +50% enquanto que a Des
+-
+vantagem (Cegueira) teria um custo de 
++100%.
+É  possível  especificar  mais  de  um  
+efeito colateral. Se a vítima tiver direito 
+a  apenas  um  teste  de  resistência  con
+-
+tra  todos  eles,  considere-os  como  uma  
+ampliação  única  e  some  os  custos.  Se  
+a  vítima  tiver  que  resistir  a  cada  efei
+-
+to  individualmente,  compre  um  Efeito  
+Colateral diferente para cada um deles.
+O  atordoamento  passa  normalmen
+-
+te,  enquanto  que  os  outros  efeitos  du-
+ram  (20  -  HT)  minutos  (mínimo  de  1  
+minuto). Se a ampliação Incapacitação 
+for  combinada  com  outros  efeitos,  es
+-
+tes duram (20 - HT) minutos depois que 
+terminar a Incapacitação.
+Efeito de Área 6
++50%/nível
+A habilidade funciona como um poder 
+de área, em vez de afetar um único alvo. 
+Qualquer coisa que se encontrar na área 
+sofre o dano do ataque ou outros efeitos. 
+Se o ataque fracassar, utilize as regras de 
+dispersão (pág. 414) para descobrir o cen
+-
+tro da área. Defesas ativas não protegem 
+contra um ataque de área, mas as vítimas 
+podem  tentar  se  esquivar  ou  efetuar  um  
+mergulho  de  proteção  ou  retirada.  Para  
+maiores  informações,  consulte  Ataques 
+de Área e de Propagação (pág. 413).
+RaioModificador
+2 metros+50%
+4 metros+100%
+8 metros+150%
+16 metros+200%
+Níveis   superiores   continuam   do-
+brando o raio. Se aplicada a uma vanta-
+gem que já tem um efeito de área, cada 
+nível dobra o raio desse efeito.
+Efeito  de  Área  é  um  pré-requisito  
+para Área Seletiva (pág. 103), Bombar
+-
+deio  (pág.  111),  Emanação  (pág.  112),  
+Mobilidade   (pág.   108)   e   Persistente   
+(pág. 108).
+Flutuação 6
++20%
+O  personagem  pode  acrescentar  esta  
+ampliação a qualquer ataque com Persis
+-
+tente (pág. 108) ou Retardo (pág. 109). A 
+jogada de ataque inicial posiciona o efei
+-
+to. Em seguida, ele flutua a partir desse 
+ponto  junto  com  o  vento,  correntes  ma
+-
+rinhas, vento solar, etc., da maneira que 

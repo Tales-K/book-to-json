@@ -1,0 +1,100 @@
+lar sobre a vítima retida. Cada nova “ca-
+mada” acrescenta um bônus de +1 à ST.
+Para se libertar, a vítima precisa ven-
+cer  uma  Disputa  Rápida  de  ST,  ou  de  
+Fuga, contra a ST empregada para retê
+-
+-la. Cada tentativa dura um segundo. Se 
+não conseguir se libertar, o alvo perde 1 
+PF, mas pode tentar novamente.
+A  vítima  também  pode  tentar  des-
+truir  o  que  quer  que  a  esteja  prenden-
+do. Nesse caso, Ataques Inatos atingem 
+automaticamente,     enquanto     outros     
+ataques  sofrem  uma  penalidade  de  -4.  
+Ataques externos não sofrem essa pena
+-
+lidade,  mas  se  fracassarem,  podem  fe-
+rir a vítima retida (v. Intervindo em um 
+Combate  Corporal,  pág.  392).  A  Reten
+-
+ção tem uma RD de 1/3 do seu nível (ar-
+redondado  para  baixo).  Cada  ponto  de  
+dano causado reduz a ST em um ponto. 
+Quando a ST chegar a zero, a Retenção 
+é destruída e a vítima libertada.
+Para  simular  vinhas,  teias,  etc.,  adi
+-
+cione uma ou mais das opções: Efeito de 
+Área  (pág.  105),  Persistente  (pág.  108),  
+Barreira (pág. 103), além de alguns dos 
+modificadores especiais a seguir.
+Ampliações Especiais
+Engolfar:  O  ataque  do  personagem  
+imobiliza o alvo. Ele não consegue mo
+-
+ver os braços, nem as pernas, nem falar; 
+a  única  opção  dele  é  usar  habilidades  
+puramente   mentais,   utilizar   Ataques   
+Inatos ou tentar libertar-se usando a ST 
+(não a perícia Fuga). Se tentar se libertar 
+e  não  conseguir,  a  vítima  poderá  fazer  
+uma nova tentativa depois de 10 segun
+-
+dos  —  contudo,  com  um  resultado  de  
+17 ou 18, ela fica tão enredada que não 
+conseguirá mais escapar sozinha! +60%.
+Grudento: A Retenção é considerada 
+Persistente (pág. 108), mas afeta apenas 
+aqueles que tocarem o alvo original do 
+ataque. +20%.
+Inquebrável: A Retenção não pode ser 
+destruída. A única maneira de escapar é 
+tentando se libertar com a ST. +40%.
+Só  Sofre  Dano  de  X:  Apenas  alguns  ti-
+pos específicos de dano conseguem afetar a 
+Retenção. +30% no caso de um único tipo: 
+queimadura,  corrosão,  contusão  ou  corte;  
++20% para dois tipos; +10% para três tipos.
+Limitações Especiais
+Ambientais:  A  Retenção  manipula  
+uma  condição  ou  objeto  existente  no  
+ambiente  e  não  funciona  na  ausência  
+dele.  Esse  efeito  vale  entre  -20%  (se  a  
+vítima tiver que tocar o chão) e -40% (se 
+a  vítima  tiver  que  estar  em  meio  a  ve
+-
+getação densa) — a critério do Mestre.
+Chance  única:  O  personagem  não  
+pode  sobrepor  novas  Retenções  para  
+aumentar a ST delas. -10%.
+
+vantagens
+86
+Riqueza
+V.   Riqueza, pág. 25
+Uma   Riqueza   acima   da   média   é   
+considerada  uma  vantagem  e  deve  ser  
+representada  como  tal  na  planilha  de  
+personagem.
+Saltador 2 5
+100 pontos
+O  personagem  é  capaz  de  viajar  no  
+tempo ou  para  mundos  paralelos  (às  
+vezes chamadas de “cronologias”) sim
+-
+plesmente desejando realizar um salto. 
+É  preciso  decidir  se  o  personagem  é  
+um saltador  do  tempo  ou  um  saltador 
+de  mundos.  Para  fazer  as  duas  coisas  
+é  preciso  comprar  Saltador  (Tempo)  e  
+Saltador  (Mundo)  separadamente,  pa
+-
+gando o custo total.
+Para  iniciar  um  salto,  o  personagem  
+precisa  visualizar  seu  destino,  concen
+-
+trar-se  durante  10  segundos  e  fazer  um  
+teste  de  IQ.  É  possível  apressar  o  sal
+-
+to,  mas  este  sofre  uma  penalidade  de  

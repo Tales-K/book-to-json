@@ -1,0 +1,100 @@
+recebe  um  bônus  de  +5  em  suas  
+tentativas de detectar tentativas de 
+Perseguição e nunca é surpreendi
+-
+do  por  um  ataque  pelas  costas,  a  
+não ser que ele seja ocultado de al
+-
+guma maneira.
+Olhos  adicionais  é  apenas  um  
+efeito especial dessa característica 
+—  o  personagem  pode  ter  quan
+-
+tos  olhos  o  jogador  desejar,  mas  
+o  custo  em  pontos  permanece  o  
+mesmo.
+Limitações Especiais
+Fácil  de  Atingir:  Seus  olhos  se  
+destacam, são incomumente gran
+-
+des ou são, de alguma forma, mais 
+vulneráveis a ataques. Se os olhos 
+estiverem  no  campo  de  visão  do  
+atacante, eles podem ser atacados 
+com uma penalidade de apenas -6. 
+-20%.
+Visão  
+Hiperespectral 3 1
+25 pontos
+A  visão  do  personagem  vai  do  in-
+fravermelho  ao  ultravioleta,  passan-
+do  pelas  cores  visíveis  do  espectro.  
+Essa imagem integrada muitas vezes 
+revela  detalhes  que  não  são  visíveis  
+para indivíduos que só possuem uma 
+visão comum, Infravisão (pág. 65) ou 
+Ultravisão (pág. 96).
+Visão Hiperespectral é garantia de 
+uma  visão  noturna  quase  perfeita:  o  
+personagem nunca sofre penalidades 
+de visão ou combate se houver qual
+-
+quer fonte luz no ambiente. Na escu-
+ridão  total,  ela  funciona  exatamente  
+como  Infravisão.  Esta  característica  
+também concede um bônus de +3 em 
+todos os testes de Visão, incluindo os 
+testes  para  enxergar  pistas  ou  obje
+-
+tos ocultos com as perícias Detecção, 
+Observação  ou  Perícia  Forense  e  em  
+todos os testes de Rastreamento.
+Um personagem com Visão Hipe-
+respectral  não  pode  comprar  Infra-
+visão  ou  Ultravisão.  Ela  essencial-
+mente  representa  um  nível  superior  
+dessas duas vantagens e seus efeitos 
+substituem  os  efeitos  dessas  outras  
+vantagens.
+Como   descrito,   Visão   Hiperes
+-
+pectral simula sensores de NT7+ em 
+uma  campanha  realista.  O  Mestre  
+pode  permitir  que  personagens  su
+-
+pers  adquiram  as  duas  ampliações  
+especiais  descritas  a  seguir,  mas  ne
+-
+nhuma delas é apropriada a sensores 
+do mundo real!
+Ampliações Especiais
+Banda  Alta  Estendida:  O  perso-
+nagem  enxerga  níveis  de  radiação  
+superiores  ao  ultravioleta,  o  que  lhe  
+permite  visualizar  fontes  de  raios  X  
+e gama. +30%.
+Banda  Baixa  Estendida:  O  perso
+-
+nagem  enxerga  níveis  de  radiação  
+inferiores  ao  infravermelho,  o  que  
+lhe  permite  visualizar  micro-ondas,  
+radares e ondas de rádio. Esse efeito 
+não  concede  nenhuma  compreensão 
+desses tipos de sinais! +30%.
+Visão  
+Microscópica 3 1
+5 pontos/nível
+O personagem é capaz de enxergar 
+detalhes  que  normalmente  seriam  in
+-
+visíveis sem uma lente de aumento ou 
+um  microscópio.  Cada  nível  aumenta  
+a ampliação em um fator de 10: 5 pon
+-
+tos aumentam 10×, 10 pontos aumen-
+tam 100× e assim por diante. Esta am-
+pliação só se aplica a objetos menores 
+que 2,5 cm.
+O  nível  1  é  suficiente  para  uma  in-
+vestigação  forense  comum.  O  nível  3  
+(1.000×)   equivale   aos   melhores   mi

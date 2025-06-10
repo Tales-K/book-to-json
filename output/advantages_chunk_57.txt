@@ -1,0 +1,100 @@
+
+vantagens
+62
+Ampliações Especiais
+Comprido: O Golpeador do persona-
+gem  é  longo  em  relação  ao  seu  corpo.  
+Isso aumenta o MT efetivo do persona
+-
+gem usado para o cálculo do alcance (v. 
+Modificador de Tamanho e Alcance, pág. 
+402). +100% para cada bônus de +1 no 
+MT  se  o  personagem  puder  atacar  a  
+qualquer  distância,  de  C  até  o  alcance  
+máximo;  ou  +75%  para  cada  bônus  de  
++1 no MT, se o personagem puder ata
+-
+car  apenas  com  seu  alcance  máximo  
+(nunca num combate corporal).
+Limitações Especiais
+Arco Limitado: O Golpeador do perso-
+nagem só é capaz de atacar numa única 
+direção;  diretamente  à  frente,  para  trás,  
+etc. Especifique a direção quando adqui
+-
+rir a vantagem. Se o alvo não estiver no 
+lugar correto e o personagem não conse
+-
+guir manobrar para colocá-lo lá, não será 
+possível atacá-lo. -40%.
+Desajeitado:  O  Golpeador  do  perso-
+nagem é extremamente impreciso. Isso 
+é comum em caudas e Golpeadores si
+-
+milares que são capazes de alvejar pon-
+tos  fora  de  seu  campo  de  visão.  -20%  
+para  cada  redutor  de  -1  na  jogada  de  
+ataque.
+Fraco:  O  Golpeador  do  personagem  
+é  muito  rombudo  ou  leve  ou  simples
+-
+mente incapaz de tirar proveito de toda 
+a ST do personagem. Ele causa apenas 
+o dano por GdP básico, sem o bônus de 
++1 para cada dado. -50%.
+Incapaz de Aparar: O personagem não 
+pode aparar com seu Golpeador. -40%.
+Grupo de Contato 4
+Variável
+O   personagem   tem   uma   rede   de   
+Contatos  (v.  Contatos,  pág.  48)  dentro  
+de  uma  determinada  organização  ou  
+camada  social.  O  jogador  precisa  espe
+-
+cificar  uma  corporação,  sindicato  do  
+crime,  unidade  militar,  departamento  
+de  polícia  ou  organização  similar,  ou  o  
+submundo,  comerciantes,  a  classe  alta,  
+etc., de uma determinada cidade. Grupos 
+de Contato maiores não são permitidos.
+O  personagem  pode  solicitar  infor-
+mações  de  um  Grupo  de  Contatos  exa-
+tamente  como  faria  com  um  Contato,  
+utilizando  as  mesmas  regras  para  fre
+-
+quência  de  participação,  NH  efetivo  e  
+confiabilidade.  A  única  diferença  é  que  
+o  NH  efetivo  de  um  Grupo  de  Contato  
+reflete  habilidade  em  uma  categoria  in
+-
+teira de perícias — ex., “perícias comer-
+ciais”  no  caso  de  uma  corporação,  ou  
+“perícias  militares”  para  uma  unidade  
+militar — em vez de uma perícia especí
+-
+fica. O jogador deve definir essa área de 
+conhecimento quando comprar a vanta
+-
+gem e ela precisa estar de acordo com a 
+organização.
+Quando       o       
+personagem   re
+-
+quisitar  alguma  
+informação  que  
+esteja       dentro       
+das  capacidades  
+do grupo, o Mes
+-
+tre  faz  um  teste  
+contra  o  NH  do  
+grupo.  Contudo,  
+esse    seria    um    
+teste   de   habili
+-
+dade      abstrato      
+e  não  um  teste  
+com   uma   perí
+-
+cia      específica.      
+Por       exemplo:       

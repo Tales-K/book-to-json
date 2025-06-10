@@ -1,0 +1,100 @@
+de receber o bônus da Prec.
+• Usar o NH com a perícia da arma para 
+disparar enquanto montado (pág. 397), e 
+não o menor NH entre ela ou Cavalgar.
+• Reduzir pela metade a penalidade no va-
+lor predefinido — arredondando para baixo 
+— para qualquer técnica que permita atirar 
+rapidamente. Comprar tais técnicas a partir 
+de seus valores predefinidos melhorados.
+• Reduzir pela metade o somatório de 
+todas as penalidades de Sacar Rápido 
+(Munição), arredondando-o para baixo.
+O personagem ainda pode comprar 
+qualquer vantagem, qualidade, perícia ou 
+técnica, cinematográfica ou exótica, que o 
+Mestre considere que funcione de maneira 
+lógica com uma arma de fogo. Ignore 
+ainda os pré-requisitos Hipnotismo e 
+Golpe Poderoso para Arte da Invisibilidade 
+e Salto Voador, respectivamente.
+Nenhum desses benefícios se aplicam 
+quando o personagem está usando armas 
+motoras de projétil, embora o Mestre 
+possa introduzir uma versão de baixo 
+NT desta vantagem que funciona com 
+Zarabatanas, Arcos, Bestas, Fundas, etc.
+Atirador é uma vantagem cinematográ-
+fica. O Mestre pode decidir proibi-la em 
+campanhas completamente realistas.
+Atribulação 3 1
+10 pontos/nível
+O personagem possui um ataque que 
+provoca um efeito nocivo sem causar dano: 
+cegueira, paralisia, fraqueza, etc. Essa talvez 
+seja uma arma de feixe de alta tecnologia, 
+um spray químico, um ataque visual sobre-
+natural ou qualquer outra coisa. Especifique 
+os detalhes quando comprar a vantagem.
+Via de regra, Atribulação é um ataque 
+à distância com 1/2D 10, Max 100, Prec 
+3,  CdT  1,  Tiros  N/A  e  Recuo  1,  embora  
+seja possível aplicar modificadores para 
+alterar esses valores (v. págs. 101–116).
+
+vantagens
+44
+Se atingir o alvo, a vítima deve fazer um 
+teste de HT+1 para resistir, com uma penali-
+dade igual ao nível da Atribulação (portanto, 
+Atribulação 1 resulta num teste de HT sem 
+modificadores). A vítima recebe um bônus 
+igual à sua RD, a menos que a Atribulação 
+tenha um dos seguintes modificadores: 
+Acompanhamento, Agente de Contato, 
+Agente Respiratório, Agente Sanguíneo, 
+Base Sensorial, Cósmica ou Imprecação. 
+Para diminuir os efeitos da RD, acrescente 
+a ampliação Divisor de Armadura. A vítima 
+recebe um bônus adicional de +3 se estiver 
+a uma distância maior que 1/2D.
+Se for bem-sucedida no teste de HT, a 
+vítima não é afetada. No caso de um fra
+-
+casso, ela sofre os efeitos da Atribulação. 
+Via de regra, ela fica atordoada (v. pág. 420). 
+A vítima pode fazer um teste contra HT+1 
+uma vez por segundo para tentar se recupe-
+rar, mas continua sujeita a uma penalidade 
+igual ao nível da Atribulação (contudo, a 
+RD não tem mais efeito nesse teste).
+Para causar um efeito diferente do ator-
+doamento (v. a seguir), a Atribulação pre-
+cisa de uma ampliação especial. Ela pode 
+inclusive causar mais de um efeito especial 
+se o jogador comprar diversas ampliações. 
+Esses efeitos ocorrem simultaneamente, a 
+menos que algo especifique o contrário.
+Atribulações que produzem os mesmos 
+efeitos normalmente não são cumulativas. 
+Escolha o pior efeito.
+Utilize as ampliações especiais descri
+-
+tas a seguir para criar Atribulações espe-
+cíficas. Muitas Ampliações e Limitações 
+de Ataque (pág. 102) também se aplicam. 
+Por exemplo, um feixe de luz cegante tem 
+Base Sensorial (pág. 103); a maioria das 
+drogas tem Acompanhamento (pág. 102), 
+Agente Sanguíneo (pág. 102) ou Agente de 
+Contato (pág. 102); ataques sobrenaturais 
+como “olho gordo” utilizam Imprecação 
+(pág. 106); e os ataques de toque exigem 
+Ataque Corpo a Corpo (pág. 111).
+Se uma Atribulação produzir dois efei-
+tos ou mais devido às ampliações especiais 
+a seguir, alguns deles podem ser secundá-
+rios. Efeitos secundários só ocorrem se a 
+vítima fracassar no teste de HT por 5 ou 
+mais, ou se ela obtiver uma falha crítica. 
+Um efeito secundário vale 1/5 do valor ori-

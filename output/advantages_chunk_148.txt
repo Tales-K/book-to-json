@@ -1,0 +1,100 @@
+Esta  ampliação  aumenta  a  duração  
+normal  da  habilidade  do  personagem.  
+A  “Nova  Duração  Máxima”  é  um  múl
+-
+tiplo  da  duração  original  (ou  a  torna  
+permanente).
+MúltiploModificador
+3× duração+20%
+10× duração+40%
+30× duração+60%
+100× duração+80%
+300× duração+100%
+1.000× duração+120%
+Permanente*+150%
+* É preciso especificar um conjunto 
+razoável  de  condições  possíveis  para  
+dissipar  o  efeito  (ou  curá-lo,  no  caso  
+de   habilidades   como   Atribulação   e   
+Controle  da  Mente).  O  Mestre  decide  
+o que é “razoável”. Se não houver uma 
+maneira de encerrar o efeito, a amplia
+-
+ção deve custar +300%. Para evitar que 
+os  PdJs  concedam  vantagens  gratuitas  
+uns  aos  outros,  talvez  o  Mestre  prefira  
+proibir  esse  nível  de  Prazo  Estendido  
+para as Atribulações com o modificador 
+Vantagem.
+Para  acrescentar  Prazo  Estendido  
+a  um  ataque,  ele  deve  ter  Aura,  Bar
+-
+reira  ou  Persistente  ou  permitir  espe-
+cificamente  esta  ampliação.  Também  
+é possível acrescentar Prazo Estendido 
+a  qualquer  vantagem  que  apresente  a  
+ampliação Longa Distância (pág. 107).
+Se a característica modificada apre
+-
+sentar  múltiplas  facetas  com  durações  
+diferentes, é preciso especificar qual de
+-
+las  está  sendo  estendida.  Por  exemplo,  
+uma nuvem de gás sonífero poderia re
+-
+ceber essa ampliação para prolongar a 
+duração do sono ou o tempo de existên
+-
+cia da nuvem; se quiser as duas coisas, 
+compre a ampliação duas vezes.
+Retardo 6
+Variável
+Esta  ampliação  retarda  os  efeitos  
+de  um  ataque  até  depois  que  o  perso
+-
+nagem atingir o alvo. Isso permite que 
+ele  simule  bombas-relógio  e  coisas  se
+-
+melhantes. É preciso especificar alguma 
+forma de neutralizar o efeito antes que 
+ele  ocorra.  Defina  esses  detalhes  junto  
+com o Mestre.
+Um  retardo  fixo  (ex.:  2  segundos)  
+tem um custo adicional de 0%.
+Um retardo variável custa +10% se o 
+personagem puder ajustá-lo para qual
+-
+quer momento entre “sem retardo” e 10 
+segundos, ou +20% se for possível ajus
+-
+tá-lo  para  um  período  superior  (minu-
+tos,  horas,  dias...).  É  preciso  definir  o  
+retardo antes de fazer o teste para atin
+-
+gir o alvo.
+Retardo Induzido: Em vez de um re
+-
+tardo  de  tempo,  os  efeitos  são  induzi-
+dos por uma ação simples: um sinal de 
+rádio, toque, pressão, um objeto de me
+-
+tal passando a menos de um metro, etc. 
+Especifique o meio de indução quando 
+comprar o ataque. +50%.
+Seletividade
++10%
+Esta ampliação permite ativar e de-
+sativar à vontade as ampliações de uma 
+determinada  vantagem.  Por  exemplo,  
+se tiver um ataque com Efeito de Área, 
+o  personagem  pode  desativar  essa  am
+-
+pliação para afetar apenas uma pessoa. 
+O  jogador  deve  especificar  quais  am
+-
+pliações deseja ignorar antes de ativar a 
+habilidade. Se ele não especificar nada, 
+obviamente   supõe-se   que   ele   estará   
+sempre utilizando todas as ampliações 
+disponíveis.
+Ao permitir que o personagem esco

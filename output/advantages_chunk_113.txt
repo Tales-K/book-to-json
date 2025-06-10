@@ -1,0 +1,100 @@
+alvo. Se vencer, o personagem arranca a 
+resposta da mente do alvo. A resposta é 
+aquilo que o alvo acredita ser verdade — 
+se não souber nada, ele dirá exatamente 
+isso ao personagem. Se fracassar, o per
+-
+sonagem  pode  tentar  novamente  com  
+uma  penalidade  cumulativa  de  -2  para  
+cada  nova  tentativa  de  fazer  a  mesma 
+pergunta  (ou  outra  muito  semelhante)  
+dentro de um período de uma hora. No 
+caso de uma falha crítica, não será pos
+-
+sível sondar a mente da mesma pessoa 
+durante 24 horas.
+O   personagem   pode   usar   Sonda   
+Mental  para  fazer  quantas  perguntas  
+desejar,  mas  cada  pergunta  exige  uma  
+nova  utilização  da  habilidade  —  ou  
+seja, um novo período de concentração 
+e outra Disputa Rápida.
+Modificadores Especiais
+As ampliações e limitações especiais 
+apresentadas em Leitura da Mente (pág. 
+68) também valem para Sonda Mental.
+Sorte 2
+Variável
+O personagem nasceu com sorte! Esta 
+característica está dividida em três níveis 
+progressivamente “cinematográficos”:
+Sorte: Uma vez a cada hora de jogo, 
+o  personagem  pode  refazer  duas  vezes  
+um teste ruim e ficar com o melhor dos 
+três  resultados.  O  jogador  precisa  de
+-
+clarar que está usando a Sorte imedia-
+tamente após a jogada de dados. Depois 
+que o próprio jogador ou outra pessoa 
+fizer outro teste, será tarde demais para 
+recorrer  à  Sorte.  Se  o  Mestre  estiver  
+fazendo  o  teste  em  segredo  (ex.:  para  
+ver  se  o  personagem  percebe  alguma  
+coisa),  o  jogador  deve  dizer  ao  Mestre  
+que está usando a Sorte antes da jogada 
+e  ele  terá  que  jogar  três  vezes  e  usar  o  
+melhor resultado. 15 pontos.
+Sorte  Extraordinária:  Funciona  da  
+mesma  maneira  que  Sorte,  mas  pode  
+ser usada a cada 30 minutos, em vez de 
+uma hora. 30 pontos.
+Sorte  Impossível:  Funciona  da  mes
+-
+ma maneira, mas pode ser usada a cada 
+10 minutos! 60 pontos.
+A Sorte se aplica somente a testes de 
+habilidade,  avaliações  de  dano  e  testes  
+de  reação,  seja  do  personagem  ou  du
+-
+rante eventos que afetam todo o grupo, 
+ou  quando  o  personagem  está  sendo  
+atacado  (nesse  caso,  o  jogador  faz  as  
+jogadas  três  vezes  pelo  atacante  e  fica  
+com o pior resultado).
+A   Sorte   não   pode   ser   comparti
+-
+lhada.  Se  Sam,  o  Forte,  está  tentando  
+abrir uma porta com um pontapé, Lou, 
+o  Sortudo,  não  pode  ficar  atrás  dele  e  
+passar um pouco de sorte. Ele terá que 
+abrir a porta sozinho.
+Depois  que  essa  característica  for  
+utilizada,   o   jogador   precisa   esperar   
+uma  hora  do  tempo  real  (30  minutos,  
+no  caso  de  Sorte  Extraordinária,  10  
+minutos  no  caso  de  Sorte  Impossível)  
+antes  de  recorrer  a  ela  novamente.  O  
+personagem não pode utilizar Sorte às 
+11:58 e novamente às 12:01, e também 
+não  pode  economizar  essa  vantagem  
+para usá-la mais tarde ele não pode jo
+-
+gar  durante  horas  sem  usar  a  Sorte  e  
+depois usá-la várias vezes em seguida!
+Limitações Especiais
+Ativa:  A  Sorte  do  personagem  é  um  
+poder sobrenatural consciente. O joga
+-
+dor precisa dizer que está usando a Sor-
+te antes de jogar os dados. Ela não pode 
+ser usada “após o acontecimento” para 
+mudar um teste ruim. -40%.
+Defensiva:  O  personagem  só  pode  
+usar a Sorte para refazer jogadas de de
+-
+fesa ativa, testes de resistência ou testes 
+de  HT  para  resistir  aos  efeitos  de  uma  
+lesão ou para forçar um oponente a re
+-
+fazer  uma  jogada  de  ataque  que  resul-
+tou num golpe fulminante. -20%.

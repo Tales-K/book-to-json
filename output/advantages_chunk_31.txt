@@ -1,0 +1,100 @@
+senhor do crime (por exemplo, o Dom, o 
+chefe  do  clã  ou  o  Mestre  da  Guilda  dos  
+Ladrões) tem um NH de 21.
+Controle da Mente 2 1
+50 pontos
+O  personagem  é  capaz  de  dominar  
+mentalmente pessoas que ele consegue 
+ver ou tocar. Para usar esta habilidade, 
+o  personagem  tem  que  se  concentrar  
+durante  um  segundo  e,  em  seguida,  
+fazer  uma  Disputa  Rápida  de  IQ  vs.  a  
+Vontade do alvo.
+Modificadores: Afetado por penalida
+-
+des de distância (pág. 550); -1 para cada 
+escravo que já se encontra sob seu con
+-
+trole; +2 se o personagem se concentrar 
+durante  um  minuto;  +4  se  ele  se  con
+-
+centrar durante uma hora.
+Se  o  personagem  vencer  a  disputa,  
+sua vítima obedecerá a seus comandos 
+até ser libertada. Na verdade, ela ganha 
+temporariamente  a  desvantagem  Re
+-
+programável (pág. 153) e o personagem 
+será seu Mestre. O controle do persona
+-
+gem se mantém enquanto ele realizar a 
+manobra  Concentrar  ininterruptamen
+-
+te. Se interromper o processo, sua capa-
+cidade de domínio continuará existindo 
+durante um minuto para cada ponto na 
+margem de sucesso da Disputa Rápida 
+(para aumentar esse prazo é necessário 
+acrescentar Prazo Estendido, pág. 109). 
+Se   o   personagem   ficar   incapacitado   
+(atordoado, nocauteado, etc.) ou tentar 
+forçar o alvo a agir contra seus princí
+-
+pios  (ex.:  cometer  suicídio  ou  ferir  um  
+ente querido), faça outra Disputa Rápi
+-
+da.  Se  a  vítima  vencer,  ela  é  libertada.  
+Faça  o  teste  apenas  no  momento  cru
+-
+cial — o personagem pode levar o alvo 
+até a beira de um precipício, mas o tes
+-
+te  só  deve  ser  feito  quando  ele  estiver  
+prestes a pular.
+Se  o  personagem  perder,  ele  não  
+conseguirá   controlar   novamente   sua   
+vítima durante as 24 horas seguintes e 
+sentirá uma sensação de coerção men
+-
+tal emanando do personagem. No caso 
+de  uma  falha  crítica,  o  personagem  
+também  perde  o  controle  sobre  todas  
+as  outras  pessoas  que  estiverem  sendo  
+influenciada por essa habilidade!
+Muitas   vezes   Controle   da   Mente   
+apresenta  limitações:  Acesso  (somente  
+membros do sexo oposto), Base Senso
+-
+rial (para vozes hipnóticas, olhos, odo-
+res,  etc.),  entre  outros.  Esta  vantagem  
+também  pode  apresentar  modificado
+-
+res  de  ataque,  sujeitos  às  mesmas  res-
+trições  que  se  aplicam  a  ataques  com  
+Imprecação  (pág.  106).  Por  último,  o  
+personagem  pode  aplicar  os  modifica
+-
+dores Cibernética e Somente Cibernéti-
+ca disponíveis para a vantagem Leitura 
+da Mente (pág. 68).
+Ampliações Especiais
+Condicionamento:    O    personagem    
+é  capaz  de  reconstruir  a  psique  de  um  
+indivíduo   e   implantar   sugestões.   Na   
+verdade,  ele  consegue  acrescentar  ou  
+remover  qualquer  desvantagem  mental  
+mundana.  Por  exemplo,  usar  Fantasias  
+para criar lembranças falsas ou Amnésia 
+para  apagar  lembranças.  A  vítima  tem  
+que estar dominada, disposta a cooperar 
+e consciente. Faça uma segunda Disputa 
+Rápida. O personagem sofre uma pena
+-
+lidade de -1 para cada -5 pontos em des-
+vantagens  aplicadas,  mas  pode  substi-
+
+vantagens
+50
+tuir o IQ pela perícia Lavagem Cerebral 
+(pág.  206).  A  duração  desse  processo,  
+em dias, é igual à margem de vitória do 

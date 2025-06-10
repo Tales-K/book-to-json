@@ -1,0 +1,100 @@
+Estendido:   A   vantagem   afeta   um   
+sentido  adicional  relacionado  ao  origi
+-
+nal (Infravisão e visão normal, Sonar e 
+audição normal, etc.). +20% para cada 
+sentido além do primeiro.
+Furtiva:  A  habilidade  do  persona
+-
+gem funciona de modo invisível, como 
+uma zona mágica de silêncio. Não exis
+-
+tem  bônus  para  detectar  os  limites  da  
+área de efeito. +100%.
+Longa Distância: O personagem pro-
+duz o efeito de Obscurecer em um pon-
+to distante, em vez de ao seu redor. Fun-
+ciona como um ataque à longa distância 
+com  1/2D  –,    Max  100,  Prec  3,  CdT  1,  
+Tiros N/A e Recuo 1. Duração de 10 se
+-
+gundos.  É  possível  aplicar  outros  mo-
+dificadores  para  mudar  esses  valores.  
+Diferente  da  ampliação  Longa  Distân
+-
+cia (pág. 107), este modificador permite 
+que o personagem use a habilidade no
+-
+vamente antes de sua duração terminar 
+(para simular a explosão de várias bom
+-
+bas  de  fumaça,  por  exemplo);  por  esse  
+motivo ele é mais caro. +50%.
+Limitações Especiais
+Sempre Ativo: Não é possível desati-
+var a vantagem. -50%.
+Obstinado 2
+5 pontos
+O personagem realmente sabe como 
+se concentrar! Ele recebe um bônus de 
++3  nos  testes  de  habilidade  para  qual  
+quer   tarefa   mental   extensa   na   qual   
+precise se concentrar, independente de 
+todas as outras atividades, se o Mestre 
+acreditar  que  esse  foco  seria  benéfico.  
+Ele  tende  a  ignorar  todo  o  resto  en
+-
+quanto  se  encontra  concentrado  (ele  
+deve  fazer  um  teste  de  Vontade  para  
+evitar  isso),  portanto,  sofre  uma  pena
+-
+lidade de -5 em qualquer teste para per-
+ceber quaisquer interrupções.
+O Mestre pode determinar que certas 
+tarefas complexas (ex.: invenções, magia 
+e atividades sociais) exigem que o perso
+-
+nagem divida sua atenção. Nesses casos, 
+esta vantagem não surte qualquer efeito.
+Olfato 
+Discriminatório 3 1
+15 pontos
+O olfato do personagem é muito mais 
+aguçado do que o olfato normal dos se
+-
+res humanos e registra odores diferentes 
+para  praticamente  tudo  que  ele  for  en
+-
+contrar. Isso permite que o personagem 
+reconheça pessoas, lugares e coisas pelo 
+cheiro.  No  caso  de  um  sucesso  em  um  
+teste  de  IQ,  ele  é  capaz  de  memorizar  
+um odor se farejá-lo durante pelo menos 
+um minuto. No caso de um fracasso, ele 
+tem que esperar no mínimo um dia an
+-
+tes de repetir a tentativa.
+O   personagem   recebe   um   bônus   
+de  +4  (além  dos  bônus  relacionados  à  
+vantagem  Paladar/Olfato  Apurado)  em  
+qualquer tarefa que utiliza o olfato e na 
+perícia Rastreamento.
+Se ficar doente quando for exposto ao 
+odor de uma determinada substância, o 
+personagem  pode  adquirir  a  limitação  
+Desvantagem  Temporária  (pág.  111).  O  
+efeito mais comum é Repugnância (pág. 
+154),  mas  o  Mestre  pode  optar  por  per
+-
+mitir outras desvantagens temporárias.
+Ampliações Especiais
+Percepção   de   Emoções:   O   perso-
+nagem  é  capaz  de  detectar  o  estado  
+emocional  de  uma  pessoa  ou  animal  
+pelo odor. Funciona como a vantagem 
+Empatia (pág. 57), mas o personagem 
+tem  de  estar  a  menos  de  2  metros  do  
+alvo. +50%.
+Oráculo 2 5
+15 pontos
+O personagem tem presságios e vê sig-

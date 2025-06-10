@@ -1,0 +1,100 @@
+lecida, essa ordem não pode ser alterada.
+Resistência à Pressão 3 1
+5 a 15 pontos
+Todo  personagem  tem  uma  “pressão  
+nativa”. Para a maioria dos seres huma
+-
+nos comuns, essa é a pressão da atmosfe-
+ra da Terra (“1 atmosfera”). Possuir uma 
+pressão  nativa  diferente  de  1  atmosfera  
+é  uma  característica  que  vale  0  ponto;  
+contudo,  para  ser  capaz  de  sobreviver  
+durante um longo período de tempo sob 
+uma  grande  variedade  de  pressões,  o  
+personagem precisa comprar esta vanta
+-
+gem. Ela é dividida em três níveis:
+Resistência  à  Pressão  1:  O  persona-
+gem é capaz de sobreviver em pressões 
+entre sua pressão nativa e pressões dez 
+vezes maiores que ela (isso daria a um 
+ser humano a possibilidade de sobrevi
+-
+ver  na  maioria  das  plataformas  conti-
+nentais da Terra). 5 pontos.
+Resistência  à  Pressão  2:  O  persona-
+gem  é  capaz  de  suportar  pressões  entre  
+sua pressão nativa e pressões cem vezes 
+maiores que ela (isso daria a um ser hu
+-
+mano  a  possibilidade  de  sobreviver  em  
+qualquer um dos oceanos da Terra, exce
+-
+to nas fossas mais profundas). 10 pontos.
+Resistência  à  Pressão  3:  O  persona-
+gem é imune aos efeitos de alta pressão. 
+15 pontos.
+Resistência  à  Pressão  permite  que  
+o  corpo  do  personagem  mantenha  a  
+pressão interna em relação a uma pres
+-
+são  externa  constante  e  uniforme.  Isso  
+protege contra ataques que manipulam 
+a  pressão  ambiente  ou  que  esmagam  o  
+corpo, mas não oferece nenhuma defesa 
+contra alterações de pressão localizadas 
+ou temporárias.  Em  particular,  Resis
+-
+tência à Pressão não reduz nem evita o 
+dano por ataques de contusão ou explo
+-
+sões de qualquer espécie.
+Personagens   com   Resistência   à   
+Pressão  costumam  ter  a  vantagem  
+Lacrado (pág. 68), mas ela não é obri
+-
+gatória.
+Resistência ao Vácuo 3 1
+5 pontos
+O  personagem  é  imune  aos  efeitos  
+nocivos associados ao vácuo e à descom
+-
+pressão (v. Vácuo, pág. 437). Esta vanta-
+gem  não  fornece  um  suprimento  de  ar;  
+para isso, adquira Não Respira (pág. 73).
+Personagens com Resistência ao Vá-
+cuo também costumam ter a vantagem 
+Lacrado  (pág.  68)  e  quase  sempre  têm  
+Tolerância à Radiação (pág. 95) e Tole
+-
+rância à Temperatura (pág. 95), mas ne-
+nhuma dessas vantagens é obrigatória.
+Resistente 3
+Variável
+O personagem tem uma resistência (ou 
+até mesmo imunidade) natural contra obje
+-
+tos ou substâncias nocivas que não são ata-
+ques físicos diretos. Isso concede um bônus 
+nos testes de HT para resistir à incapacita
+-
+ção ou lesões causadas por esses elementos.
+O  bônus  de  Resistente  se  aplica  a  
+todos  os  testes  para  resistir  aos  efeitos  
+nocivos de uma determinada categoria — 
+normalmente alguma combinação de do
+-
+enças,  envenenamento  e  síndromes  am-
+bientais  (doença  da  altitude,  doença  de  
+descompressão, enjoo espacial, etc.). Ele 
+também se aplica aos testes para resistir 
+ataques  que  utilizam  esses  efeitos.  Isso  
+inclui Atribulações com um dos seguintes 
+modificadores: Agente Sanguíneo, Agente 
+de Contato, Acompanhamento ou Agente 
+Respiratório; assim como Ataques Inatos 
+que  têm  esses  modificadores  e  causam  
+dano por toxina ou fadiga.
+Defesas Limitadas
+Quando adquire Resistência a Dano ou qualquer outra 
+vantagem  que  evita  dano  (e  não  simplesmente  que  não 

@@ -1,0 +1,100 @@
+Afeta  a  Matéria:  Se  o  personagem  
+possuir alguma   habilidade   que   pode   
+afetar  o  mundo  material  enquanto  ele  
+se  encontra  insubstancial  —  incluindo  
+magia, psiquismo ou poderes com a am
+-
+pliação  Afeta  a  Matéria  (pág.  102)  —  a  
+vantagem tem um custo maior. +100%.
+Capaz  de  Carregar  Objetos:  Normal-
+mente, o personagem não consegue car-
+regar nada enquanto está insubstancial. 
+Esta ampliação permite que ele carregue 
+objetos,  inclusive  roupas  e  armaduras.  
+Eles se tornam físicos se forem derruba
+-
+dos.  O  personagem  não  pode  materiali-
+zar esses itens dentro de outros objetos 
+ou personagens. Objetos que pesam até 
+o valor de Nenhuma Carga do persona
+-
+gem  custam  +10%;  até  Leve,  +20%;  até  
+Média, +50%; até Pesada, +100%.
+Mudança  Parcial:  O  personagem  é  ca-
+paz  de  tornar  material  uma  parte  do  seu  
+corpo  enquanto  as  outras  permanecem  
+insubstanciais,   ou   vice-versa.   Ou   seja,   
+o  personagem  seria  capaz  de  esticar  um  
+braço através de uma parede e dar um ta
+-
+pinha  no  ombro  de  outra  pessoa.  Se  ele  
+também tiver Capaz de Carregar Objetos, 
+o  personagem  pode  materializar  a  mão,  
+recolher o objeto e carregá-lo enquanto se 
+encontra  no  estado  insubstancial.  +20%  
+ou  +100%  se  o  personagem  for  capaz  de  
+tornar  o  objeto  que  estiver  carregando  
+material sem derrubá-los (para isso, tam
+-
+bém é necessário materializar a mão).
+Limitações Especiais
+Sempre  Ativa:  O  personagem  está  
+sempre insubstancial e não consegue se 
+materializar.  Se  tiver  essa  limitação,  o  
+personagem  não  sofre  a  penalidade  de  
+-3 quando for usar magia ou psiquismo. 
+-50%.
+Normalmente  Ativa:  Similar  a  Sem-
+pre Ativa, mas o personagem é capaz de 
+se  materializar  por  curtos  períodos  de  
+tempo  fazendo  um  grande  esforço  —1  
+PF por segundo. -40%.
+Interposição 3 1
+Variável
+O  personagem  é  capaz  de  atravessar  
+uma determinada matéria sólida como se 
+ela não existisse. Ele não abre uma passa
+-
+gem atrás dele — seus observadores sim-
+plesmente o veem “derreter” na superfície 
+e  desaparecer.  O  personagem  precisa  ter  
+Visão Penetrante (pág. 97) para enxergar 
+onde está indo e ainda precisa respirar (a 
+menos que tenha a vantagem Não Respi
+-
+ra), o que limita o tempo dessas incursões 
+ao tempo em que ele pode ficar sem respi
+-
+rar (v. Prender o Fôlego, pág. 355).
+A Interposição é diferente da Insubs-
+tancialidade.  O  personagem  é  afetado  
+pela  gravidade  e  está  limitado  ao  des
+-
+locamento  normal;  se  não  possuir  Voo  
+ou qualquer outra vantagem de desloca
+-
+mento, o personagem precisa caminhar 
+com  seu  Deslocamento  Básico.  Além  
+disso,  o  personagem  pode  ser  afetado  
+por qualquer ataque capaz de alcançá-lo 
+dentro  do  objeto  sólido.  O  personagem  
+ainda é vulnerável a ataques realizados 
+com  o  material  que  ele  consegue  atra
+-
+vessar,  a  menos  que  o  jogador  compre  
+Resistência a Dano para esses ataques.
+O  custo  desta  vantagem  depende  
+da  frequência  com  que  o  personagem  
+encontra  o  material  que  ele  consegue  
+transpor na   forma   de   uma   barreira. 
+Exemplo: papel pode ser uma substân
+-
+cia  “Comum”,  mas  como  muralhas  de  
+papel  são  raras,  esse  objeto  é  conside
+-
+rado “Raro” no cálculo da Interposição.
+Muito  Comum:  Terra  (incluindo  argi-
+la, lama e areia), metal, pedra (incluindo 
+tijolo, concreto e gesso), madeira e outros 
+materiais estruturais comuns. 40 pontos.
+Comum:  Concreto,  plástico,  aço  e  

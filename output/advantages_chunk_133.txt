@@ -1,0 +1,100 @@
+ganhar altitude. Depois de uma corrida 
+e  um  salto,  ele  é  capaz  de  se  lançar  ao  
+ar e adquirir um Deslocamento igual ao 
+seu Deslocamento Básico. A cada turno, 
+o personagem é capaz de alterar sua ve
+-
+locidade  em  até  10  metros/segundo  ×  a  
+gravidade  local  em  Gs  (a  gravidade  da  
+Terra  é  igual  a  1G).  Para  acelerar,  ele  
+precisa descer 1 metro para cada metro/
+segundo  adicionado  à  velocidade;  sua  
+velocidade  máxima  é  igual  ao  
+Deslocamento Básico × 4 (mas 
+o  personagem  pode  ir  mais  rápido,  se  
+for  impulsionado).  Para  desacelerar,  o  
+personagem precisa nivelar. Se não des
+-
+cer  pelo  menos  1  metro,  o  personagem  
+desacelera  automaticamente  1  m/s  no  
+turno em questão. Quando estiver calcu
+-
+lando o raio de rotação, o Deslocamento 
+aéreo  básico  do  personagem  é  de  10  ×  
+a  gravidade  local  em  Gs.  Cada  nível  de  
+Deslocamento  Ampliado  (Ar)  dobra  a  
+velocidade máxima ou reduz pela meta
+-
+de  a  desaceleração  durante  o  voo  nive-
+lado  (ex.,  um  nível  indicaria  que  ele  só  
+perde 0,5 m/s durante um voo nivelado); 
+especifique sua escolha quando adquirir 
+o Deslocamento Ampliado. -50%.
+Planar Controlado: Na maioria dos as-
+pectos, funciona da mesma maneira que 
+Planar,  mas  o  personagem  pode  ganhar  
+altitude  pegando  correntes  de  ar  ascen
+-
+dentes ou “ondas de calor”. Uma taxa de 
+subida  típica  é  de  um  metro  por  segun
+-
+do.  O  personagem  é  capaz  de  localizar  
+ondas  de  calor,  se  houver  alguma,  com  
+um sucesso num teste de IQ ou Meteoro
+-
+logia (uma tentativa por minuto). -45%.
+Somente  Voo  Espacial:  Esta  limitação  
+só  pode  ser  adquirida  em  conjunto  com  
+Voo  Espacial  ou  Voo  Espacial  Newtonia
+-
+no. O personagem só consegue voar no es-
+paço; o deslocamento dele no ar é igual a 
+0. Ele precisa ser alçado até o espaço para 
+partir de um planeta com atmosfe
+-
+ra  e  é  incapaz  de  reentrar  
+na atmosfera. -75%.
+Voz Melodiosa 3
+10 pontos
+O  personagem  tem  uma  voz  clara,  
+atraente  e  ressonante.  Ele  recebe  um  
+bônus de +2 nas seguintes perícias: Ar
+-
+remedo,  Atuação,  Canto,  Diplomacia,  
+Lábia,  Oratória,  Política  e  Sex  Appeal. 
+Ele recebe também um bônus de +2 em 
+qualquer  teste  de  reação  feito  por  al
+-
+guém que possa ouvir sua voz.
+Xeno-adaptabilidade
+V.   Adaptabilidade Cultural, 
+pág. 35
+Qualidades
+Uma  “qualidade”  é  uma  pequena  
+vantagem  que  vale  apenas  1  ponto.  As  
+qualidades não podem ser modificadas 
+com  ampliações  nem  limitações  e  po
+-
+dem  ser  incluídas  no  jogo  sem  afetar  
+seu  equilíbrio.  No  mais,  elas  usam  as  
+mesmas regras que outras vantagens.
+O  Mestre  deve  se  sentir  livre  para  
+criar novas qualidades. Nenhuma delas 
+pode fornecer riqueza, status social ou 
+bônus  de  combate,  mas  podem  con
+-
+ceder  um  bônus  modesto  (máximo  de  
++2)  a  um  atributo,  perícia  ou  teste  de  
+reação  em  circunstâncias  relativamen
+-
+te raras. O Mestre só deve permitir um 
+bônus mais generoso se ele estiver limi
+-
+tado a situações extremamente raras.
+Acessórios 3 1
+O corpo do personagem tem uma ferra-
+menta ou outro instrumento útil (ex.: uma 
+sirene  ou  um  aspirador  de  pó)  embutido;  
+que proporciona benefícios menores (fora 
+de combate) que não são, por sua vez, for
+-

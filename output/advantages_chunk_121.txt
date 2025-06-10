@@ -1,0 +1,100 @@
+as   com   o   equipamento   adequado   
+podem  tentar  localizar,  interceptar  
+ou   interromper   a   transmissão   do   
+personagem.  Isso  exige  um  teste  de  
+Operação  de  Aparelhos  Eletrônicos  
+(Comunicações)  no  caso  de  um  si
+-
+nal eletromagnético, de Operação de 
+Aparelhos Eletrônicos (Psicotrônica) 
+no caso de um sinal psíquico e assim 
+por diante.
+Cada   tipo   de   Telecomunicação   é   
+uma vantagem  independente  com  seus  
+próprios  benefícios  e  empecilhos.  Al
+-
+gumas formas apresentam distância de 
+alcance limitada, que pode ser ajustado 
+por  meio  de  Alcance  Ampliado  (pág.  
+102) ou Alcance Reduzido (pág. 110).
+Comunicação  a  Laser:  O  persona
+-
+gem se comunica por meio de um raio 
+laser  modulado.  O  alcance  básico  é  de  
+75 km em uma linha de visão direta. As 
+exigências  relacionadas  ao  raio  estrei
+-
+to e à linha de visão tornam a espiona-
+gem  de  suas  atividades  extremamente  
+difícil.  O  personagem  só  é  capaz  de  se  
+comunicar com outras pessoas que têm 
+esta  vantagem  ou  um  comunicador  a  
+laser: 15 pontos.
+Comunicação   por   Infravermelho:   O   
+personagem se comunica por meio de um 
+raio infravermelho modulado. O alcance 
+básico é de 500 metros em uma linha de 
+visão  direta.  As  exigências  de  curta  dis
+-
+tância  e  linha  de  visão  tornam  a  interfe-
+rência e a espionagem quase impossíveis 
+em  circunstâncias  normais.  O  persona
+-
+gem só é capaz de se comunicar com pes-
+soas que têm esta vantagem ou um comu-
+nicador infravermelho: 10 pontos.
+Diapsiquia  (Transmissão  Telepática): 
+O  personagem  é  capaz  de  transmitir  
+pensamentos   diretamente   para   outras   
+pessoas  por  meio  da  magia,  do  psiquis
+-
+mo  ou  de  outros  métodos  exóticos  (seja  
+específico!). O alvo recebe os pensamen
+-
+tos  mesmo  se  não  tiver  essa  habilidade.  
+O alcance é teoricamente ilimitado, mas 
+o teste de IQ para utilizar a vantagem so
+-
+fre normalmente todas as penalidades de 
+distância apresentadas no quadro Modi
+-
+ficadores  de  Longa  Distância  (pág.  241).  
+Se não for capaz de ver nem sentir o alvo 
+—  de  alguma  maneira  —  o  personagem  
+sofre  uma  penalidade  adicional:  -1  para  
+familiares,  amantes  ou  amigos  íntimos;  
+-3  para  colegas  e  conhecidos;  e  -5  para  
+alguém com quem ele conversou apenas 
+durante um breve momento. 30 pontos.
+Rádio:  O  personagem  se  comunica  
+por  meio  de  ondas  de  rádio.  O  alcance  
+básico é de 15 km em uma linha de vi
+-
+são direta. O sinal é onidirecional, mas 
+uma  vez  que  o  personagem  é  capaz  de  
+alterar  a  frequência,  os  espiões  pre
+-
+cisam  de  um  sucesso  em  um  teste  de  
+Operação de Aparelhos Eletrônicos (Co
+-
+municações)  para  ouvirem  o  conteúdo  
+da  mensagem.  Um  benefício  colateral  
+desta  habilidade  é  o  fato  de  o  persona
+-
+gem ser capaz de receber sinais comuns 
+de  rádio  AM,  FM  e  Faixa  do  Cidadão  
+com  um  sucesso  num  teste  de  IQ  (leva  
+um segundo). Observe que o “ruído” de 
+radiofrequência  provocado  por  relâm
+-
+pagos  e  equipamentos  eletrônicos  não-
+-blindados podem interferir na comuni-
+cação por Rádio. Esta vantagem nunca 
+funciona debaixo d’água: 10 pontos.
+Ampliações Especiais
+Ondas  Curtas:  Esta  ampliação  está  
+disponível  apenas  para  Rádio.  O  perso
+-
+nagem consegue fazer o sinal ultrapassar 
+a  ionosfera  (se  houver)  de  um  planeta.  
+Isso permite que ele transmita (ou rece
